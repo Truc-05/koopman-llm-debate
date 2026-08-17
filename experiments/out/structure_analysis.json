@@ -1,0 +1,374 @@
+{
+ "arc_gemma2_9b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 0.0001558455181316988,
+    "max_eig": 382.5352715549558,
+    "log10_cond": 6.38997716815749
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 4.502407954579384e-06,
+    "max_eig": 1.4650653787009773,
+    "log10_cond": 5.512412162520499
+   }
+  },
+  "spectral_radius": 1.0000601623099035,
+  "top_eig_mag": [
+   1.0000601623099035,
+   0.9809357235063659,
+   0.9774643647289349
+  ]
+ },
+ "arc_llama3_1_8b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 2.5408490548287783e-05,
+    "max_eig": 184.42350964125893,
+    "log10_cond": 6.860837417012892
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 2.1414898246647693e-06,
+    "max_eig": 0.5228858963306998,
+    "log10_cond": 5.387690912694329
+   }
+  },
+  "spectral_radius": 0.7001334257687326,
+  "top_eig_mag": [
+   0.7001334257687326,
+   0.6355324613572689,
+   0.6355324613572689
+  ]
+ },
+ "arc_mistral_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 2.213259821543015e-05,
+    "max_eig": 232.86843201307454,
+    "log10_cond": 7.022078218809056
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 3.193773743408746e-07,
+    "max_eig": 1.0440925482055365,
+    "log10_cond": 6.514434850012021
+   }
+  },
+  "spectral_radius": 0.7053574324662764,
+  "top_eig_mag": [
+   0.7053574324662764,
+   0.7053574324662764,
+   0.597732187077089
+  ]
+ },
+ "math_gemma2_9b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 0.000355394790856336,
+    "max_eig": 861.5095227318775,
+    "log10_cond": 6.384549024390602
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 2.1598241532451282e-05,
+    "max_eig": 1.5747306301736308,
+    "log10_cond": 4.862787881490538
+   }
+  },
+  "spectral_radius": 0.9792092417795565,
+  "top_eig_mag": [
+   0.9792092417795565,
+   0.9544234131440076,
+   0.8821139965790754
+  ]
+ },
+ "math_llama3_1_8b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00013950383868967313,
+    "max_eig": 236.02092446370858,
+    "log10_cond": 6.228364348968248
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 9.599221891228298e-07,
+    "max_eig": 0.402343320502115,
+    "log10_cond": 5.6223607650445455
+   }
+  },
+  "spectral_radius": 0.6145819145778568,
+  "top_eig_mag": [
+   0.6145819145778568,
+   0.6145819145778568,
+   0.5047219133658524
+  ]
+ },
+ "math_mistral_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 2.4111602883794757e-05,
+    "max_eig": 244.2032836457268,
+    "log10_cond": 7.005525417095435
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 1.983114711267467e-05,
+    "max_eig": 0.7759232119561915,
+    "log10_cond": 4.592470907843691
+   }
+  },
+  "spectral_radius": 0.6950481276853744,
+  "top_eig_mag": [
+   0.6950481276853744,
+   0.6305391077022033,
+   0.6305391077022033
+  ]
+ },
+ "mmlu_clean6_gemma2_9b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00010047084399582362,
+    "max_eig": 249.76963466502076,
+    "log10_cond": 6.395499588081136
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 3.1323359687287826e-06,
+    "max_eig": 1.5512265698323071,
+    "log10_cond": 5.6948068973187045
+   }
+  },
+  "spectral_radius": 0.9863963002504837,
+  "top_eig_mag": [
+   0.9863963002504837,
+   0.9816631012401404,
+   0.9816631012401404
+  ]
+ },
+ "mmlu_clean6_llama3_1_8b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 3.956204888589019e-05,
+    "max_eig": 90.24273390622311,
+    "log10_cond": 6.358133468541716
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 3.7019281536189467e-07,
+    "max_eig": 0.5304995024864972,
+    "log10_cond": 6.156256995160605
+   }
+  },
+  "spectral_radius": 0.6603021061045526,
+  "top_eig_mag": [
+   0.6603021061045526,
+   0.6603021061045526,
+   0.5690960295122208
+  ]
+ },
+ "mmlu_clean6_mistral_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 2.6903463850973646e-05,
+    "max_eig": 171.88325282194577,
+    "log10_cond": 6.805425364438134
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 2.9089520588004303e-05,
+    "max_eig": 1.2640094708313583,
+    "log10_cond": 4.638013764108854
+   }
+  },
+  "spectral_radius": 0.7664921857114954,
+  "top_eig_mag": [
+   0.7664921857114954,
+   0.6856709760335342,
+   0.5490230293616201
+  ]
+ },
+ "truthfulqa_gemma2_9b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00014179669684562883,
+    "max_eig": 257.6545115058385,
+    "log10_cond": 6.259371637244534
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 7.084651089884483e-05,
+    "max_eig": 1.2040283609922013,
+    "log10_cond": 4.230318250230794
+   }
+  },
+  "spectral_radius": 0.9630798368504988,
+  "top_eig_mag": [
+   0.9630798368504988,
+   0.9302145991386037,
+   0.8928858537104499
+  ]
+ },
+ "truthfulqa_llama3_1_8b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00018828031712983013,
+    "max_eig": 94.73767535284091,
+    "log10_cond": 5.701717802784692
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 8.09832465100292e-07,
+    "max_eig": 0.58676952775383,
+    "log10_cond": 5.86007236881258
+   }
+  },
+  "spectral_radius": 0.7869066739383017,
+  "top_eig_mag": [
+   0.7869066739383017,
+   0.7869066739383017,
+   0.6998560249587281
+  ]
+ },
+ "truthfulqa_mistral_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 6.37900286529248e-05,
+    "max_eig": 268.3309501653548,
+    "log10_cond": 6.623917971275517
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 6.61256846487508e-06,
+    "max_eig": 1.1937425250360894,
+    "log10_cond": 5.256540483497231
+   }
+  },
+  "spectral_radius": 0.7375317459483524,
+  "top_eig_mag": [
+   0.7375317459483524,
+   0.7167893103449614,
+   0.6823213198718233
+  ]
+ }
+}

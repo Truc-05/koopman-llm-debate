@@ -1,0 +1,160 @@
+===== control arc_llama3_1_8b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=arc_llama3_1_8b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.700  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.700, 0.636, 0.636, 0.445, 0.416
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=1.98e-05  λmax=1.84e+02  eccentricity(cond)=9.3e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.97  x1=0.91  x2=0.67  x3=0.25   ⇒ controllability index (TB) = 0.70  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=5.25  x1=4.83  x2=9.20  x3=7.80
+    reach[x]:        x0=0.97  x1=0.91  x2=0.67  x3=0.25
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control arc_gemma2_9b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=arc_gemma2_9b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=1.000  (15/16 trong đĩa đơn vị)  ⇒ CÓ mode nổ — cần reg/svd-rank
+    top-5 |λ|: 1.000, 0.981, 0.977, 0.762, 0.667
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=5.97e-05  λmax=3.82e+02  eccentricity(cond)=6.4e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.75  x1=0.77  x2=0.96  x3=0.47   ⇒ controllability index (TB) = 0.74  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=11.98  x1=6.88  x2=6.87  x3=9.18
+    reach[x]:        x0=0.75  x1=0.77  x2=0.96  x3=0.47
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control math_llama3_1_8b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=math_llama3_1_8b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.615  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.615, 0.615, 0.505, 0.505, 0.449
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=1.29e-04  λmax=2.36e+02  eccentricity(cond)=1.8e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.84  x1=0.94  x2=0.25  x3=0.10   ⇒ controllability index (TB) = 0.53  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=9.43  x1=8.01  x2=8.75  x3=6.67
+    reach[x]:        x0=0.84  x1=0.94  x2=0.25  x3=0.10
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control math_gemma2_9b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=math_gemma2_9b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.979  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.979, 0.954, 0.882, 0.654, 0.524
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=2.08e-04  λmax=8.60e+02  eccentricity(cond)=4.1e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.57  x1=0.98  x2=0.80  x3=0.61   ⇒ controllability index (TB) = 0.74  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=17.12  x1=11.33  x2=13.06  x3=8.83
+    reach[x]:        x0=0.57  x1=0.98  x2=0.80  x3=0.61
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control mmlu_clean6_llama3_1_8b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=mmlu_clean6_llama3_1_8b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.660  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.660, 0.660, 0.569, 0.492, 0.492
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=3.54e-05  λmax=9.02e+01  eccentricity(cond)=2.5e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.95  x1=0.90  x2=0.46  x3=0.33   ⇒ controllability index (TB) = 0.66  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=7.89  x1=4.85  x2=7.04  x3=5.19
+    reach[x]:        x0=0.95  x1=0.90  x2=0.46  x3=0.33
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control mmlu_clean6_gemma2_9b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=mmlu_clean6_gemma2_9b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.986  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.986, 0.982, 0.982, 0.638, 0.603
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=3.06e-05  λmax=2.49e+02  eccentricity(cond)=8.1e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.73  x1=0.79  x2=0.78  x3=0.19   ⇒ controllability index (TB) = 0.62  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=8.27  x1=8.26  x2=6.17  x3=8.74
+    reach[x]:        x0=0.73  x1=0.79  x2=0.78  x3=0.19
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control truthfulqa_llama3_1_8b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=truthfulqa_llama3_1_8b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.787  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.787, 0.787, 0.700, 0.543, 0.531
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=1.26e-04  λmax=9.46e+01  eccentricity(cond)=7.5e+05  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.92  x1=0.92  x2=0.44  x3=0.64   ⇒ controllability index (TB) = 0.73  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=4.55  x1=4.05  x2=5.88  x3=5.89
+    reach[x]:        x0=0.92  x1=0.92  x2=0.44  x3=0.64
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.
+===== control truthfulqa_gemma2_9b =====
+
+===== CONTROL ANALYSIS of identified (A,B)  (tag=truthfulqa_gemma2_9b, dim=16, n_snap=360) =====
+
+[1] SPECTRUM  |λ|max=0.963  (16/16 trong đĩa đơn vị)  ⇒ ỔN ĐỊNH (không nổ)
+    top-5 |λ|: 0.963, 0.930, 0.893, 0.733, 0.670
+
+[2] CONTROLLABILITY  rank(𝒞)=16/16  ⇒ ĐỦ HẠNG (điều-khiển-được hoàn toàn)
+    Gramian W_c (horizon 6): λmin=6.44e-05  λmax=2.56e+02  eccentricity(cond)=4.0e+06  ⇒ ANISOTROPIC mạnh — vài hướng gần UNcontrollable (λmin≪λmax)
+
+[3] REACHABILITY  belief[x] đạt được khi đẩy target x (từ uniform, 6 vòng):
+    x0=0.60  x1=0.89  x2=0.77  x3=0.63   ⇒ controllability index (TB) = 0.73  (gần 1 = mọi đáp án ép được)
+
+[4] DIAGNOSTIC x-thấp = thật hay artifact?
+    defense c count: c-1=9  c0=14  c1=13  c2=8  c3=16
+    ‖B[:,x]‖:        x0=9.08  x1=6.26  x2=6.11  x3=7.22
+    reach[x]:        x0=0.60  x1=0.89  x2=0.77  x3=0.63
+    ⇒ count thấp/‖B‖ nhỏ mà reach thấp = ARTIFACT nhận dạng (thu thêm/cân bằng c); count đủ mà vẫn thấp = positional-bias THẬT của model.
+
+[note] Model-based controller (twin-MPC dùng chính (A,B)) đã đo: acc 0.49 vs oracle 0.60 ⇒ (A,B) đủ để THIẾT KẾ controller, closed-loop dưới oracle = open control-design.

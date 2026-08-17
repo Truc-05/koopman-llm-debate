@@ -1,0 +1,369 @@
+nohup: ignoring input
+== mmlu_40_r5: 40 topics x 5 repeats = 200 debates, 4 agents x 6 rounds, model=llm
+RESUME: đã có 22/200 debates trong /home/alex/venvs/trucn/koopman-debate/experiments/out/ckpt_mmlu_40_r5.jsonl
+--- [23/200] A truck and a car collided at an intersection. Both drivers were injur
+    final belief = [0.188 0.312 0.    0.5  ] -> ĐÚNG (a*=3)
+--- [24/200] A state passed a statute stating that it will pay for one-half of the 
+    final belief = [0.3   0.262 0.275 0.162] -> SAI (a*=1)
+--- [25/200] A man committed a series of heinous crimes, including a kidnapping, th
+    final belief = [1. 0. 0. 0.] -> SAI (a*=1)
+--- [26/200] A defendant was arrested and charged with burglarizing a pharmacy. The
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [27/200] A man and a brother were identical twins. The man was having an affair
+    final belief = [0.   0.75 0.   0.25] -> SAI (a*=2)
+--- [28/200] A retailer agreed to purchase an orchard's total cherry production for
+    final belief = [0.  0.  0.5 0.5] -> ĐÚNG (a*=2)
+--- [29/200] A man was visiting his friend at the friend's cabin. The man decided t
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [30/200] A girlfriend lived with her boyfriend in a small apartment. The boyfri
+    final belief = [0.975 0.025 0.    0.   ] -> ĐÚNG (a*=0)
+--- [31/200] A bank loaned a company $1,500,000 for the manufacture of a widget con
+    final belief = [0.5 0.  0.  0.5] -> SAI (a*=1)
+--- [32/200] A truck driver was making deliveries for his employer. After telling h
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [33/200] Pete Smith is the active partner and Bill Jones is the silent partner 
+    final belief = [0.5 0.  0.  0.5] -> SAI (a*=3)
+--- [34/200] A large man with menacing tattoos all over his face and bald head foll
+    final belief = [0.013 0.949 0.    0.038] -> ĐÚNG (a*=1)
+--- [35/200] Liang, a talented student from another country, received degrees from 
+    final belief = [0.075 0.862 0.    0.063] -> SAI (a*=0)
+--- [36/200] As a legislative aide to a U. S. Senator you are called upon to provid
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [37/200] A mail carrier was on a homeowner's premises delivering the mail when 
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=3)
+--- [38/200] A homeowner entered into a written contract with a house painter to ha
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [39/200] A city imposes a municipal excise tax of $200 per year on commercial p
+    final belief = [0.   0.25 0.   0.75] -> SAI (a*=1)
+--- [40/200] A plaintiff sued the insurer of her home after the insurer denied cove
+    final belief = [0.8 0.2 0.  0. ] -> SAI (a*=2)
+--- [41/200] It was raining hard one evening as a cab driver was looking for one la
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=1)
+--- [42/200] Two college students were members of the same fraternity. During a fra
+    final belief = [0.05  0.025 0.9   0.025] -> SAI (a*=0)
+--- [43/200] A landowner owned a 10-acre tract of land, in fee simple. The tract wa
+    final belief = [0.5 0.  0.  0.5] -> ĐÚNG (a*=0)
+--- [44/200] A man, his brother and his friend all discuss murdering the man's neig
+    final belief = [0.  0.5 0.  0.5] -> SAI (a*=3)
+--- [45/200] A restaurant building was expanded into a vacant lot north of its orig
+    final belief = [0.25 0.75 0.   0.  ] -> ĐÚNG (a*=1)
+--- [46/200] A defendant and a classmate were students at a state college. They wer
+    final belief = [0.5 0.  0.  0.5] -> SAI (a*=3)
+--- [47/200] Under Article III, federal judicial power extends to which of the foll
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [48/200] Two women decided to steal some clothing from their favorite store. On
+    final belief = [0.89  0.055 0.042 0.013] -> SAI (a*=3)
+--- [49/200] A man is the owner of record of a parcel of land designated as "A. " I
+    final belief = [0.05 0.2  0.7  0.05] -> ĐÚNG (a*=2)
+--- [50/200] A baseball card dealer agreed to sell an extremely rare card to a coll
+    final belief = [0.75 0.   0.   0.25] -> ĐÚNG (a*=0)
+--- [51/200] In 1993, a landowner had good record title toa vineyard in fee simple 
+    final belief = [0.25 0.   0.   0.75] -> SAI (a*=0)
+--- [52/200] A man needed to have the oil changed on his car. On Friday, he decided
+    final belief = [0.6 0.2 0.1 0.1] -> SAI (a*=2)
+--- [53/200] One night, a victim was in her home when she heard the doorbell ring. 
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [54/200] A defendant had an argument with his neighbor. As they were quarreling
+    final belief = [0. 0. 1. 0.] -> ĐÚNG (a*=2)
+--- [55/200] A buyer purchased a shovel at a local hardware store. The shovel had a
+    final belief = [0. 1. 0. 0.] -> SAI (a*=2)
+--- [56/200] A woman from State A filed an action against a retailer in a state cou
+    final belief = [0. 0. 0. 1.] -> SAI (a*=1)
+--- [57/200] The buyer asked a manufacturer to make him 100,000 widgets for $1,000,
+    final belief = [0.   0.75 0.   0.25] -> SAI (a*=0)
+--- [58/200] A county owns a large expanse of land next to the ocean. Four years ag
+    final belief = [0.737 0.25  0.    0.013] -> ĐÚNG (a*=0)
+--- [59/200] A man died in 1985. His will devised his estate in a Midwestern state 
+    final belief = [0.75  0.125 0.075 0.05 ] -> SAI (a*=2)
+--- [60/200] A state has recently enacted a statute requiring all prospective voter
+    final belief = [0.  0.8 0.  0.2] -> SAI (a*=3)
+--- [61/200] A newspaper printed an article stating that a local doctor was afflict
+    final belief = [0.6 0.4 0.  0. ] -> SAI (a*=2)
+--- [62/200] A man, a woman, and their son went to their neighbor's house. The man 
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [63/200] A truck and a car collided at an intersection. Both drivers were injur
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [64/200] A state passed a statute stating that it will pay for one-half of the 
+    final belief = [0.325 0.3   0.175 0.2  ] -> ĐÚNG (a*=0)
+--- [65/200] A man committed a series of heinous crimes, including a kidnapping, th
+    final belief = [0.5 0.5 0.  0. ] -> SAI (a*=1)
+--- [66/200] A defendant was arrested and charged with burglarizing a pharmacy. The
+    final belief = [1. 0. 0. 0.] -> SAI (a*=2)
+--- [67/200] A man and a brother were identical twins. The man was having an affair
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [68/200] A retailer agreed to purchase an orchard's total cherry production for
+    final belief = [0. 0. 0. 1.] -> ĐÚNG (a*=3)
+--- [69/200] A man was visiting his friend at the friend's cabin. The man decided t
+    final belief = [0.  0.  0.5 0.5] -> SAI (a*=0)
+--- [70/200] A girlfriend lived with her boyfriend in a small apartment. The boyfri
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [71/200] A bank loaned a company $1,500,000 for the manufacture of a widget con
+    final belief = [0.5 0.  0.  0.5] -> SAI (a*=1)
+--- [72/200] A truck driver was making deliveries for his employer. After telling h
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [73/200] Pete Smith is the active partner and Bill Jones is the silent partner 
+    final belief = [0.35 0.35 0.2  0.1 ] -> ĐÚNG (a*=1)
+--- [74/200] A large man with menacing tattoos all over his face and bald head foll
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=1)
+--- [75/200] Liang, a talented student from another country, received degrees f    final belief = [0.75 0.25 0.   0.  ] -> ĐÚNG (a*=0)
+--- [80/200] A plaintiff sued the insurer of her home after the insurer denied cove
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [81/200] It was raining hard one evening as a cab driver was looking for one la
+    final belief = [0.75 0.   0.25 0.  ] -> SAI (a*=2)
+--- [82/200] Two college students were members of the same fraternity. During a fra
+    final belief = [0.6 0.2 0.1 0.1] -> ĐÚNG (a*=0)
+--- [83/200] A landowner owned a 10-acre tract of land, in fee simple. The tract wa
+    final belief = [0.    0.    0.625 0.375] -> SAI (a*=3)
+--- [84/200] A man, his brother and his friend all discuss murdering the man's neig
+    final belief = [0.    0.167 0.    0.833] -> SAI (a*=0)
+--- [85/200] A restaurant building was expanded into a vacant lot
+    final belief = [0.925 0.    0.    0.075] -> SAI (a*=2)
+--- [82/200] Two college students were members of the same fraternity. During a fra
+    final belief = [0.75 0.   0.   0.25] -> ĐÚNG (a*=0)
+--- [83/200] A landowner owned a 10-acre tract of land, in fee simple. The tract wa
+    final belief = [0.  0.  0.5 0.5] -> SAI (a*=3)
+--- [84/200] A man, his brother and his friend all discuss murdering the man's neig
+    final belief = [0.    0.088 0.912 0.   ] -> SAI (a*=0)
+--- [85/200] A restaurant building was expanded into a vacant lot north of its orig
+    final belief = [0. 0. 0. 1.] -> ĐÚNG (a*=3)
+--- [86/200] A defendant and a classmate were students at a state college. They wer
+    final belief = [0.875 0.    0.    0.125] -> SAI (a*=3)
+--- [87/200] Under Article III, federal judicial power extends to which of the foll
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [88/200] Two women decided to steal some clothing from their favorite store. On
+    final belief = [0.1  0.15 0.15 0.6 ] -> SAI (a*=0)
+--- [89/200] A man is the owner of record of a parcel of land designated as "A. " I
+    final belief = [0.175 0.6   0.225 0.   ] -> ĐÚNG (a*=1)
+--- [90/200] A baseball card dealer agreed to sell an extremely rare card to a coll
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [91/200] In 1993, a landowner had good record title toa vineyard in fee simple 
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=1)
+--- [92/200] A man needed to have the oil changed on his car. On Friday, he decided
+    final belief = [0.   0.25 0.75 0.  ] -> ĐÚNG (a*=2)
+--- [93/200] One night, a victim was in her home when she heard the doorbell ring. 
+    final belief = [1. 0. 0. 0.] -> SAI (a*=3)
+--- [94/200] A defendant had an argument with his neighbor. As they were quarreling
+    final belief = [0.1   0.075 0.825 0.   ] -> ĐÚNG (a*=2)
+--- [95/200] A buyer purchased a shovel at a local hardware store. The shovel had a
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [96/200] A woman from State A filed an action against a retailer in a state cou
+    final belief = [0. 0. 0. 1.] -> SAI (a*=1)
+--- [97/200] The buyer asked a manufacturer to make him 100,000 widgets for $1,000,
+    final belief = [0.55  0.237 0.213 0.   ] -> ĐÚNG (a*=0)
+--- [98/200] A county owns a large expanse of land next to the ocean. Four years ag
+    final belief = [0.5 0.  0.  0.5] -> SAI (a*=3)
+--- [99/200] A man died in 1985. His will devised his estate in a Midwestern state 
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [100/200] A state has recently enacted a statute requiring all prospective voter
+    final belief = [0. 0. 0. 1.] -> SAI (a*=2)
+--- [101/200] A newspaper printed an article stating that a local doctor was afflict
+    final belief = [0.75 0.25 0.   0.  ] -> ĐÚNG (a*=0)
+--- [102/200] A man, a woman, and their son went to their neighbor's house. The man 
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [103/200] A truck and a car collided at an intersection. Both drivers were injur
+    final belief = [0.125 0.    0.5   0.375] -> SAI (a*=1)
+--- [104/200] A state passed a statute stating that it will pay for one-half of the 
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=1)
+--- [105/200] A man committed a series of heinous crimes, including a kidnapping, th
+    final belief = [0.25 0.   0.   0.75] -> SAI (a*=2)
+--- [106/200] A defendant was arrested and charged with burglarizing a pharmacy. The
+    final belief = [0. 1. 0. 0.] -> SAI (a*=3)
+--- [107/200] A man and a brother were identical twins. The man was having an affair
+    final belief = [0.   0.   0.75 0.25] -> SAI (a*=1)
+--- [108/200] A retailer agreed to purchase an orchard's total cherry production for
+    final belief = [0.1   0.225 0.625 0.05 ] -> ĐÚNG (a*=2)
+--- [109/200] A man was visiting his friend at the friend's cabin. The man decided t
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=1)
+--- [110/200] A girlfriend lived with her boyfriend in a small apartment. The boyfri
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [111/200] A bank loaned a company $1,500,000 for the manufacture of a widget con
+    final belief = [0.75 0.25 0.   0.  ] -> SAI (a*=2)
+--- [112/200] A truck driver was making deliveries for his employer. After telling h
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=3)
+--- [113/200] Pete Smith is the active partner and Bill Jones is the silent partner 
+    final belief = [0.7  0.2  0.05 0.05] -> ĐÚNG (a*=0)
+--- [114/200] A large man with menacing tattoos all over his face and bald head foll
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [115/200] Liang, a talented student from another country, received degrees from 
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [116/200] As a legislative aide to a U. S. Senator you are called upon to provid
+    final belief = [0.825 0.09  0.06  0.025] -> SAI (a*=2)
+--- [117/200] A mail carrier was on a homeowner's premises delivering the mail when 
+    final belief = [0.65 0.2  0.1  0.05] -> ĐÚNG (a*=0)
+--- [118/200] A homeowner entered into a written contract with a house painter to ha
+    final belief = [0. 1. 0. 0.] -> SAI (a*=2)
+--- [119/200] A city imposes a municipal excise tax of $200 per year on commercial p
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [120/200] A plaintiff sued the insurer of her home after the insurer denied cove
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [121/200] It was raining hard one evening as a cab driver was looking for one la
+    final belief = [0.612 0.063 0.063 0.262] -> SAI (a*=2)
+--- [122/200] Two college students were members of the same fraternity. During a fra
+    final belief = [0.    0.075 0.85  0.075] -> SAI (a*=0)
+--- [123/200] A landowner owned a 10-acre tract of land, in fee simple. The tract wa
+    final belief = [0.25 0.   0.   0.75] -> SAI (a*=0)
+--- [124/200] A man, his brother and his friend all discuss murdering the man's neig
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [125/200] A restaurant building was expanded into a vacant lot north of its orig
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [126/200] A defendant and a classmate were students at a state college. They wer
+    final belief = [0.375 0.    0.    0.625] -> ĐÚNG (a*=3)
+--- [127/200] Under Article III, federal judicial power extends to which of the foll
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [128/200] Two women decided to steal some clothing from their favorite store. On
+    final belief = [0.    0.038 0.425 0.537] -> SAI (a*=1)
+--- [129/200] A man is the owner of record of a parcel of land designated as "A. " I
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [130/200] A baseball card dealer agreed to sell an extremely rare card to a coll
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [131/200] In 1993, a landowner had good record title toa vineyard in fee simple 
+    final belief = [0. 1. 0. 0.] -> SAI (a*=3)
+--- [132/200] A man needed to have the oil changed on his car. On Friday, he decided
+    final belief = [0. 0. 1. 0.] -> ĐÚNG (a*=2)
+--- [133/200] One night, a victim was in her home when she heard the doorbell ring. 
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [134/200] A defendant had an argument with his neighbor. As they were quarreling
+    final belief = [0. 0. 1. 0.] -> ĐÚNG (a*=2)
+--- [135/200] A buyer purchased a shovel at a local hardware store. The shovel had a
+    final belief = [    final belief = [0. 0. 0. 1.] -> SAI (a*=0)
+--- [140/200] A state has recently enacted a statute requiring all prospective voter
+    final belief = [0. 1. 0. 0.] -> SAI (a*=3)
+--- [141/200] A newspaper printed an article stating that a local doctor was afflict
+    final belief = [0.225 0.5   0.175 0.1  ] -> SAI (a*=2)
+--- [142/200] A man, a woman, and their son went to their neighbor's house. The man 
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [143/200] A truck and a car collided at an intersection. Both drivers were injur
+    final belief = [0. 0. 1. 0.] -> ĐÚNG (a*=2)
+--- [144/200] A state passed a statute stating that it will pay for one-half of the 
+    final belief = [0.3  0
+--- [141/200] A newspaper printed an article stating that a local doctor was afflict
+    final belief = [0.4 0.3 0.3 0. ] -> SAI (a*=2)
+--- [142/200] A man, a woman, and their son went to their neighbor's house. The man 
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [143/200] A truck and a car collided at an intersection. Both drivers were injur
+    final belief = [0. 0. 0. 1.] -> SAI (a*=2)
+--- [144/200] A state passed a statute stating that it will pay for one-half of the 
+    final belief = [0.4  0.25 0.2  0.15] -> ĐÚNG (a*=0)
+--- [145/200] A man committed a series of heinous crimes, including a kidnapping, th
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=3)
+--- [146/200] A defendant was arrested and charged with burglarizing a pharmacy. The
+    final belief = [0.9  0.07 0.03 0.  ] -> ĐÚNG (a*=0)
+--- [147/200] A man and a brother were identical twins. The man was having an affair
+    final belief = [0.8   0.175 0.025 0.   ] -> SAI (a*=3)
+--- [148/200] A retailer agreed to purchase an orchard's total cherry production for
+    final belief = [0. 1. 0. 0.] -> SAI (a*=3)
+--- [149/200] A man was visiting his friend at the friend's cabin. The man decided t
+    final belief = [0.3   0.2   0.275 0.225] -> ĐÚNG (a*=0)
+--- [150/200] A girlfriend lived with her boyfriend in a small apartment. The boyfri
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [151/200] A bank loaned a company $1,500,000 for the manufacture of a widget con
+    final belief = [0.375 0.125 0.375 0.125] -> SAI (a*=3)
+--- [152/200] A truck driver was making deliveries for his employer. After telling h
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [153/200] Pete Smith is the active partner and Bill Jones is the silent partner 
+    final belief = [0.3   0.225 0.1   0.375] -> SAI (a*=2)
+--- [154/200] A large man with menacing tattoos all over his face and bald head foll
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [155/200] Liang, a talented student from another country, received degrees from 
+    final belief = [0.95 0.05 0.   0.  ] -> ĐÚNG (a*=0)
+--- [156/200] As a legislative aide to a U. S. Senator you are called upon to provid
+    final belief = [0.5 0.  0.  0.5] -> SAI (a*=2)
+--- [157/200] A mail carrier was on a homeowner's premises delivering the mail when 
+    final belief = [0.  0.7 0.3 0. ] -> SAI (a*=2)
+--- [158/200] A homeowner entered into a written contract with a house painter to ha
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [159/200] A city imposes a municipal excise tax of $200 per year on commercial p
+    final belief = [0.637 0.    0.287 0.075] -> SAI (a*=3)
+--- [160/200] A plaintiff sued the insurer of her home after the insurer denied cove
+    final belief = [0.562 0.375 0.    0.063] -> SAI (a*=3)
+--- [161/200] It was raining hard one evening as a cab driver was looking for one la
+    final belief = [1. 0. 0. 0.] -> SAI (a*=3)
+--- [162/200] Two college students were members of the same fraternity. During a fra
+    final belief = [0.025 0.725 0.15  0.1  ] -> ĐÚNG (a*=1)
+--- [163/200] A landowner owned a 10-acre tract of land, in fee simple. The tract wa
+    final belief = [0.75 0.   0.   0.25] -> ĐÚNG (a*=0)
+--- [164/200] A man, his brother and his friend all discuss murdering the man's neig
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [165/200] A restaurant building was expanded into a vacant lot north of its orig
+    final belief = [0.725 0.262 0.013 0.   ] -> ĐÚNG (a*=0)
+--- [166/200] A defendant and a classmate were students at a state college. They wer
+    final belief = [0. 0. 1. 0.] -> ĐÚNG (a*=2)
+--- [167/200] Under Article III, federal judicial power extends to which of the foll
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=3)
+--- [168/200] Two women decided to steal some clothing from their favorite store. On
+    final belief = [0.905 0.024 0.024 0.048] -> SAI (a*=2)
+--- [169/200] A man is the owner of record of a parcel of land designated as "A. " I
+    final belief = [0. 0. 0. 1.] -> SAI (a*=2)
+--- [170/200] A baseball card dealer agreed to sell an extremely rare card to a coll
+    final belief = [0.375 0.25  0.25  0.125] -> ĐÚNG (a*=0)
+--- [171/200] In 1993, a landowner had good record title toa vineyard in fee simple 
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [172/200] A man needed to have the oil changed on his car. On Friday, he decided
+    final belief = [0.8  0.1  0.05 0.05] -> ĐÚNG (a*=0)
+--- [173/200] One night, a victim was in her home when she heard the doorbell ring. 
+    final belief = [0.2  0.65 0.15 0.  ] -> ĐÚNG (a*=1)
+--- [174/200] A defendant had an argument with his neighbor. As they were quarreling
+    final belief = [0.   0.75 0.   0.25] -> ĐÚNG (a*=1)
+--- [175/200] A buyer purchased a shovel at a local hardware store. The shovel had a
+    final belief = [0.875 0.    0.05  0.075] -> SAI (a*=3)
+--- [176/200] A woman from State A filed an action against a retailer in a state cou
+    final belief = [0.25 0.25 0.25 0.25] -> ĐÚNG (a*=0)
+--- [177/200] The buyer asked a manufacturer to make him 100,000 widgets for $1,000,
+    final belief = [0.1 0.6 0.2 0.1] -> ĐÚNG (a*=1)
+--- [178/200] A county owns a large expanse of land next to the ocean. Four years ag
+    final belief = [1. 0. 0. 0.] -> ĐÚNG (a*=0)
+--- [179/200] A man died in 1985. His will devised his estate in a Midwestern state 
+    final belief = [0.025 0.975 0.    0.   ] -> SAI (a*=0)
+--- [180/200] A state has recently enacted a statute requiring all prospective voter
+    final belief = [0.5   0.375 0.062 0.062] -> SAI (a*=1)
+--- [181/200] A newspaper printed an article stating that a local doctor was afflict
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [182/200] A man, a woman, and their son went to their neighbor's house. The man 
+    final belief = [0.  0.7 0.3 0. ] -> SAI (a*=2)
+--- [183/200] A truck and a car collided at an intersection. Both drivers were injur
+    final belief = [0. 1. 0. 0.] -> ĐÚNG (a*=1)
+--- [184/200] A state passed a statute stating that it will pay for one-half of the 
+    final belief = [0.15 0.25 0.2  0.4 ] -> SAI (a*=2)
+--- [185/200] A man committed a series of heinous crimes, including a kidnapping, th
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=3)
+--- [186/200] A defendant was arrested and charged with burglarizing a pharmacy. The
+    final belief = [0. 1. 0. 0.] -> SAI (a*=0)
+--- [187/200] A man and a brother were identical twins. The man was having an affair
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=1)
+--- [188/200] A retailer agreed to purchase an orchard's total cherry production for
+    final belief = [0. 0. 1. 0.] -> ĐÚNG (a*=2)
+--- [189/200] A man was visiting his friend at the friend's cabin. The man decided t
+    final belief = [0.125 0.6   0.2   0.075] -> SAI (a*=0)
+--- [190/200] A girlfriend lived with her boyfriend in a small apartment. The boyfri
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=2)
+--- [191/200] A bank loaned a company $1,500,000 for the manufacture of a widget con
+    final belief = [0.   0.25 0.75 0.  ] -> SAI (a*=1)
+--- [192/200] A truck driver was making deliveries for his employer. After telling h
+    final belief = [0.25 0.25 0.25 0.25] -> SAI (a*=3)
+--- [193/200] Pete Smith is the active partner and Bill Jones is the silent partner 
+    final belief = [1. 0. 0. 0.] -> ĐÚNG (a*=0)
+--- [194/200] A large man with menacing tattoos all over his face and bald head foll
+    final     final belief = [0.5 0.5 0.  0. ] -> ĐÚNG (a*=0)
+--- [199/200] A city imposes a municipal excise tax of $200 per year on commercial p
+    final belief = [0.913 0.048 0.02  0.02 ] -> ĐÚNG (a*=0)
+--- [200/200] A plaintiff sued the insurer of her home after the insurer denied cove
+    final belief = [0.   0.75 0.25 0.  ] -> ĐÚNG (a*=1)
+
+saved -> /home/alex/venvs/trucn/koopman-debate/experiments/out/trajs_mmlu_40_r5.npz, transcripts_mmlu_40_r5.json
+debate accuracy = 0.405 (81/200)
+|lambda| top-5   = [1.     0.9432 0.9432 0.9118 0.9118]
+spectral gap     = 0.0568
+trị riêng tại 1  = 1 (Prop 1: >1 => nhiều lớp đồng thuận, không unique) | unique_consensus = True
+tau | debates ĐÚNG: 0.935 ± 0.068  (n=81)
+tau | debates SAI : 0.770 ± 0.212  (n=119)
+summary -> /home/alex/venvs/trucn/koopman-debate/experiments/out/results_mmlu_40_r5.json
+0. 1. 0. 0.] -> ĐÚNG (a*=1)
+
+saved -> /home/alex/venvs/trucn/koopman-debate/experiments/out/trajs_mmlu_40_r5.npz, transcripts_mmlu_40_r5.json
+debate accuracy = 0.405 (81/200)
+|lambda| top-5   = [1.     0.9616 0.9433 0.9042 0.9042]
+spectral gap     = 0.0384
+trị riêng tại 1  = 1 (Prop 1: >1 => nhiều lớp đồng thuận, không unique) | unique_consensus = True
+tau | debates ĐÚNG: 0.922 ± 0.086  (n=81)
+tau | debates SAI : 0.755 ± 0.217  (n=119)
+summary -> /home/alex/venvs/trucn/koopman-debate/experiments/out/results_mmlu_40_r5.json

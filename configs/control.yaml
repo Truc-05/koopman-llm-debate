@@ -1,0 +1,16 @@
+# Koopman-MPC / LQR / RL settings
+mpc:
+  horizon: 5
+  R: 1.0
+
+lqr:
+  q_scale: 1.0
+  r_scale: 1.0
+
+rl:
+  lr: 0.1
+  gamma: 0.9
+  epsilon: 0.1
+
+target:
+  confidence: 5.0       

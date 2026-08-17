@@ -1,0 +1,56 @@
+# Debate runtime — endpoint kiểu OpenAI, đổi provider chỉ cần sửa khối dưới.
+#
+# 1) Ollama local (free thật sự, không rate limit):
+#base_url: http://localhost:11434/v1/chat/completions
+#api_key_env: OLLAMA_FAKE_KEY   # ollama không cần key; script bỏ qua check localhost
+# llama3.2:3b-cpu = Llama 3.2 3B ép CPU (num_gpu 0) — 8b-cpu quá chậm với
+# mmlu_40 (call > 180s timeout). Khi GPU rảnh, đổi về `llama3.1:8b` (GPU).
+#model: llama3.2:3b-cpu
+#request_interval: 0.0
+#
+# 2) Modal vLLM (ĐANG DÙNG — $30 credit free/tháng — 8B/L40S ~$2 mỗi giờ warm, 70B/2xH100 ~$8):
+#    Deploy theo hướng dẫn đầu file experiments/modal_vllm.py, lấy URL nó in ra.
+#    Chạy probe_api.py trước cho server ấm (cold start vài phút) rồi mới chạy pipeline.
+#base_url: https://letruc3860--koopman-debate-vllm-server.us-east.modal.direct/v1/chat/completions
+#api_key_env: VLLM_API_KEY   # cùng chuỗi đã đặt khi `modal secret create vllm-api-key`
+#model: llm                  # alias --served-model-name, dùng chung cho cả 8B lẫn 70B
+#request_interval: 0.0
+#
+# 2b) OpenAI gpt-4o-mini (ĐANG DÙNG — ~$0.15/$0.60 per 1M in/out; rẻ ~10x Modal,
+#     data sạch, model thường nên KHÔNG dính bẫy reasoning/thinking). Cần export
+#     OPENAI_API_KEY. Nếu gặp 429 thì đặt request_interval ~1.0.
+#base_url: https://api.openai.com/v1/chat/completions
+#api_key_env: OPENAI_API_KEY
+#model: gpt-4o-mini
+#request_interval: 0.0
+#
+# 2c) Vertex AI — Llama 3.3 70B Instruct (MaaS, OpenAI-compatible). ĐIỀN PROJECT + REGION.
+#     Auth = OAuth token: export VERTEX_TOKEN=$(gcloud auth print-access-token)
+#     Token hết hạn ~1h -> run dài phải export lại + chạy lại (resume từ checkpoint).
+# 2d) DeepInfra — Llama 3.3 70B (drop-in, static key ~$0.2/1M): base_url api.deepinfra.com/v1/openai/chat/completions
+#     api_key_env DEEPINFRA_API_KEY, model meta-llama/Llama-3.3-70B-Instruct
+#
+# 2c) Vertex AI — Gemini 2.5 Flash Lite (ĐANG DÙNG — first-party Google -> quota CAO, không 429 như
+#     Llama MaaS; Flash-Lite mặc định TẮT thinking, không đội token). Auth OAuth tự mint (gcloud đã login).
+# Vertex AI — Llama 3.3 70B MaaS (single region us-central1; đã upgrade GG nên quota đủ, bỏ multi-region).
+# Token OAuth tự mint qua gcloud. 429 quay lại thì đặt request_interval ~0.5-1.
+# Vertex AI — endpoint openapi CHỈ nhận OAuth (API key bị từ chối). Dùng gcloud auto-mint token
+# (tiêu free credit, token tự refresh nên khỏi export tay). Endpoint global, quota cao sau upgrade.
+# Ollama local (GPU) — free thật, không rate limit/quota. Cần: ollama pull qwen2.5:7b
+# (localhost nên script bỏ qua check key; không dùng gcloud/api_key_cmd).
+base_url: http://localhost:11434/v1/chat/completions
+model: llama3.1:8b       
+request_interval: 0.0
+
+
+n_agents: 4
+n_rounds: 6             
+                       
+temperature: 0.7         
+max_tokens: 200          
+transcript_window: 4     
+retries: 5             
+timeout: 180        
+n_repeats: 5          
+shuffle_answers: true
+seed: 0

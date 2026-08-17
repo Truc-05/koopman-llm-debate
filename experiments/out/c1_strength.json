@@ -1,0 +1,50 @@
+{
+ "arc_gemma2_9b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "arc_llama3_1_8b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "arc_mistral_7b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "math_gemma2_9b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "math_llama3_1_8b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "math_mistral_7b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "mmlu_clean6_gemma2_9b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "mmlu_clean6_llama3_1_8b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "mmlu_clean6_mistral_7b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "truthfulqa_gemma2_9b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "truthfulqa_llama3_1_8b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "truthfulqa_mistral_7b": {
+  "n": 90,
+  "Kans": 4
+ }
+}

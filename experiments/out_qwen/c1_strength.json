@@ -1,0 +1,30 @@
+{
+ "arc_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "bbh_logic5_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 5
+ },
+ "bbh_logic7_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 7
+ },
+ "commonsense_qa_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 5
+ },
+ "math_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "mmlu_clean6_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 4
+ },
+ "truthfulqa_qwen2_5_7b": {
+  "n": 90,
+  "Kans": 4
+ }
+}

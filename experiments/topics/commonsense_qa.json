@@ -1,0 +1,2202 @@
+[
+ {
+  "question": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?",
+  "answers": [
+   "bank",
+   "library",
+   "department store",
+   "mall",
+   "new york"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What do people aim to do at work?",
+  "answers": [
+   "complete job",
+   "learn from each other",
+   "kill animals",
+   "wear hats",
+   "talk to each other"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Where would you find magazines along side many other printed works?",
+  "answers": [
+   "doctor",
+   "bookstore",
+   "market",
+   "train station",
+   "mortuary"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where are  you likely to find a hamburger?",
+  "answers": [
+   "fast food restaurant",
+   "pizza",
+   "ground up dead cows",
+   "mouth",
+   "cow carcus"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "James was looking for a good place to buy farmland.  Where might he look?",
+  "answers": [
+   "midwest",
+   "countryside",
+   "estate",
+   "farming areas",
+   "illinois"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What island country is ferret popular?",
+  "answers": [
+   "own home",
+   "north carolina",
+   "great britain",
+   "hutch",
+   "outdoors"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "In what Spanish speaking North American country can you get a great cup of coffee?",
+  "answers": [
+   "mildred's coffee shop",
+   "mexico",
+   "diner",
+   "kitchen",
+   "canteen"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What do animals do when an enemy is approaching?",
+  "answers": [
+   "feel pleasure",
+   "procreate",
+   "pass water",
+   "listen to each other",
+   "sing"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Reading newspaper one of many ways to practice your what?",
+  "answers": [
+   "literacy",
+   "knowing how to read",
+   "money",
+   "buying",
+   "money bank"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What do people typically do while playing guitar?",
+  "answers": [
+   "cry",
+   "hear sounds",
+   "singing",
+   "arthritis",
+   "making music"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "What would vinyl be an odd thing to replace?",
+  "answers": [
+   "pants",
+   "record albums",
+   "record store",
+   "cheese",
+   "wallpaper"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "If you want harmony, what is something you should try to do with the world?",
+  "answers": [
+   "take time",
+   "make noise",
+   "make war",
+   "make peace",
+   "make haste"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Where does a heifer's master live?",
+  "answers": [
+   "farm house",
+   "barnyard",
+   "stockyard",
+   "slaughter house",
+   "eat cake"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Aside from water and nourishment what does your dog need?",
+  "answers": [
+   "bone",
+   "charm",
+   "petted",
+   "lots of attention",
+   "walked"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Janet was watching the film because she liked what?",
+  "answers": [
+   "erection",
+   "laughter",
+   "being entertained",
+   "fear",
+   "bordem"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "What are you waiting alongside with when you're in a reception area?",
+  "answers": [
+   "motel",
+   "chair",
+   "hospital",
+   "people",
+   "hotels"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "When drinking booze what can you do to stay busy?",
+  "answers": [
+   "reach tentative agreement",
+   "stay in bed",
+   "stop bicycle",
+   "examine thing",
+   "suicide"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "A fencing thrust with a sharp sword towards a person would result in what?",
+  "answers": [
+   "injury",
+   "small cuts",
+   "fever",
+   "competition",
+   "puncture wound"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Unlike a spider and his many sight seers, people only have what?",
+  "answers": [
+   "tongues",
+   "names",
+   "brains",
+   "feelings",
+   "two eyes"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where do adults use glue sticks?",
+  "answers": [
+   "classroom",
+   "desk drawer",
+   "at school",
+   "office",
+   "kitchen drawer"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What could go on top of wood?",
+  "answers": [
+   "lumberyard",
+   "synagogue",
+   "floor",
+   "carpet",
+   "hardware store"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The artist was sitting quietly pondering, then suddenly he began to paint when what struck him?",
+  "answers": [
+   "sadness",
+   "anxiety",
+   "inspiration",
+   "discomfort",
+   "insights"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?",
+  "answers": [
+   "indestructible",
+   "durable",
+   "undestroyable",
+   "indestructible",
+   "unbreakable"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Where could you find a toilet that only friends can use?",
+  "answers": [
+   "rest area",
+   "school",
+   "stadium",
+   "apartment",
+   "hospital"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What is someone who isn't clever, bright, or competent called?",
+  "answers": [
+   "clumsy",
+   "ineffectual",
+   "dull",
+   "clumsy",
+   "stupid"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "When wildlife reproduce we often refer to what comes out as what?",
+  "answers": [
+   "raise children",
+   "have children",
+   "photo copy",
+   "offspring",
+   "accidently got pregnant somehow"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?",
+  "answers": [
+   "forrest",
+   "barn",
+   "public office",
+   "out of doors",
+   "freezer"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Blue read material outside of his comfort zone because he wanted to gain what?",
+  "answers": [
+   "new perspective",
+   "entertained",
+   "understanding",
+   "hunger",
+   "tired eyes"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "After he got hired he hoped for success at his what?",
+  "answers": [
+   "vocation",
+   "new job",
+   "michigan",
+   "working hard",
+   "manual"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Committing perjury is a serious what?",
+  "answers": [
+   "indictment",
+   "crime",
+   "violence",
+   "lie",
+   "go to jail"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "If you are prone to postpone work what will you have to do in order to finish on time?",
+  "answers": [
+   "eat",
+   "hasten",
+   "antedate",
+   "bring forward",
+   "advance"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "James wanted to find an old underground map from the 50s.  Where might he look for one?",
+  "answers": [
+   "library",
+   "subway station",
+   "county engineer's office",
+   "super market",
+   "home"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Sean was in a rush to get home, but the light turned yellow and he was forced to do what?",
+  "answers": [
+   "take time",
+   "dawdle",
+   "go slowly",
+   "ocean",
+   "slow down"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where would a person be doing when having to wait their turn?",
+  "answers": [
+   "have patience",
+   "get in line",
+   "sing",
+   "stand in line",
+   "turn left"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "She was always helping at the senior center, it brought her what?",
+  "answers": [
+   "satisfaction",
+   "heart",
+   "feel better",
+   "pay",
+   "happiness"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "The lock kept the steering wheel from moving, but the thief still took his chances and began to work on the what?",
+  "answers": [
+   "keep cloesd",
+   "train",
+   "ignition switch",
+   "drawer",
+   "firearm"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Who is a police officer likely to work for?",
+  "answers": [
+   "beat",
+   "direct traffic",
+   "city",
+   "street",
+   "president"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "If you have leftover cake, where would you put it?",
+  "answers": [
+   "quandry",
+   "refrigerator",
+   "oven",
+   "night stand",
+   "bakery"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "A human wants to submerge himself in water, what should he use?",
+  "answers": [
+   "whirlpool bath",
+   "coffee cup",
+   "cup",
+   "soft drink",
+   "puddle"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Where is a doormat likely to be in front of?",
+  "answers": [
+   "facade",
+   "front door",
+   "doorway",
+   "entrance porch",
+   "hallway"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Bob the lizard lives in a warm place with lots of water.  Where does he probably live?",
+  "answers": [
+   "rock",
+   "tropical rainforest",
+   "jazz club",
+   "new mexico",
+   "rocky places"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?",
+  "answers": [
+   "control people",
+   "pay bills",
+   "hurt people",
+   "buy food",
+   "get things"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "He needed more information to fix it, so he consulted the what?",
+  "answers": [
+   "chickens",
+   "google",
+   "newspaper",
+   "online",
+   "manual"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where can you put a picture frame when it's not hung vertically?",
+  "answers": [
+   "art show",
+   "wall",
+   "newspaper",
+   "car",
+   "table"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?",
+  "answers": [
+   "lose money",
+   "fun",
+   "have no money",
+   "broken law",
+   "relaxation"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What is the result of applying for  job?",
+  "answers": [
+   "anxiety and fear",
+   "increased workload",
+   "praise",
+   "less sleep",
+   "being employed"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What must someone do before they shop?",
+  "answers": [
+   "get money",
+   "have money",
+   "bring cash",
+   "go to market",
+   "bring cash"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?",
+  "answers": [
+   "music store",
+   "obesity",
+   "symphony orchestra",
+   "ochestra",
+   "violin case"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What is a place that usually does not have an elevator and that sometimes has a telephone book?",
+  "answers": [
+   "at hotel",
+   "kitchen",
+   "library",
+   "telephone booth",
+   "house"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Who is likely to be excited about a crab?",
+  "answers": [
+   "fish market",
+   "pet shop",
+   "fishmongers",
+   "intertidal zone",
+   "obesity"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Where can a human find clothes that aren't pants?",
+  "answers": [
+   "pants shop",
+   "on planet earth",
+   "dress shop",
+   "school",
+   "train wreck"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "If I was getting drunk, and people couldn't understand me, what might I be having?",
+  "answers": [
+   "a seizure",
+   "slurred speech",
+   "death",
+   "forgetfulness",
+   "pass out"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "When a person is beginning work, what are they building?",
+  "answers": [
+   "time",
+   "accomplishing",
+   "working",
+   "momentum",
+   "tiredness"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "A child wants to play, what would they likely want?",
+  "answers": [
+   "fall down",
+   "breathe",
+   "play tag",
+   "be dismembered by a chainsaw",
+   "become adult"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Talking to the same person about the same thing over and over again is something someone can what?",
+  "answers": [
+   "social life",
+   "friendship",
+   "eye contact",
+   "get tired of",
+   "learn lessons from"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The teacher doesn't tolerate noise during a test in their what?",
+  "answers": [
+   "movie theatre",
+   "bowling alley",
+   "factory",
+   "store",
+   "classroom"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "The freeway had no traffic and few buildings, where is it?",
+  "answers": [
+   "california",
+   "countryside",
+   "big town",
+   "florida",
+   "america"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where would you go if you wanted to have fun with a few people?",
+  "answers": [
+   "watching television",
+   "good",
+   "cinema",
+   "friend's house",
+   "fairgrounds"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "If there is a place that is hot and arid, what could it be?",
+  "answers": [
+   "bland",
+   "lifeless",
+   "sandy",
+   "neutral",
+   "freezing"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What is likely to satisfy someone's curiosity?",
+  "answers": [
+   "hear news",
+   "read book",
+   "see favorite show",
+   "comedy show",
+   "go somewhere"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "If you are in a bar in a glove shaped state where are you?",
+  "answers": [
+   "in my pocket",
+   "michigan",
+   "new york city",
+   "restaurant",
+   "public house"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where would a computer user be using their own computer?",
+  "answers": [
+   "hell",
+   "school",
+   "indoors",
+   "internet cafe",
+   "house"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Crabs live in what sort of environment?",
+  "answers": [
+   "maritime",
+   "bodies of water",
+   "saltwater",
+   "galapagos",
+   "fish market"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Where can you find a snake in tall grass?",
+  "answers": [
+   "tree",
+   "in a jar",
+   "pet shops",
+   "feild",
+   "tropical forest"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What is a place that has a bench nestled in trees?",
+  "answers": [
+   "state park",
+   "bus stop",
+   "bus depot",
+   "statue",
+   "train station"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Where is a human likely to go as a result of being hungry?",
+  "answers": [
+   "eat in restaurant",
+   "make bread",
+   "have lunch",
+   "cook dinner",
+   "friends house"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "He was beginning to regret taking the fight when he saw how what his opponent was?",
+  "answers": [
+   "fun",
+   "joy",
+   "satisfaction",
+   "confident",
+   "pride"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Where would you find a single shower curtain being used?",
+  "answers": [
+   "bathtub",
+   "washing area",
+   "hotel",
+   "shower stall",
+   "department store"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Where is a good idea but not required to have a fire extinguisher?",
+  "answers": [
+   "school bus",
+   "boat",
+   "house",
+   "hospital",
+   "school"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "What continent has the most castles?",
+  "answers": [
+   "fairy tale",
+   "edinburgh",
+   "germany",
+   "europe",
+   "antarctica"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "If you have to read a book that is very dry and long you may become what?",
+  "answers": [
+   "have time",
+   "boring",
+   "learn new",
+   "enjoyable",
+   "bored"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?",
+  "answers": [
+   "desk",
+   "windows 95",
+   "office supply store",
+   "see work",
+   "school"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "The kids didn't clean up after they had done what?",
+  "answers": [
+   "learn things",
+   "play games",
+   "disneyland",
+   "play with toys",
+   "talking"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Despite the name a pawn can be quite versatile, all the parts are important in a what?",
+  "answers": [
+   "chess game",
+   "scheme",
+   "chess set",
+   "checkers",
+   "north carolina"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What would not be true about a basketball if it had a hole in it but it did not lose its general shape?",
+  "answers": [
+   "punctured",
+   "popular in america",
+   "full of air",
+   "gone",
+   "round"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?",
+  "answers": [
+   "irritability",
+   "depression",
+   "getting out of bed",
+   "happiness",
+   "discomfort"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where does a wild bird usually live?",
+  "answers": [
+   "cage",
+   "sky",
+   "countryside",
+   "desert",
+   "windowsill"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Where would you expect to find white mice?",
+  "answers": [
+   "bell cat",
+   "bush",
+   "attic",
+   "countryside",
+   "laboratory"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "John felt that his actions were fate.   Harry said that he could have always made a different what?",
+  "answers": [
+   "free will",
+   "choice",
+   "will",
+   "alcohol",
+   "freedom"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What could committing murder prevent someone from doing?",
+  "answers": [
+   "go to jail",
+   "cry",
+   "find god",
+   "guilty conscience",
+   "problems"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?",
+  "answers": [
+   "michigan",
+   "walk",
+   "stay still",
+   "stink",
+   "hands"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "A crane uses many a steel cable when working a what?",
+  "answers": [
+   "abaft",
+   "ship",
+   "winch",
+   "construction site",
+   "building"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What is the main purpose of farmers?",
+  "answers": [
+   "raise cattle",
+   "grow corn",
+   "farm land",
+   "drive tractors",
+   "supply food"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where can I put this penny to save for later?",
+  "answers": [
+   "piggy bank",
+   "wallet",
+   "toy",
+   "ground",
+   "pocket"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Where would you put uncooked crab meat?",
+  "answers": [
+   "wharf",
+   "red lobster",
+   "tidepools",
+   "boss's office",
+   "stew pot"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "The man had a fear of illness, so he never visited friends who were a what?",
+  "answers": [
+   "sick person",
+   "hospital",
+   "elderly person",
+   "graveyard",
+   "doctor's office"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Where would you put pans if you want to bring them with you?",
+  "answers": [
+   "cooking",
+   "cook food",
+   "kitchen",
+   "backpack",
+   "drawer"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "If you're remembering something, it's because of your what of it to begin with?",
+  "answers": [
+   "knowledge",
+   "knowing",
+   "forgetful",
+   "pleasure",
+   "depression"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Which large land mass is home to the most monkeys?",
+  "answers": [
+   "amazon basin",
+   "friend's house",
+   "lift number 3",
+   "research laboratory",
+   "african continent"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?",
+  "answers": [
+   "rest",
+   "insomnia",
+   "making love",
+   "sleeping in",
+   "texting"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?",
+  "answers": [
+   "health",
+   "fall down",
+   "stagger",
+   "get arrested",
+   "vomit"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "You'll find a landing at the top of what?",
+  "answers": [
+   "ocean",
+   "apartment building",
+   "stairwell",
+   "airport",
+   "room"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Anybody could be hired in the kitchen, what was needed of them?",
+  "answers": [
+   "forget",
+   "oil squeaky hinge",
+   "question authority",
+   "wash dishes",
+   "oik squeaky hinge"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Where can you find a number of wind instruments together in public?",
+  "answers": [
+   "music store",
+   "create music",
+   "zoo",
+   "music room",
+   "symphony"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "A mountie got off at a subway stop.  What city might he be in?",
+  "answers": [
+   "urban area",
+   "metropolis",
+   "chicago",
+   "new york city",
+   "toronto"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What do you want someone to do when you illustrate point?",
+  "answers": [
+   "did not understand",
+   "accepting",
+   "make clear",
+   "understood",
+   "understanding"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Billy set aside a block of time for having fun after work. Why might he do this?",
+  "answers": [
+   "happiness",
+   "stress relief",
+   "pleasure",
+   "ocean",
+   "may laugh"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?",
+  "answers": [
+   "restless",
+   "active",
+   "lazybutt",
+   "productive",
+   "hard work"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What would you be unable to do if you have too much greed?",
+  "answers": [
+   "keep things",
+   "make friends",
+   "play poker",
+   "conquer opponent",
+   "lie"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?",
+  "answers": [
+   "bed away from home",
+   "wwii bunker",
+   "resort",
+   "las vegas",
+   "city"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "I did not need a servant.  I was not a what?",
+  "answers": [
+   "freedom",
+   "rich person",
+   "hired help",
+   "in charge",
+   "busy"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "How would you get from one side of a canal to another?",
+  "answers": [
+   "michigan",
+   "amsterdam",
+   "venice",
+   "bridge",
+   "barges to travel on"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions",
+  "answers": [
+   "newness",
+   "loss of innocence",
+   "enlightenment",
+   "open mind",
+   "smartness"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "An underrated thing about computers is how they manage workflow, at one time it was a big deal when they could first do what?",
+  "answers": [
+   "share files",
+   "do arithmetic",
+   "turn on",
+   "cost money",
+   "multitask"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Obstructing justice is sometimes an excuse used for police brutality which causes what in people?",
+  "answers": [
+   "committing perjury",
+   "prosecution",
+   "attack",
+   "getting hurt",
+   "riot"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "While washing clothes they became what when caught on the sharp object?",
+  "answers": [
+   "damaged",
+   "wet clothes",
+   "wear out",
+   "torn",
+   "have fun"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Seafood restaurants are used to draw tourists where?",
+  "answers": [
+   "maine",
+   "shoe shop",
+   "city",
+   "boston",
+   "coastal cities"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "James's nice asked him about her grandfather. She was interested in learning about what?",
+  "answers": [
+   "family tree",
+   "family reunion",
+   "babysitting",
+   "brother's house",
+   "heirlooms"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?",
+  "answers": [
+   "universe",
+   "orbit",
+   "night sky",
+   "outer space",
+   "his wallet"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What would encourage someone to continue playing tennis?",
+  "answers": [
+   "becoming tired",
+   "tennis elbow",
+   "exercise",
+   "hunger",
+   "victory"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?",
+  "answers": [
+   "deep breathing",
+   "worried",
+   "fall asleep",
+   "invigorating",
+   "feeling good"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "What regions of a town would you have found a dime store?",
+  "answers": [
+   "commercial building",
+   "old movie",
+   "small neighborhood",
+   "past",
+   "mall"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Where might an unused chess set be stored?",
+  "answers": [
+   "toy store",
+   "michigan",
+   "living room",
+   "attic",
+   "cupboard"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?",
+  "answers": [
+   "wander",
+   "migrate",
+   "scare",
+   "disturb",
+   "agitate"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?",
+  "answers": [
+   "car",
+   "house",
+   "offices",
+   "park",
+   "movie theatre"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What could be playing a balailaika?",
+  "answers": [
+   "movie dr",
+   "orchestra",
+   "music store",
+   "cat",
+   "symphony"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Sailors drive many different types of boats, what type of boat involves their namesake.",
+  "answers": [
+   "coming home",
+   "row boat",
+   "board ship",
+   "inflatable raft",
+   "sail boat"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where could a person avoid the rain?",
+  "answers": [
+   "bus stop",
+   "tunnel",
+   "synagogue",
+   "fairy tale",
+   "street corner"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Why would a person like to have a large house?",
+  "answers": [
+   "have choice",
+   "mentally challenged",
+   "own house",
+   "obesity",
+   "lots of space"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where will a cheap book be found?",
+  "answers": [
+   "bookstore",
+   "classroom",
+   "discount store",
+   "school room",
+   "bedside table"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?",
+  "answers": [
+   "internet cafe",
+   "sporting event",
+   "pressing wrong buttons",
+   "obesity",
+   "hockey game"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?",
+  "answers": [
+   "accidental",
+   "detestable",
+   "effusive",
+   "enabled",
+   "apathetic"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Who do professors work with?",
+  "answers": [
+   "methods of facts",
+   "teach courses",
+   "wear wrinkled tweed jackets",
+   "school students",
+   "state facts"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Colorful anemone look somewhat like what object you find on window sills?",
+  "answers": [
+   "intertidal zone",
+   "coral sea",
+   "under water",
+   "flower bed",
+   "florida keys"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "From where do aliens arrive?",
+  "answers": [
+   "outer space",
+   "weekly world news",
+   "roswell",
+   "universe",
+   "mars"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "The hikers stopped to have a drink, simply put they what?",
+  "answers": [
+   "had a party",
+   "were thirsty",
+   "refreshment",
+   "getting drunk",
+   "celebrating"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "When you get up in the morning before you begin work you should do what?",
+  "answers": [
+   "apply for job",
+   "sleep",
+   "concentrate",
+   "shower",
+   "just do"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?",
+  "answers": [
+   "living room",
+   "floor",
+   "warm place",
+   "carpet",
+   "farmhouse"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "If a person is trying to keep something in their hand what should they do?",
+  "answers": [
+   "complete collection",
+   "own house",
+   "procrastinate",
+   "explode",
+   "have to hold"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where could you find hundreds of thousands of home?",
+  "answers": [
+   "field",
+   "neighborhood",
+   "star can",
+   "city or town",
+   "apartment building"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Playing baseball is a lot like any other sport, there is always a risk of what?",
+  "answers": [
+   "sore muscles",
+   "errors",
+   "happiness",
+   "injury",
+   "fun"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "If I want to watch a movie without leaving my home what might I use?",
+  "answers": [
+   "drive in movie",
+   "drive in movie",
+   "television",
+   "video store",
+   "show"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "The victim was to take stand today, they were going to do what?",
+  "answers": [
+   "testify",
+   "runaway",
+   "witness",
+   "tell truth",
+   "go home"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What does a successful dog grooming session likely to make a owner feel?",
+  "answers": [
+   "cleanliness",
+   "mistakes",
+   "growth",
+   "satisfaction",
+   "late"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?",
+  "answers": [
+   "near finish line",
+   "finish",
+   "get tired",
+   "gain ground",
+   "trip over"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The tourist entered Mammoth cave, what state were they in?",
+  "answers": [
+   "west virginia",
+   "kentucky",
+   "rocky hills",
+   "scotland",
+   "canyon"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What does someone typically feel when applying for a job?",
+  "answers": [
+   "horror",
+   "anxiety and fear",
+   "rejection",
+   "increased workload",
+   "being employed"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?",
+  "answers": [
+   "prosecution",
+   "getting hurt",
+   "sweat",
+   "steam",
+   "committing perjury"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What kind of feelings does buying presents for others create?",
+  "answers": [
+   "tears",
+   "please",
+   "like",
+   "thank",
+   "make happy"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What green area is a marmot likely to be found in?",
+  "answers": [
+   "countryside",
+   "great plains",
+   "encyclopedia",
+   "jungle",
+   "north america"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?",
+  "answers": [
+   "later",
+   "updated",
+   "still",
+   "resistance",
+   "now"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "What does a kindergarten teacher do before nap time?",
+  "answers": [
+   "lower expectations",
+   "encourage",
+   "fear",
+   "time test",
+   "tell story"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Sam was a stranger.  Even so, Mark treated him like what?",
+  "answers": [
+   "friend",
+   "family",
+   "known person",
+   "park",
+   "outsider"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?",
+  "answers": [
+   "closed room",
+   "sky",
+   "dard",
+   "his grave",
+   "house"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?",
+  "answers": [
+   "manual",
+   "process information",
+   "power down",
+   "control model",
+   "reason exists"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "With the card slot lit up he knew how to get started finding his balance with what?",
+  "answers": [
+   "slot machine",
+   "ticket machine",
+   "bank machine",
+   "telephone",
+   "automated teller"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "To play sports professionally you must do what very often?",
+  "answers": [
+   "wash your clothes",
+   "get in shape",
+   "practice",
+   "take off uniform",
+   "stretch"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Some people prefer releasing energy through work while others prefer to release it through what?",
+  "answers": [
+   "motion",
+   "stretch",
+   "exercise",
+   "movement",
+   "muscles"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "What will a person going for a jog likely be wearing?",
+  "answers": [
+   "grope",
+   "acknowledgment",
+   "comfortable clothes",
+   "ipod",
+   "passionate kisses"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "The child pretended he was reading newspaper, he couldn't actually do it without what?",
+  "answers": [
+   "patience",
+   "falling down",
+   "literacy",
+   "buying",
+   "knowing how to read"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Jenny enjoyed helping people.  It brought her a great deal of what?",
+  "answers": [
+   "satisfaction",
+   "complications",
+   "train",
+   "feel good about yourself",
+   "enjoyment"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "What might someone believe in if they are cleaning clothes?",
+  "answers": [
+   "feminism",
+   "sanitation",
+   "ruined",
+   "wrinkles",
+   "buttons to fall off"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where would you find a basement that can be accessed with an elevator?",
+  "answers": [
+   "eat cake",
+   "closet",
+   "church",
+   "office building",
+   "own house"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "In order to learn to program from another person you can do what?",
+  "answers": [
+   "learn how to",
+   "have a friend",
+   "knowledge",
+   "take class",
+   "have computer"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "He was at the gym trying to build muscle, what is it called that he is trying to build muscle on?",
+  "answers": [
+   "body of animal",
+   "arm",
+   "bodybuilder",
+   "body of dog",
+   "human body"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What part of plants is pretty?",
+  "answers": [
+   "dirt",
+   "no neurons in",
+   "millions of cells",
+   "flowers on",
+   "roots"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The man was going fishing instead of work, what is he seeking?",
+  "answers": [
+   "food",
+   "relaxation",
+   "killing",
+   "missing morning cartoons",
+   "boredom"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What could you get an unsmooth pit from?",
+  "answers": [
+   "backyard",
+   "rock",
+   "mine",
+   "cherry",
+   "peach"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "The man tried to reply to the woman, but he had difficulty keeping track of conversations that he didn't do what to?",
+  "answers": [
+   "initiate",
+   "ignore",
+   "question",
+   "answer",
+   "ask"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "I couldn't find anybody who recalled the event, what were they adroit at doing?",
+  "answers": [
+   "question authority",
+   "act fool",
+   "wash dishes",
+   "act innocent",
+   "forget"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where would you find a large dining room containing a fancy chandelier?",
+  "answers": [
+   "mansion",
+   "every house",
+   "own home",
+   "table",
+   "restaurant"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "The extremely large cargo plane could only land at a specialized runway, these were only located at a what?",
+  "answers": [
+   "back yard",
+   "bowling alley",
+   "city",
+   "military base",
+   "fashion show"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "The carpet was smelly and discouraged the league from playing there, where was this smelly carpet installed?",
+  "answers": [
+   "bedroom",
+   "movie theater",
+   "bowling alley",
+   "church",
+   "office"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "How can someone be let into a brownstone?",
+  "answers": [
+   "brooklyn",
+   "ring",
+   "subdivision",
+   "bricks",
+   "new york city"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where would someone purchase an upright piano?",
+  "answers": [
+   "music class",
+   "college",
+   "music store",
+   "music room",
+   "music band"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Where would you keep an ottoman near your front door?",
+  "answers": [
+   "living room",
+   "parlor",
+   "furniture store",
+   "basement",
+   "kitchen"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Diving into backyard pools can be very dangerous and can lead to serious head and what?",
+  "answers": [
+   "going somewhere",
+   "splats",
+   "cancer",
+   "getting wet",
+   "spinal injuries"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where would one find a snake in a cage?",
+  "answers": [
+   "tropical forest",
+   "oregon",
+   "woods",
+   "pet store",
+   "louisiana"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Where are people likely to become impatient?",
+  "answers": [
+   "end of line",
+   "buildings",
+   "apartment",
+   "neighbor's house",
+   "address"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "When you fail to finish something, you failed at doing what to it",
+  "answers": [
+   "winning",
+   "passing",
+   "completing",
+   "do well",
+   "succeeding"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "John didn't care about style.  He felt that form was less important than what?",
+  "answers": [
+   "shapeless",
+   "quality",
+   "function",
+   "change shape",
+   "chaos"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "When you get together with friends to watch film, you might do plenty of this?",
+  "answers": [
+   "see what happens",
+   "enjoy stories",
+   "pass time",
+   "have fun",
+   "interesting"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "A supermarket is uncommon in what type of collection of shops?",
+  "answers": [
+   "strip mall",
+   "city or town",
+   "shoppingcentre",
+   "boutique",
+   "vermont"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "Bill puts meat on the scale, where does Bill work?",
+  "answers": [
+   "music store",
+   "assay office",
+   "tidal wave",
+   "butcher shop",
+   "bathroom"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "I'm having some food at my party, what will I need to serve it?",
+  "answers": [
+   "zoo",
+   "pan",
+   "bowl",
+   "kitchen",
+   "spoon"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Before racers start to run they must do what at the starting line?",
+  "answers": [
+   "learn to walk",
+   "walking",
+   "walk slowly",
+   "breathe",
+   "stand still"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What does an actor do when they are bored of their roles?",
+  "answers": [
+   "mask",
+   "branch out",
+   "wear costume",
+   "pretend",
+   "sing songs"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "What is a person called who doesn't have immortality?",
+  "answers": [
+   "mortal",
+   "dying",
+   "death",
+   "dead",
+   "mortal"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Why would you be watching tv instead of doing something else?",
+  "answers": [
+   "headache",
+   "laughter",
+   "laziness",
+   "erections",
+   "wasting time"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "If chewing food is difficult for you, what is a possible reason?",
+  "answers": [
+   "broken jaw",
+   "sore mouth",
+   "eating",
+   "good digestion",
+   "avoiding choking"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "He had to wear a tuxedo while playing the keyboard instrument, so did the other hundred members of the what?",
+  "answers": [
+   "music store",
+   "band",
+   "medium",
+   "orchestra",
+   "piano store"
+  ],
+  "a_star": 3
+ },
+ {
+  "question": "Where do you find the most amount of leafs?",
+  "answers": [
+   "floral arrangement",
+   "ground",
+   "forrest",
+   "field",
+   "compost pile"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Where can children play with animals?",
+  "answers": [
+   "meadow",
+   "play room",
+   "surface of earth",
+   "zoos",
+   "fairgrounds"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What kind of tale might feature a talking weasel?",
+  "answers": [
+   "mulberry bush",
+   "animated film",
+   "chicken coop",
+   "history book",
+   "children's story"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What kind of status is the bald eagle given?",
+  "answers": [
+   "outside",
+   "world",
+   "protection",
+   "colorado",
+   "america"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Why do most people take a quick rest during the day?",
+  "answers": [
+   "need to",
+   "hungry",
+   "feel more energetic",
+   "weak",
+   "regenerate"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "What could suddenly stop someone when he or she is running?",
+  "answers": [
+   "mushroom",
+   "falling down",
+   "sweating",
+   "exhaustion",
+   "getting tired"
+  ],
+  "a_star": 1
+ },
+ {
+  "question": "Where would you find a monkey in the wild?",
+  "answers": [
+   "zoo",
+   "barrel",
+   "research laboratory",
+   "captivity",
+   "thailand"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Where could a sloth live?",
+  "answers": [
+   "tropical jungle",
+   "manual",
+   "work",
+   "transit",
+   "countryside"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "A gentleman is carrying equipment for golf, what is he likely to have?",
+  "answers": [
+   "club",
+   "assembly hall",
+   "meditation center",
+   "meeting",
+   "church"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "If you have a home with a courtyard, what's one thing you probably don't have to care for any longer?",
+  "answers": [
+   "lawn",
+   "kids",
+   "asshole",
+   "spain",
+   "office complex"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "The computer was difficult for he to understand at the store, so what did she sign up for to learn more?",
+  "answers": [
+   "classroom",
+   "facebook",
+   "school",
+   "apartment",
+   "demonstration"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "If you take the risk buying a used car, you still hope it can what?",
+  "answers": [
+   "go fast",
+   "start running",
+   "going too fast",
+   "look good",
+   "last several years"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what?",
+  "answers": [
+   "eat",
+   "think",
+   "reading",
+   "meditate",
+   "fall asleep"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What is the primary purpose of cars?",
+  "answers": [
+   "cost money",
+   "slow down",
+   "move people",
+   "turn right",
+   "get girls"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "Alabama is full of different people, but they are all citizens of what?",
+  "answers": [
+   "united states",
+   "deep south",
+   "floribama",
+   "gulf states",
+   "florabama"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "They were hoping their campaign would create a rise in awareness of the problem and hopefully do what to its effect?",
+  "answers": [
+   "set",
+   "fall",
+   "park",
+   "descend",
+   "reduce"
+  ],
+  "a_star": 4
+ },
+ {
+  "question": "What do airplanes do as they are arriving at the gate?",
+  "answers": [
+   "slow down",
+   "crash",
+   "speed up",
+   "land",
+   "carry people"
+  ],
+  "a_star": 0
+ },
+ {
+  "question": "If a person with mental illness stops treatment what will likely happen?",
+  "answers": [
+   "managed",
+   "dancing",
+   "recur",
+   "effectively treated",
+   "cause suffering"
+  ],
+  "a_star": 2
+ },
+ {
+  "question": "The gimmicky low brow TV show was about animals when they what?",
+  "answers": [
+   "sick",
+   "mammals",
+   "males",
+   "bite",
+   "attack"
+  ],
+  "a_star": 4
+ }
+]

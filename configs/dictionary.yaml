@@ -1,0 +1,10 @@
+# Observable dictionary + EDMD settings
+type: polynomial       
+degree: 1               
+rbf:
+  n_centers: 50
+  gamma: 0.5
+
+edmd:
+  reg: 1.0e-6          
+  svd_rank: null       

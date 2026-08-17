@@ -1,0 +1,1250 @@
+{
+ "accuracy": 0.405,
+ "n_debates": 200,
+ "eigvals_top10": [
+  [
+   1.0000000000144231,
+   0.0
+  ],
+  [
+   0.9427135404561885,
+   0.03152729454285249
+  ],
+  [
+   0.9427135404561885,
+   -0.03152729454285249
+  ],
+  [
+   0.9117177753358321,
+   0.009945370053851363
+  ],
+  [
+   0.9117177753358321,
+   -0.009945370053851363
+  ],
+  [
+   0.882652884359621,
+   0.0
+  ],
+  [
+   0.8587625979204858,
+   0.03887671363894417
+  ],
+  [
+   0.8587625979204858,
+   -0.03887671363894417
+  ],
+  [
+   0.810805035667805,
+   0.0
+  ],
+  [
+   0.794479272720717,
+   0.0
+  ]
+ ],
+ "spectral_gap": 0.05675942111217802,
+ "n_eigs_at_one": 1,
+ "runs": [
+  {
+   "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.964901363061017
+  },
+  {
+   "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7453567878474187
+  },
+  {
+   "question": "A landowner owned a 10-acre tract of land, in fee simple. The tract was located in a small town. In 1974, the landowner conveyed the tract to the town development association \"on condition that a ski lodge and resort area be built thereon and the land be used solely for skiing purposes and, in the event that said property is not used as a ski resort, the property shall revert to myself, the grantor, my heirs or assigns. \" Subsequently, a ski lodge was built and the land was continuously used as a ski resort for more than 20 years. In 1979, a neighbor, owner of a farm abutting the northeast corner of the 10-acre tract, began to use a portion of the 10-acre tract for ingress and egress to his farm. He used this access road openly, visibly, and notoriously until 2000. The period of prescription in this particular jurisdiction was 20 years. In March 2000, the neighbor decided to sell the farm to a skier. Thereupon, the neighbor and the skier entered into a written real estate sales contract, with closing set for May 1, 2000. On April 1, 2000, the president of the town development association was approached by the skier with the request that a written easement be given over the used area and that an appropriate instrument be delivered to the skier concurrently with the skier's closing with the neighbor. Following the president's meeting with the skier, the town development association held a duly announced meeting and voted unanimously to authorize its trustees to grant such an easement. On April 15, 2000, the landowner died. The landowner's sole descendant and successor in interest was his wife. Upon her husband's death, the wife immediately notified the town development association that if it granted the easement to the skier, the 10-acre tract would revert to her. The skier then brought an appropriate action, joining the neighbor, the wife, and the town development association, seeking a declaratory judgment that the neighbor has a perpetual easement appurtenant to the 10-acre tract. In this action, judgment should be in favor of which of the following parties?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9394442075665913
+  },
+  {
+   "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A restaurant building was expanded into a vacant lot north of its original location. The contractor who was working on the restaurant expansion found that the north wall of the new structure needed extensive support, so anchor rods and concrete were added. The supporting anchor rods and concrete extended into a neighboring property farther to the north at a point 20 feet below the surface. Although there was no impact on the surface of his land or on existing uses, the owner of the neighboring property has sued the restaurant owner for trespass. Which party is likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9531046137071444
+  },
+  {
+   "question": "A defendant and a classmate were students at a state college. They were spending a leisurely afternoon listening to music in the defendant's dorm room. They had just consumed a six-pack of beer when the classmate asked the defendant if there was anything else to drink. The defendant indicated there wasn't and suggested that his classmate drive to the store and buy another six-pack. The classmate told the defendant that his car wasn't working and asked the defendant if he could borrow his. The defendant assented and gave his classmate the keys to his car. The defendant knew that the classmate was drunk when he lent him his car. The classmate was driving to the store at an excessive rate of speed. As he approached an intersection, he was traveling at 70 M. PJ-I. When he came to the intersection, the light turned red. The classmate, who made no effort to stop in time, drove through the red light and collided with another car. The driver of the other car, who had entered the intersection with a green light, was killed in the accident. In the event that the defendant can be convicted of manslaughter, it will most likely be upon the basis of",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9491581092105779
+  },
+  {
+   "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9649013703798731
+  },
+  {
+   "question": "A man is the owner of record of a parcel of land designated as \"A. \" It is the highest of three neighboring properties on a mountain. The man's friend is the owner of parcel \"B,\" which is situated lower than \"A\" on the mountainside. The man's cousin owns parcel \"C,\" which lies below parcels \"A\" and \"B\" on the mountain slope. In 2000, the man who originally owned all three parcels of land constructed a private drainage system. This system consisted of an underground pipeline that extended across all three parcels of land. Sewage from parcel \"A\" drained through the system to a municipal sewer, which was located at the bottom of the mountain. In 2005, the man sold parcel \"B\" to his friend. The following year, the cousin purchased parcel \"C\" from the man. The deeds to the friend and the cousin did not contain any mention of the man's drainage system. Located on each of the parcels are large ranch-style homes occupied by the respective owners. From the standpoint of the friend and the cousin, thedrainage system would most likely be defined as a(an)",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082564536188043
+  },
+  {
+   "question": "A baseball card dealer agreed to sell an extremely rare card to a collector. The collector lived in another state. As part of their agreement, a courier was hired to pick up the card from the dealer and transport it to the collector. The courier was then to get the purchase money from the collector and bring it back to the dealer. But rather than entrusting the genuine card to the courier, the dealer gave him a counterfeit replica that was valueless. After picking up the envelope containing the replica, the courier left the dealer's home and embarked on his trip. The police, however, received a tip concerning the scheme and intercepted the courier's car before he left the city limits. Thereafter, the dealer was arrested and charged with attempting to obtain property by false pretenses. If the dealer contends that the scheme had not progressed far enough to constitute an attempt, it will",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9045342535894906
+  },
+  {
+   "question": "In 1993, a landowner had good record title toa vineyard in fee simple absolute. In 1994, thelandowner delivered to his son, for a sum of $1,000,a deed signed by the landowner, naming the son andhis heirs as grantee, and appearing valid on its face. The son neglected to record the deed. In 1998, a farmer, aware of the existence of the landowner-to-son deed, sought out the landowner and asked to buy for $10,000 a deed of the vineyard from the landowner to the farmer and his heirs. The landowner executed such a deed, and the farmer promptly recorded it. The farmer's intent was to acquire color of title and obtain ownership of the vineyard by adverse possession. In 1998, the farmer constructed a fence around the vineyard. In 1999, the son presented his deed of the vineyard to an investor and, for $15,000, paid by the investor, signed and delivered a deed of the vineyard in favor of the investor and his heirs. After receiving the deed, the investor made no effort to search the title, to examine the property, or to record the deed. In 2003, a vintner paid the farmer $20,000, and the farmer delivered to the vintner a deed of the vineyard in favor of the vintner and his heirs. The vintner had examined the property, had searched the title, and had no knowledge of the farmer's awareness of the prior landowner-to-son instrument. Although the vintner did not reside on the property, he regularly visited the vineyard twice a week. The vintner recorded his deed. In 2007, for $25,000, paid by a farmer, the investor signed and delivered a deed of the vineyard naming the farmer and his heirs as grantees. Before the farmer had paid the investor and taken his deed, the farmer visited the vineyard and observed the fence. However, the vintner was not present when the farmer visited the property, and nothing suggested who if anyone was using it. In any case, the farmer did not attempt to search the title before making his purchase. The farmer then recorded the deed. This jurisdiction uses Grantor  Grantee Indices and has no Tract IndexIn 2008, what is the present state of title to the vineyard if the jurisdiction's recording act provides:\"Every conveyance of real estate which is not recorded is void against a subsequent purchaser in good faith for valuable consideration, whose conveyance shall be first duly recorded\"?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.666668888561794
+  },
+  {
+   "question": "A man needed to have the oil changed on his car. On Friday, he decided to take his car to the local dealership to have the oil changed and asked his neighbor if she would give him a ride home from the dealership. The neighbor said, \"Why pay the high prices a dealership will charge you? I can change the oil in your car for you. If you will agree to pay me $50, I'll change the oil in your car over the weekend. \" The man readily agreed. On Sunday afternoon, the man noticed that his neighbor still had not started working on the car. He asked his neighbor if the car would be ready for him to drive to work Monday morning. The neighbor replied, \"I thought about it and realized $50 is too low a price for the work involved. I don't think I'm going to change the oil in your car. \" The man then said, \"Look, I realize $50 is low for the work involved. If you can change the oil in my car by tomorrow morning, I'll pay you an additional $25. And I won't sue you in small claims court for your failure to perform your promise. \" The neighbor then changed the oil late Sunday afternoon, but the man refused to pay to the neighbor anything more than $50. In a suit by the neighbor to recover the additional $25 promised by the man, the neighbor will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7964158130711857
+  },
+  {
+   "question": "One night, a victim was in her home when she heard the doorbell ring. When the victim opened the door, she was confronted by three defendants. They pushed the victim inside her house and threatened her with bodily harm if she didn't cooperate. After tying her up with ropes, the trio then proceeded to ransack the victim's home. They then placed many of the victim's valuables and other possessions into a large sack and hurriedly left her house. What crimes should the defendants be convicted of?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9448774023292448
+  },
+  {
+   "question": "A defendant had an argument with his neighbor. As they were quarreling, the defendant pulled out his penknife intending only to frighten the neighbor. The defendant accidentally slightly nicked the neighbor's arm with the knife. Unknown to the defendant, his neighbor was a hemophiliac who then died from the cut. What is the most serious crime that the defendant can be convicted of?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9422358204857115
+  },
+  {
+   "question": "A buyer purchased a shovel at a local hardware store. The shovel had a metal blade and a wooden handle. While the buyer was using the shovel to dig out a tree stump in his back yard, the handle broke in half, causing the buyer to fall and injure his back. The buyer brought a negligence claim against the manufacturer of the shovel. He proved that the shovel broke because of a manufacturing defect that made the handle too weak and that the manufacturer acted unreasonably in allowing this to happen. While conceding that the handle had a defect that caused it to break, the manufacturer established that if the buyer had been using the shovel carefully, he would not have fallen down and would not have been injured when the shovel broke. Assume that the case is governed by the law of a jurisdiction that follows traditional contributory negligence rules. Who is most likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6666688886234204
+  },
+  {
+   "question": "A woman from State A filed an action against a retailer in a state court in State B. The complaint alleged that the retailer had not delivered $100,000 worth of goods for which the woman had paid. Twenty days after being served, the retailer, which is incor-porated in State C and has its principal place of business in State B, filed a notice of removal in a federal district court in State B. Was the action properly removed?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7925959439654596
+  },
+  {
+   "question": "The buyer asked a manufacturer to make him 100,000 widgets for $1,000,000. The buyer intended to retail them by mail order sales. The widgets had to have the buyer's logo imprinted on them. The manufacturer ordered the raw material and made a new widget mold that contained buyer's logo. The buyer wanted quick delivery of at least 10,000 right away. The manufacturer rushed the order and sent 10,000 conforming widgets two days later. The buyer paid for the widgets but rejected delivery on the remaining 90,000 widgets. The manufacturer filed suit and claimed damages for breach of contract. Defendant buyer filed a motion to dismiss the complaint on the basis that the statute of frauds was violated in that it was a contract for over $500 that was unenforceable under state law. Will the court likely grant the motion to dismiss?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8208646952297001
+  },
+  {
+   "question": "A county owns a large expanse of land next to the ocean. Four years ago, in order to enhance the recreational aspects of this land, the county leased most of it to a company. The lease required the company to construct and operate a first-rate luxury hotel complete with bar, restaurant, and private marina and to pay the county 15% of its net profits as rent. The company set up management and operations bylaws for its new hotel, which were reviewed and approved by the county at the time the lease was negotiated. Upon completion of the facilities, the state granted the company a license to sell alcoholic beverages in its restaurant and bar. The hotel announced that the least expensive room was $1,000 per night. Much of the population in the county cannot afford to stay at the new hotel. One resident who cannot afford to pay the hotel fees brings an action against the company, claiming that the high fees operate to discriminate against the poor, in violation of the constitutional right to equal protection. What is the most likely result of this action?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457924732
+  },
+  {
+   "question": "A man died in 1985. His will devised his estate in a Midwestern state to his son and daughter \"to share and share alike as tenants in common. \"At the time of their father's death, the daughter lived in a different part of the Midwestern state (in which the estate was located) while the son resided in a state in the Southwest. After the funeral, the daughter returned to her own residence, but the son decided to occupy the estate. He put his name on the mailbox and has paid the taxes and maintenance expenses. The daughter has been generally aware of this, but because she cared little about the estate, the daughter has never pressed her brother about the property. Since 1985, the daughter has not paid any rent or other compensation to her brother, nor has he requested such payment. In January 2010, a series of disputes arose between the son and daughter for the first time concerning their respective rights to the estate. The state in which the property is located recognizes the usual common law types of cotenancies and there is no applicable legislation on the subject. Now, the son claims the entire fee simple absolute title to the estate and brings an action against his sister to quiet title in himself. If the Midwestern states in which the property is located has an ordinary 20-year adverse possession statute, judgment should be for whom?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9464371556870438
+  },
+  {
+   "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9960238409637923
+  },
+  {
+   "question": "A newspaper printed an article stating that a local doctor was afflicted with a venereal disease and had volunteered for a program studying the various cures for the disease. The article was false, and was printed without adequate research. The doctor sued the newspaper company, claiming damages per se. The paper defended on the basis that this was a public interest article, that the paper was not reckless or malicious in its investigation and reporting, and that the doctor could not prove any special damages. Will the court adopt the defense reasoning and dismiss the case for failure to state a claim?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8981466181871324
+  },
+  {
+   "question": "A man, a woman, and their son went to their neighbor's house. The man intended to take back some tools that he believed were his and that the neighbor was keeping unlawfully. The woman believed that the tools were the man's, and she intended to help the man take them. When the son learned that the man and the woman were going to break into the neighbor's home, he decided to accompany them. The son planned to find some items inside that might be worth taking. Arriving at the neighbor's home, the man opened the front door, which was closed but unlocked. Upon entering, the son went to the neighbor's upstairs bedroom and found a watch, which he took. In the meantime, the man and the woman went to the garage and began rummaging through the neighbor's tools. The man found the tools, which he seized. The three of them then left the neighbor's home. In this jurisdiction, burglary is defined as the breaking and entering of any structure with the intent to commit a felony therein. Which, if any, individuals should be found guilty of conspiracy?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9455629123850052
+  },
+  {
+   "question": "A truck and a car collided at an intersection. Both drivers were injured, and each one filed a lawsuit against the other for negligence. At trial, the jury found each of the drivers liable for negligence. The jury found that the amount of the truck driver's injuries was $10,000, and the amount of the car driver's injuries was $8,000. The jury assigned 50 percent of the fault for the accident to the truck driver and 50 percent of the fault to the car driver. Assume that the jurisdiction has a statute in effect that provides: \"Contributory negligence shall not bar recovery in an action to recover damages for negligence resulting in injury to person or property if such negligence was not as great as the negligence of the person from whom recovery is sought. Any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person who is seeking recovery. \"Which of the following is the appropriate judgment in the case?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9666444156394423
+  },
+  {
+   "question": "A state passed a statute stating that it will pay for one-half of the tuition for any student attending a private school, whether religious or secular, as long as the school meets the educational requirements established by the department of education. The parents of two students who attend a public high school in the state sue for a declaratory judgment and injunction in federal court, claiming that the state statute violates the establishment clause of the First Amendment. Assume that the federal court decides to hear the case on its merits. Which of the following is the state's LEAST persuasive argument for sustaining the validity of the statute?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9949968417662451
+  },
+  {
+   "question": "A man committed a series of heinous crimes, including a kidnapping, that took him across state lines and violated federal law. He was convicted and received a life sentence. The felon, however, was pardoned by the President of the United States, who was a childhood friend. A great hue and cry ensued, and the talking heads on television proclaimed that legislation was needed to prevent such injustice again. Would such legislation be constitutional?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825645366362323
+  },
+  {
+   "question": "A defendant was arrested and charged with burglarizing a pharmacy. The break-in allegedly occurred late one evening after the store had closed for business. The defendant was identified as the perpetrator of the crime by a film that was recorded during the burglary from a hidden camera. When the defendant was apprehended, he denied involvement in the crime and told the arresting officers that he had been out of town when the burglary occurred. Prior to trial, the defendant's court appointed attorney filed a motion requesting discovery of the videotape film that was recorded during the perpetration of the crime. The trial judge granted the request and ordered the prosecution to send a duplicate copy of the videotape to the defendant's attorney. Following the judge's ruling, the prosecuting attorney, pursuant to state law, then filed a discovery motion specifically asking the defendant whether he planned to raise an alibi defense. The prosecuting attorney also sought discovery of the identity of such an alibi witness. Assume that the judge requires the defendant to respond as to whether the defendant intends to raise an alibi defense. May the judge also require the defendant to disclose the identity of the alibi witness?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "A man and a brother were identical twins. The man was having an affair with a woman. The woman's husband was aware of his wife's relationship with the man. One morning the husband saw the brother, whom he mistakenly believed was the man. The husband walked toward the brother and said, \"I'm going to punch you in the face, you rat. \" The brother immediately realized that the husband had mistaken him for his brother. The brother had enough time to inform the husband of his mistake but didn't say anything. When the husband came closer, the brother punched him in the mouth. If the husband brings suit against the brother for battery, he should",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082564537590822
+  },
+  {
+   "question": "A retailer agreed to purchase an orchard's total cherry production for a 12-month period. The contract included this provision: \"Terms: Cash upon delivery  deliveries to be made at least twice per month.\" The deliveries went as scheduled. At the beginning of the fifth month, the orchard sent notice to the retailer that a load of cherries was ready for pick up. The truck driver, however, forgot to take the retailer's check with him. The orchard turned over the cherries but advised the retailer to pay within three days. The retailer sent the check by mail but it arrived late by two days. The orchard refused to deliver any more cherries. The retailer sued the orchard for breach of the installment contract and demanded the difference in price between the cherries on the open market and what he would have paid under the contract. The orchard claimed that the delayed payment impaired the value of the contract and moved to dismiss. Will the court grant the orchard's motion to dismiss?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9491581323042737
+  },
+  {
+   "question": "A man was visiting his friend at the friend's cabin. The man decided to surprise the friend with some fireworks, so he purchased some fireworks and hid them under his friend's chair on the friend's porch. That evening, the friend went outside to smoke and dropped his unfinished cigarette next to his chair on the porch. The cigarette ignited the fireworks, and the fireworks immediately exploded, causing extensive damage to the friend and to his cabin. The man was arrested and is being prosecuted for arson. Will the man be found guilty of arson?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9454522096115145
+  },
+  {
+   "question": "A girlfriend lived with her boyfriend in a small apartment. The boyfriend was a gun enthusiast who kept a collection of antique pistols and firearms in the apartment. The boyfriend was also an avid baseball fan and had a fanatic devotion to his favorite team. One evening, the boyfriend was watching his beloved team play their archrival on television. His favorite team lost in extra innings. After the game, the boyfriend became despondent and told his girlfriend that he was so disgusted that he was going to kill himself. The boyfriend took one of the pistols from his gun collection and shot himself in the head. As the boyfriend fell to the floor, wounded, his girlfriend couldn't believe her eyes. At first she thought that she should call 911 for an ambulance. But she was afraid that the police might think that she was responsible for the shooting. Consequently, she decided to do nothing. She proceeded to leave the apartment and spent the night at her mother's home. The boyfriend did not immediately die from the gunshot wound. A subsequent medical examiner's report concluded that the boyfriend died from loss of blood approximately two hours after the shooting. If the girlfriend had sought immediate medical assistance, the boyfriend would have lived. The girlfriend is subsequently prosecuted for her boyffiend's death. She should be found",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9332566863205737
+  },
+  {
+   "question": "A bank loaned a company $1,500,000 for the manufacture of a widget control system. As a condition of the loan, a majority shareholder in the company agreed in writing to personally guarantee the loan. Thereafter, the company defaulted on the loan and entered into a repayment agreement with the bank. This agreement provided that the bank would \"use maximum efforts in selling the company's assets at the highest possible price. \" The bank proceeded to sell the company's assets, discharging the indebtedness of the widget company. Later, it was ascertained that the bank did not realize the \"highest possible price\" in administering the sale of the company's assets. Consequently, the shareholder was forced into bankruptcy and lost her entire investment in the company. The shareholder brings an appropriate action against the bank to recover her investment in the company. She will most likely",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9147770418620187
+  },
+  {
+   "question": "A truck driver was making deliveries for his employer. After telling his employer by phone that he was going for lunch and getting approval, he pulled into the entrance of a restaurant where he intended to have his usual 30- minute lunch break. While entering the parking lot, the driver carelessly ran over and seriously injured a pedestrian. The injured person sued the driver and the driver's employer for negligence in causing her injuries. Is the employer liable?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Pete Smith is the active partner and Bill Jones is the silent partner in a general partnership known as \"Pete Smith Plumbing.\" After six years of being uninvolved in the management of the partnership business, Bill purchases 100 toilets for the business. Pete is incensed because it will probably take years to use up the inventory of so many toilets and seeks your advice. The best advice is",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7973537707666052
+  },
+  {
+   "question": "A large man with menacing tattoos all over his face and bald head followed closely behind a businessman who was lost in a long dark alley. The large man followed the businessman for several blocks of unending, unlit alleys. The businessman was in great fear. The large man was just a few feet behind, singing songs about how he was going to have a \"big meal tonight\" and it looked like he \"had struck it rich,\" and other words indicating possible violence and robbery. Finally, the businessman threw his wallet in one direction and ran the other way, as he yelled, \"You can have my money, just leave me my life!\" The large man picked up the wallet and ran in the opposite direction, but when he came to the end of the alley he was arrested and charged with robbery. He appealed his conviction, arguing that he had no intent to steal and was trying to return the wallet to the victim. Will the appellate court likely affirm the robbery conviction?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9562359024337019
+  },
+  {
+   "question": "Liang, a talented student from another country, received degrees from several universities in the United States and then decided to stay in the states to teach. Could a state law requiring citizenship for teachers prevent him from doing so?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.8698943313414288
+  },
+  {
+   "question": "As a legislative aide to a U. S. Senator you are called upon to provide an analysis of the constitutionality of a bill pending congressional approval. The bill imposes a 15% tax upon the gross annual receipts from the sales of all birth control devices. The bill has the strong support of conservative and pro-life organizations. The stated purpose of the proposed measure is to raise revenue and spur population growth across the country. In your learned opinion, the proposed tax is probably",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5878451524592876
+  },
+  {
+   "question": "A mail carrier was on a homeowner's premises delivering the mail when he was bitten by a large dog owned by the next door neighbor. Although the owner used due care in keeping the animal in a securely fenced area, he knew of one prior incident where the animal got loose and bit someone. Is the dog's owner liable for the injuries to the mailman?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pay the house painter $10,000 within one week after the job is completed. \"Which of the following is the most accurate statement regarding the homeowner's contractual obligation to pay the house painter $10,000?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "A city imposes a municipal excise tax of $200 per year on commercial photographic studios in the city. It also imposes an excise tax of $100 per year on every itinerant commercial photographer for the privilege of using the streets and sidewalks. A credit is allowed against this latter tax for any excise tax paid to the city by the photographer or his employer in respect to the maintenance of a photographic studio in the city. In an action by a studio located in the city challenging the constitutionality of the $200 per year excise tax, the court will most likely declare the tax",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825645356247486
+  },
+  {
+   "question": "A plaintiff sued the insurer of her home after the insurer denied coverage for water damage to the home allegedly caused by a frozen plastic pipe that burst. At trial, the insurer called as an expert witness an engineer, who testified that the pipe had burst because of age rather than freezing. On cross-examination, the engineer admitted that five years earlier, he had been convicted of tax fraud, even though he had asserted that it was his accountant's error. In response, the insurer calls a witness, who is well acquainted with the engineer and his reputation, to testify that (1) in the witness's opinion, the engineer is a truthful person, and (2) the engineer's neighbors all describe him as a truthful person. How much, if any, of the witness's testimony is admissible?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9830784108316541
+  },
+  {
+   "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8437098745260119
+  },
+  {
+   "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A landowner owned a 10-acre tract of land, in fee simple. The tract was located in a small town. In 1974, the landowner conveyed the tract to the town development association \"on condition that a ski lodge and resort area be built thereon and the land be used solely for skiing purposes and, in the event that said property is not used as a ski resort, the property shall revert to myself, the grantor, my heirs or assigns. \" Subsequently, a ski lodge was built and the land was continuously used as a ski resort for more than 20 years. In 1979, a neighbor, owner of a farm abutting the northeast corner of the 10-acre tract, began to use a portion of the 10-acre tract for ingress and egress to his farm. He used this access road openly, visibly, and notoriously until 2000. The period of prescription in this particular jurisdiction was 20 years. In March 2000, the neighbor decided to sell the farm to a skier. Thereupon, the neighbor and the skier entered into a written real estate sales contract, with closing set for May 1, 2000. On April 1, 2000, the president of the town development association was approached by the skier with the request that a written easement be given over the used area and that an appropriate instrument be delivered to the skier concurrently with the skier's closing with the neighbor. Following the president's meeting with the skier, the town development association held a duly announced meeting and voted unanimously to authorize its trustees to grant such an easement. On April 15, 2000, the landowner died. The landowner's sole descendant and successor in interest was his wife. Upon her husband's death, the wife immediately notified the town development association that if it granted the easement to the skier, the 10-acre tract would revert to her. The skier then brought an appropriate action, joining the neighbor, the wife, and the town development association, seeking a declaratory judgment that the neighbor has a perpetual easement appurtenant to the 10-acre tract. In this action, judgment should be in favor of which of the following parties?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9078555308756416
+  },
+  {
+   "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8164982135794836
+  },
+  {
+   "question": "A restaurant building was expanded into a vacant lot north of its original location. The contractor who was working on the restaurant expansion found that the north wall of the new structure needed extensive support, so anchor rods and concrete were added. The supporting anchor rods and concrete extended into a neighboring property farther to the north at a point 20 feet below the surface. Although there was no impact on the surface of his land or on existing uses, the owner of the neighboring property has sued the restaurant owner for trespass. Which party is likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A defendant and a classmate were students at a state college. They were spending a leisurely afternoon listening to music in the defendant's dorm room. They had just consumed a six-pack of beer when the classmate asked the defendant if there was anything else to drink. The defendant indicated there wasn't and suggested that his classmate drive to the store and buy another six-pack. The classmate told the defendant that his car wasn't working and asked the defendant if he could borrow his. The defendant assented and gave his classmate the keys to his car. The defendant knew that the classmate was drunk when he lent him his car. The classmate was driving to the store at an excessive rate of speed. As he approached an intersection, he was traveling at 70 M. PJ-I. When he came to the intersection, the light turned red. The classmate, who made no effort to stop in time, drove through the red light and collided with another car. The driver of the other car, who had entered the intersection with a green light, was killed in the accident. In the event that the defendant can be convicted of manslaughter, it will most likely be upon the basis of",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9431192918944796
+  },
+  {
+   "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8145454878645082
+  },
+  {
+   "question": "A man is the owner of record of a parcel of land designated as \"A. \" It is the highest of three neighboring properties on a mountain. The man's friend is the owner of parcel \"B,\" which is situated lower than \"A\" on the mountainside. The man's cousin owns parcel \"C,\" which lies below parcels \"A\" and \"B\" on the mountain slope. In 2000, the man who originally owned all three parcels of land constructed a private drainage system. This system consisted of an underground pipeline that extended across all three parcels of land. Sewage from parcel \"A\" drained through the system to a municipal sewer, which was located at the bottom of the mountain. In 2005, the man sold parcel \"B\" to his friend. The following year, the cousin purchased parcel \"C\" from the man. The deeds to the friend and the cousin did not contain any mention of the man's drainage system. Located on each of the parcels are large ranch-style homes occupied by the respective owners. From the standpoint of the friend and the cousin, thedrainage system would most likely be defined as a(an)",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082564537590822
+  },
+  {
+   "question": "A baseball card dealer agreed to sell an extremely rare card to a collector. The collector lived in another state. As part of their agreement, a courier was hired to pick up the card from the dealer and transport it to the collector. The courier was then to get the purchase money from the collector and bring it back to the dealer. But rather than entrusting the genuine card to the courier, the dealer gave him a counterfeit replica that was valueless. After picking up the envelope containing the replica, the courier left the dealer's home and embarked on his trip. The police, however, received a tip concerning the scheme and intercepted the courier's car before he left the city limits. Thereafter, the dealer was arrested and charged with attempting to obtain property by false pretenses. If the dealer contends that the scheme had not progressed far enough to constitute an attempt, it will",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9062380448758419
+  },
+  {
+   "question": "In 1993, a landowner had good record title toa vineyard in fee simple absolute. In 1994, thelandowner delivered to his son, for a sum of $1,000,a deed signed by the landowner, naming the son andhis heirs as grantee, and appearing valid on its face. The son neglected to record the deed. In 1998, a farmer, aware of the existence of the landowner-to-son deed, sought out the landowner and asked to buy for $10,000 a deed of the vineyard from the landowner to the farmer and his heirs. The landowner executed such a deed, and the farmer promptly recorded it. The farmer's intent was to acquire color of title and obtain ownership of the vineyard by adverse possession. In 1998, the farmer constructed a fence around the vineyard. In 1999, the son presented his deed of the vineyard to an investor and, for $15,000, paid by the investor, signed and delivered a deed of the vineyard in favor of the investor and his heirs. After receiving the deed, the investor made no effort to search the title, to examine the property, or to record the deed. In 2003, a vintner paid the farmer $20,000, and the farmer delivered to the vintner a deed of the vineyard in favor of the vintner and his heirs. The vintner had examined the property, had searched the title, and had no knowledge of the farmer's awareness of the prior landowner-to-son instrument. Although the vintner did not reside on the property, he regularly visited the vineyard twice a week. The vintner recorded his deed. In 2007, for $25,000, paid by a farmer, the investor signed and delivered a deed of the vineyard naming the farmer and his heirs as grantees. Before the farmer had paid the investor and taken his deed, the farmer visited the vineyard and observed the fence. However, the vintner was not present when the farmer visited the property, and nothing suggested who if anyone was using it. In any case, the farmer did not attempt to search the title before making his purchase. The farmer then recorded the deed. This jurisdiction uses Grantor  Grantee Indices and has no Tract IndexIn 2008, what is the present state of title to the vineyard if the jurisdiction's recording act provides:\"Every conveyance of real estate which is not recorded is void against a subsequent purchaser in good faith for valuable consideration, whose conveyance shall be first duly recorded\"?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.693105253975288
+  },
+  {
+   "question": "A man needed to have the oil changed on his car. On Friday, he decided to take his car to the local dealership to have the oil changed and asked his neighbor if she would give him a ride home from the dealership. The neighbor said, \"Why pay the high prices a dealership will charge you? I can change the oil in your car for you. If you will agree to pay me $50, I'll change the oil in your car over the weekend. \" The man readily agreed. On Sunday afternoon, the man noticed that his neighbor still had not started working on the car. He asked his neighbor if the car would be ready for him to drive to work Monday morning. The neighbor replied, \"I thought about it and realized $50 is too low a price for the work involved. I don't think I'm going to change the oil in your car. \" The man then said, \"Look, I realize $50 is low for the work involved. If you can change the oil in my car by tomorrow morning, I'll pay you an additional $25. And I won't sue you in small claims court for your failure to perform your promise. \" The neighbor then changed the oil late Sunday afternoon, but the man refused to pay to the neighbor anything more than $50. In a suit by the neighbor to recover the additional $25 promised by the man, the neighbor will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082564538070247
+  },
+  {
+   "question": "One night, a victim was in her home when she heard the doorbell ring. When the victim opened the door, she was confronted by three defendants. They pushed the victim inside her house and threatened her with bodily harm if she didn't cooperate. After tying her up with ropes, the trio then proceeded to ransack the victim's home. They then placed many of the victim's valuables and other possessions into a large sack and hurriedly left her house. What crimes should the defendants be convicted of?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9474210346336199
+  },
+  {
+   "question": "A defendant had an argument with his neighbor. As they were quarreling, the defendant pulled out his penknife intending only to frighten the neighbor. The defendant accidentally slightly nicked the neighbor's arm with the knife. Unknown to the defendant, his neighbor was a hemophiliac who then died from the cut. What is the most serious crime that the defendant can be convicted of?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9045342535714038
+  },
+  {
+   "question": "A buyer purchased a shovel at a local hardware store. The shovel had a metal blade and a wooden handle. While the buyer was using the shovel to dig out a tree stump in his back yard, the handle broke in half, causing the buyer to fall and injure his back. The buyer brought a negligence claim against the manufacturer of the shovel. He proved that the shovel broke because of a manufacturing defect that made the handle too weak and that the manufacturer acted unreasonably in allowing this to happen. While conceding that the handle had a defect that caused it to break, the manufacturer established that if the buyer had been using the shovel carefully, he would not have fallen down and would not have been injured when the shovel broke. Assume that the case is governed by the law of a jurisdiction that follows traditional contributory negligence rules. Who is most likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9476340542209738
+  },
+  {
+   "question": "A woman from State A filed an action against a retailer in a state court in State B. The complaint alleged that the retailer had not delivered $100,000 worth of goods for which the woman had paid. Twenty days after being served, the retailer, which is incor-porated in State C and has its principal place of business in State B, filed a notice of removal in a federal district court in State B. Was the action properly removed?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "The buyer asked a manufacturer to make him 100,000 widgets for $1,000,000. The buyer intended to retail them by mail order sales. The widgets had to have the buyer's logo imprinted on them. The manufacturer ordered the raw material and made a new widget mold that contained buyer's logo. The buyer wanted quick delivery of at least 10,000 right away. The manufacturer rushed the order and sent 10,000 conforming widgets two days later. The buyer paid for the widgets but rejected delivery on the remaining 90,000 widgets. The manufacturer filed suit and claimed damages for breach of contract. Defendant buyer filed a motion to dismiss the complaint on the basis that the statute of frauds was violated in that it was a contract for over $500 that was unenforceable under state law. Will the court likely grant the motion to dismiss?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825645357630874
+  },
+  {
+   "question": "A county owns a large expanse of land next to the ocean. Four years ago, in order to enhance the recreational aspects of this land, the county leased most of it to a company. The lease required the company to construct and operate a first-rate luxury hotel complete with bar, restaurant, and private marina and to pay the county 15% of its net profits as rent. The company set up management and operations bylaws for its new hotel, which were reviewed and approved by the county at the time the lease was negotiated. Upon completion of the facilities, the state granted the company a license to sell alcoholic beverages in its restaurant and bar. The hotel announced that the least expensive room was $1,000 per night. Much of the population in the county cannot afford to stay at the new hotel. One resident who cannot afford to pay the hotel fees brings an action against the company, claiming that the high fees operate to discriminate against the poor, in violation of the constitutional right to equal protection. What is the most likely result of this action?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457924732
+  },
+  {
+   "question": "A man died in 1985. His will devised his estate in a Midwestern state to his son and daughter \"to share and share alike as tenants in common. \"At the time of their father's death, the daughter lived in a different part of the Midwestern state (in which the estate was located) while the son resided in a state in the Southwest. After the funeral, the daughter returned to her own residence, but the son decided to occupy the estate. He put his name on the mailbox and has paid the taxes and maintenance expenses. The daughter has been generally aware of this, but because she cared little about the estate, the daughter has never pressed her brother about the property. Since 1985, the daughter has not paid any rent or other compensation to her brother, nor has he requested such payment. In January 2010, a series of disputes arose between the son and daughter for the first time concerning their respective rights to the estate. The state in which the property is located recognizes the usual common law types of cotenancies and there is no applicable legislation on the subject. Now, the son claims the entire fee simple absolute title to the estate and brings an action against his sister to quiet title in himself. If the Midwestern states in which the property is located has an ordinary 20-year adverse possession statute, judgment should be for whom?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9315102304705044
+  },
+  {
+   "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9589266025539339
+  },
+  {
+   "question": "A newspaper printed an article stating that a local doctor was afflicted with a venereal disease and had volunteered for a program studying the various cures for the disease. The article was false, and was printed without adequate research. The doctor sued the newspaper company, claiming damages per se. The paper defended on the basis that this was a public interest article, that the paper was not reckless or malicious in its investigation and reporting, and that the doctor could not prove any special damages. Will the court adopt the defense reasoning and dismiss the case for failure to state a claim?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9035400406167471
+  },
+  {
+   "question": "A man, a woman, and their son went to their neighbor's house. The man intended to take back some tools that he believed were his and that the neighbor was keeping unlawfully. The woman believed that the tools were the man's, and she intended to help the man take them. When the son learned that the man and the woman were going to break into the neighbor's home, he decided to accompany them. The son planned to find some items inside that might be worth taking. Arriving at the neighbor's home, the man opened the front door, which was closed but unlocked. Upon entering, the son went to the neighbor's upstairs bedroom and found a watch, which he took. In the meantime, the man and the woman went to the garage and began rummaging through the neighbor's tools. The man found the tools, which he seized. The three of them then left the neighbor's home. In this jurisdiction, burglary is defined as the breaking and entering of any structure with the intent to commit a felony therein. Which, if any, individuals should be found guilty of conspiracy?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825645370268193
+  },
+  {
+   "question": "A truck and a car collided at an intersection. Both drivers were injured, and each one filed a lawsuit against the other for negligence. At trial, the jury found each of the drivers liable for negligence. The jury found that the amount of the truck driver's injuries was $10,000, and the amount of the car driver's injuries was $8,000. The jury assigned 50 percent of the fault for the accident to the truck driver and 50 percent of the fault to the car driver. Assume that the jurisdiction has a statute in effect that provides: \"Contributory negligence shall not bar recovery in an action to recover damages for negligence resulting in injury to person or property if such negligence was not as great as the negligence of the person from whom recovery is sought. Any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person who is seeking recovery. \"Which of the following is the appropriate judgment in the case?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7346601472551699
+  },
+  {
+   "question": "A state passed a statute stating that it will pay for one-half of the tuition for any student attending a private school, whether religious or secular, as long as the school meets the educational requirements established by the department of education. The parents of two students who attend a public high school in the state sue for a declaratory judgment and injunction in federal court, claiming that the state statute violates the establishment clause of the First Amendment. Assume that the federal court decides to hear the case on its merits. Which of the following is the state's LEAST persuasive argument for sustaining the validity of the statute?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A man committed a series of heinous crimes, including a kidnapping, that took him across state lines and violated federal law. He was convicted and received a life sentence. The felon, however, was pardoned by the President of the United States, who was a childhood friend. A great hue and cry ensued, and the talking heads on television proclaimed that legislation was needed to prevent such injustice again. Would such legislation be constitutional?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.933799207178003
+  },
+  {
+   "question": "A defendant was arrested and charged with burglarizing a pharmacy. The break-in allegedly occurred late one evening after the store had closed for business. The defendant was identified as the perpetrator of the crime by a film that was recorded during the burglary from a hidden camera. When the defendant was apprehended, he denied involvement in the crime and told the arresting officers that he had been out of town when the burglary occurred. Prior to trial, the defendant's court appointed attorney filed a motion requesting discovery of the videotape film that was recorded during the perpetration of the crime. The trial judge granted the request and ordered the prosecution to send a duplicate copy of the videotape to the defendant's attorney. Following the judge's ruling, the prosecuting attorney, pursuant to state law, then filed a discovery motion specifically asking the defendant whether he planned to raise an alibi defense. The prosecuting attorney also sought discovery of the identity of such an alibi witness. Assume that the judge requires the defendant to respond as to whether the defendant intends to raise an alibi defense. May the judge also require the defendant to disclose the identity of the alibi witness?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7035295384397061
+  },
+  {
+   "question": "A man and a brother were identical twins. The man was having an affair with a woman. The woman's husband was aware of his wife's relationship with the man. One morning the husband saw the brother, whom he mistakenly believed was the man. The husband walked toward the brother and said, \"I'm going to punch you in the face, you rat. \" The brother immediately realized that the husband had mistaken him for his brother. The brother had enough time to inform the husband of his mistake but didn't say anything. When the husband came closer, the brother punched him in the mouth. If the husband brings suit against the brother for battery, he should",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.408256453567105
+  },
+  {
+   "question": "A retailer agreed to purchase an orchard's total cherry production for a 12-month period. The contract included this provision: \"Terms: Cash upon delivery  deliveries to be made at least twice per month.\" The deliveries went as scheduled. At the beginning of the fifth month, the orchard sent notice to the retailer that a load of cherries was ready for pick up. The truck driver, however, forgot to take the retailer's check with him. The orchard turned over the cherries but advised the retailer to pay within three days. The retailer sent the check by mail but it arrived late by two days. The orchard refused to deliver any more cherries. The retailer sued the orchard for breach of the installment contract and demanded the difference in price between the cherries on the open market and what he would have paid under the contract. The orchard claimed that the delayed payment impaired the value of the contract and moved to dismiss. Will the court grant the orchard's motion to dismiss?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6558086724240502
+  },
+  {
+   "question": "A man was visiting his friend at the friend's cabin. The man decided to surprise the friend with some fireworks, so he purchased some fireworks and hid them under his friend's chair on the friend's porch. That evening, the friend went outside to smoke and dropped his unfinished cigarette next to his chair on the porch. The cigarette ignited the fireworks, and the fireworks immediately exploded, causing extensive damage to the friend and to his cabin. The man was arrested and is being prosecuted for arson. Will the man be found guilty of arson?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825624941121264
+  },
+  {
+   "question": "A girlfriend lived with her boyfriend in a small apartment. The boyfriend was a gun enthusiast who kept a collection of antique pistols and firearms in the apartment. The boyfriend was also an avid baseball fan and had a fanatic devotion to his favorite team. One evening, the boyfriend was watching his beloved team play their archrival on television. His favorite team lost in extra innings. After the game, the boyfriend became despondent and told his girlfriend that he was so disgusted that he was going to kill himself. The boyfriend took one of the pistols from his gun collection and shot himself in the head. As the boyfriend fell to the floor, wounded, his girlfriend couldn't believe her eyes. At first she thought that she should call 911 for an ambulance. But she was afraid that the police might think that she was responsible for the shooting. Consequently, she decided to do nothing. She proceeded to leave the apartment and spent the night at her mother's home. The boyfriend did not immediately die from the gunshot wound. A subsequent medical examiner's report concluded that the boyfriend died from loss of blood approximately two hours after the shooting. If the girlfriend had sought immediate medical assistance, the boyfriend would have lived. The girlfriend is subsequently prosecuted for her boyffiend's death. She should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A bank loaned a company $1,500,000 for the manufacture of a widget control system. As a condition of the loan, a majority shareholder in the company agreed in writing to personally guarantee the loan. Thereafter, the company defaulted on the loan and entered into a repayment agreement with the bank. This agreement provided that the bank would \"use maximum efforts in selling the company's assets at the highest possible price. \" The bank proceeded to sell the company's assets, discharging the indebtedness of the widget company. Later, it was ascertained that the bank did not realize the \"highest possible price\" in administering the sale of the company's assets. Consequently, the shareholder was forced into bankruptcy and lost her entire investment in the company. The shareholder brings an appropriate action against the bank to recover her investment in the company. She will most likely",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6963117000049843
+  },
+  {
+   "question": "A truck driver was making deliveries for his employer. After telling his employer by phone that he was going for lunch and getting approval, he pulled into the entrance of a restaurant where he intended to have his usual 30- minute lunch break. While entering the parking lot, the driver carelessly ran over and seriously injured a pedestrian. The injured person sued the driver and the driver's employer for negligence in causing her injuries. Is the employer liable?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9622506200623874
+  },
+  {
+   "question": "Pete Smith is the active partner and Bill Jones is the silent partner in a general partnership known as \"Pete Smith Plumbing.\" After six years of being uninvolved in the management of the partnership business, Bill purchases 100 toilets for the business. Pete is incensed because it will probably take years to use up the inventory of so many toilets and seeks your advice. The best advice is",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9418858874081021
+  },
+  {
+   "question": "A large man with menacing tattoos all over his face and bald head followed closely behind a businessman who was lost in a long dark alley. The large man followed the businessman for several blocks of unending, unlit alleys. The businessman was in great fear. The large man was just a few feet behind, singing songs about how he was going to have a \"big meal tonight\" and it looked like he \"had struck it rich,\" and other words indicating possible violence and robbery. Finally, the businessman threw his wallet in one direction and ran the other way, as he yelled, \"You can have my money, just leave me my life!\" The large man picked up the wallet and ran in the opposite direction, but when he came to the end of the alley he was arrested and charged with robbery. He appealed his conviction, arguing that he had no intent to steal and was trying to return the wallet to the victim. Will the appellate court likely affirm the robbery conviction?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "Liang, a talented student from another country, received degrees from several universities in the United States and then decided to stay in the states to teach. Could a state law requiring citizenship for teachers prevent him from doing so?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "As a legislative aide to a U. S. Senator you are called upon to provide an analysis of the constitutionality of a bill pending congressional approval. The bill imposes a 15% tax upon the gross annual receipts from the sales of all birth control devices. The bill has the strong support of conservative and pro-life organizations. The stated purpose of the proposed measure is to raise revenue and spur population growth across the country. In your learned opinion, the proposed tax is probably",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7108727818877851
+  },
+  {
+   "question": "A mail carrier was on a homeowner's premises delivering the mail when he was bitten by a large dog owned by the next door neighbor. Although the owner used due care in keeping the animal in a securely fenced area, he knew of one prior incident where the animal got loose and bit someone. Is the dog's owner liable for the injuries to the mailman?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9364550660434657
+  },
+  {
+   "question": "A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pay the house painter $10,000 within one week after the job is completed. \"Which of the following is the most accurate statement regarding the homeowner's contractual obligation to pay the house painter $10,000?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9559598547429188
+  },
+  {
+   "question": "A city imposes a municipal excise tax of $200 per year on commercial photographic studios in the city. It also imposes an excise tax of $100 per year on every itinerant commercial photographer for the privilege of using the streets and sidewalks. A credit is allowed against this latter tax for any excise tax paid to the city by the photographer or his employer in respect to the maintenance of a photographic studio in the city. In an action by a studio located in the city challenging the constitutionality of the $200 per year excise tax, the court will most likely declare the tax",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.8312293530920853
+  },
+  {
+   "question": "A plaintiff sued the insurer of her home after the insurer denied coverage for water damage to the home allegedly caused by a frozen plastic pipe that burst. At trial, the insurer called as an expert witness an engineer, who testified that the pipe had burst because of age rather than freezing. On cross-examination, the engineer admitted that five years earlier, he had been convicted of tax fraud, even though he had asserted that it was his accountant's error. In response, the insurer calls a witness, who is well acquainted with the engineer and his reputation, to testify that (1) in the witness's opinion, the engineer is a truthful person, and (2) the engineer's neighbors all describe him as a truthful person. How much, if any, of the witness's testimony is admissible?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9491581159033451
+  },
+  {
+   "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5773548869140447
+  },
+  {
+   "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9650595726059809
+  },
+  {
+   "question": "A landowner owned a 10-acre tract of land, in fee simple. The tract was located in a small town. In 1974, the landowner conveyed the tract to the town development association \"on condition that a ski lodge and resort area be built thereon and the land be used solely for skiing purposes and, in the event that said property is not used as a ski resort, the property shall revert to myself, the grantor, my heirs or assigns. \" Subsequently, a ski lodge was built and the land was continuously used as a ski resort for more than 20 years. In 1979, a neighbor, owner of a farm abutting the northeast corner of the 10-acre tract, began to use a portion of the 10-acre tract for ingress and egress to his farm. He used this access road openly, visibly, and notoriously until 2000. The period of prescription in this particular jurisdiction was 20 years. In March 2000, the neighbor decided to sell the farm to a skier. Thereupon, the neighbor and the skier entered into a written real estate sales contract, with closing set for May 1, 2000. On April 1, 2000, the president of the town development association was approached by the skier with the request that a written easement be given over the used area and that an appropriate instrument be delivered to the skier concurrently with the skier's closing with the neighbor. Following the president's meeting with the skier, the town development association held a duly announced meeting and voted unanimously to authorize its trustees to grant such an easement. On April 15, 2000, the landowner died. The landowner's sole descendant and successor in interest was his wife. Upon her husband's death, the wife immediately notified the town development association that if it granted the easement to the skier, the 10-acre tract would revert to her. The skier then brought an appropriate action, joining the neighbor, the wife, and the town development association, seeking a declaratory judgment that the neighbor has a perpetual easement appurtenant to the 10-acre tract. In this action, judgment should be in favor of which of the following parties?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8728721556399954
+  },
+  {
+   "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8776958198389102
+  },
+  {
+   "question": "A restaurant building was expanded into a vacant lot north of its original location. The contractor who was working on the restaurant expansion found that the north wall of the new structure needed extensive support, so anchor rods and concrete were added. The supporting anchor rods and concrete extended into a neighboring property farther to the north at a point 20 feet below the surface. Although there was no impact on the surface of his land or on existing uses, the owner of the neighboring property has sued the restaurant owner for trespass. Which party is likely to prevail?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794458230075
+  },
+  {
+   "question": "A defendant and a classmate were students at a state college. They were spending a leisurely afternoon listening to music in the defendant's dorm room. They had just consumed a six-pack of beer when the classmate asked the defendant if there was anything else to drink. The defendant indicated there wasn't and suggested that his classmate drive to the store and buy another six-pack. The classmate told the defendant that his car wasn't working and asked the defendant if he could borrow his. The defendant assented and gave his classmate the keys to his car. The defendant knew that the classmate was drunk when he lent him his car. The classmate was driving to the store at an excessive rate of speed. As he approached an intersection, he was traveling at 70 M. PJ-I. When he came to the intersection, the light turned red. The classmate, who made no effort to stop in time, drove through the red light and collided with another car. The driver of the other car, who had entered the intersection with a green light, was killed in the accident. In the event that the defendant can be convicted of manslaughter, it will most likely be upon the basis of",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7972418880996732
+  },
+  {
+   "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A man is the owner of record of a parcel of land designated as \"A. \" It is the highest of three neighboring properties on a mountain. The man's friend is the owner of parcel \"B,\" which is situated lower than \"A\" on the mountainside. The man's cousin owns parcel \"C,\" which lies below parcels \"A\" and \"B\" on the mountain slope. In 2000, the man who originally owned all three parcels of land constructed a private drainage system. This system consisted of an underground pipeline that extended across all three parcels of land. Sewage from parcel \"A\" drained through the system to a municipal sewer, which was located at the bottom of the mountain. In 2005, the man sold parcel \"B\" to his friend. The following year, the cousin purchased parcel \"C\" from the man. The deeds to the friend and the cousin did not contain any mention of the man's drainage system. Located on each of the parcels are large ranch-style homes occupied by the respective owners. From the standpoint of the friend and the cousin, thedrainage system would most likely be defined as a(an)",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9411838394960572
+  },
+  {
+   "question": "A baseball card dealer agreed to sell an extremely rare card to a collector. The collector lived in another state. As part of their agreement, a courier was hired to pick up the card from the dealer and transport it to the collector. The courier was then to get the purchase money from the collector and bring it back to the dealer. But rather than entrusting the genuine card to the courier, the dealer gave him a counterfeit replica that was valueless. After picking up the envelope containing the replica, the courier left the dealer's home and embarked on his trip. The police, however, received a tip concerning the scheme and intercepted the courier's car before he left the city limits. Thereafter, the dealer was arrested and charged with attempting to obtain property by false pretenses. If the dealer contends that the scheme had not progressed far enough to constitute an attempt, it will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5773543096609027
+  },
+  {
+   "question": "In 1993, a landowner had good record title toa vineyard in fee simple absolute. In 1994, thelandowner delivered to his son, for a sum of $1,000,a deed signed by the landowner, naming the son andhis heirs as grantee, and appearing valid on its face. The son neglected to record the deed. In 1998, a farmer, aware of the existence of the landowner-to-son deed, sought out the landowner and asked to buy for $10,000 a deed of the vineyard from the landowner to the farmer and his heirs. The landowner executed such a deed, and the farmer promptly recorded it. The farmer's intent was to acquire color of title and obtain ownership of the vineyard by adverse possession. In 1998, the farmer constructed a fence around the vineyard. In 1999, the son presented his deed of the vineyard to an investor and, for $15,000, paid by the investor, signed and delivered a deed of the vineyard in favor of the investor and his heirs. After receiving the deed, the investor made no effort to search the title, to examine the property, or to record the deed. In 2003, a vintner paid the farmer $20,000, and the farmer delivered to the vintner a deed of the vineyard in favor of the vintner and his heirs. The vintner had examined the property, had searched the title, and had no knowledge of the farmer's awareness of the prior landowner-to-son instrument. Although the vintner did not reside on the property, he regularly visited the vineyard twice a week. The vintner recorded his deed. In 2007, for $25,000, paid by a farmer, the investor signed and delivered a deed of the vineyard naming the farmer and his heirs as grantees. Before the farmer had paid the investor and taken his deed, the farmer visited the vineyard and observed the fence. However, the vintner was not present when the farmer visited the property, and nothing suggested who if anyone was using it. In any case, the farmer did not attempt to search the title before making his purchase. The farmer then recorded the deed. This jurisdiction uses Grantor  Grantee Indices and has no Tract IndexIn 2008, what is the present state of title to the vineyard if the jurisdiction's recording act provides:\"Every conveyance of real estate which is not recorded is void against a subsequent purchaser in good faith for valuable consideration, whose conveyance shall be first duly recorded\"?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A man needed to have the oil changed on his car. On Friday, he decided to take his car to the local dealership to have the oil changed and asked his neighbor if she would give him a ride home from the dealership. The neighbor said, \"Why pay the high prices a dealership will charge you? I can change the oil in your car for you. If you will agree to pay me $50, I'll change the oil in your car over the weekend. \" The man readily agreed. On Sunday afternoon, the man noticed that his neighbor still had not started working on the car. He asked his neighbor if the car would be ready for him to drive to work Monday morning. The neighbor replied, \"I thought about it and realized $50 is too low a price for the work involved. I don't think I'm going to change the oil in your car. \" The man then said, \"Look, I realize $50 is low for the work involved. If you can change the oil in my car by tomorrow morning, I'll pay you an additional $25. And I won't sue you in small claims court for your failure to perform your promise. \" The neighbor then changed the oil late Sunday afternoon, but the man refused to pay to the neighbor anything more than $50. In a suit by the neighbor to recover the additional $25 promised by the man, the neighbor will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "One night, a victim was in her home when she heard the doorbell ring. When the victim opened the door, she was confronted by three defendants. They pushed the victim inside her house and threatened her with bodily harm if she didn't cooperate. After tying her up with ropes, the trio then proceeded to ransack the victim's home. They then placed many of the victim's valuables and other possessions into a large sack and hurriedly left her house. What crimes should the defendants be convicted of?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7071096710213792
+  },
+  {
+   "question": "A defendant had an argument with his neighbor. As they were quarreling, the defendant pulled out his penknife intending only to frighten the neighbor. The defendant accidentally slightly nicked the neighbor's arm with the knife. Unknown to the defendant, his neighbor was a hemophiliac who then died from the cut. What is the most serious crime that the defendant can be convicted of?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5749834171400754
+  },
+  {
+   "question": "A buyer purchased a shovel at a local hardware store. The shovel had a metal blade and a wooden handle. While the buyer was using the shovel to dig out a tree stump in his back yard, the handle broke in half, causing the buyer to fall and injure his back. The buyer brought a negligence claim against the manufacturer of the shovel. He proved that the shovel broke because of a manufacturing defect that made the handle too weak and that the manufacturer acted unreasonably in allowing this to happen. While conceding that the handle had a defect that caused it to break, the manufacturer established that if the buyer had been using the shovel carefully, he would not have fallen down and would not have been injured when the shovel broke. Assume that the case is governed by the law of a jurisdiction that follows traditional contributory negligence rules. Who is most likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.577354887024947
+  },
+  {
+   "question": "A woman from State A filed an action against a retailer in a state court in State B. The complaint alleged that the retailer had not delivered $100,000 worth of goods for which the woman had paid. Twenty days after being served, the retailer, which is incor-porated in State C and has its principal place of business in State B, filed a notice of removal in a federal district court in State B. Was the action properly removed?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5773548869201299
+  },
+  {
+   "question": "The buyer asked a manufacturer to make him 100,000 widgets for $1,000,000. The buyer intended to retail them by mail order sales. The widgets had to have the buyer's logo imprinted on them. The manufacturer ordered the raw material and made a new widget mold that contained buyer's logo. The buyer wanted quick delivery of at least 10,000 right away. The manufacturer rushed the order and sent 10,000 conforming widgets two days later. The buyer paid for the widgets but rejected delivery on the remaining 90,000 widgets. The manufacturer filed suit and claimed damages for breach of contract. Defendant buyer filed a motion to dismiss the complaint on the basis that the statute of frauds was violated in that it was a contract for over $500 that was unenforceable under state law. Will the court likely grant the motion to dismiss?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.8296901774601002
+  },
+  {
+   "question": "A county owns a large expanse of land next to the ocean. Four years ago, in order to enhance the recreational aspects of this land, the county leased most of it to a company. The lease required the company to construct and operate a first-rate luxury hotel complete with bar, restaurant, and private marina and to pay the county 15% of its net profits as rent. The company set up management and operations bylaws for its new hotel, which were reviewed and approved by the county at the time the lease was negotiated. Upon completion of the facilities, the state granted the company a license to sell alcoholic beverages in its restaurant and bar. The hotel announced that the least expensive room was $1,000 per night. Much of the population in the county cannot afford to stay at the new hotel. One resident who cannot afford to pay the hotel fees brings an action against the company, claiming that the high fees operate to discriminate against the poor, in violation of the constitutional right to equal protection. What is the most likely result of this action?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6236108316047752
+  },
+  {
+   "question": "A man died in 1985. His will devised his estate in a Midwestern state to his son and daughter \"to share and share alike as tenants in common. \"At the time of their father's death, the daughter lived in a different part of the Midwestern state (in which the estate was located) while the son resided in a state in the Southwest. After the funeral, the daughter returned to her own residence, but the son decided to occupy the estate. He put his name on the mailbox and has paid the taxes and maintenance expenses. The daughter has been generally aware of this, but because she cared little about the estate, the daughter has never pressed her brother about the property. Since 1985, the daughter has not paid any rent or other compensation to her brother, nor has he requested such payment. In January 2010, a series of disputes arose between the son and daughter for the first time concerning their respective rights to the estate. The state in which the property is located recognizes the usual common law types of cotenancies and there is no applicable legislation on the subject. Now, the son claims the entire fee simple absolute title to the estate and brings an action against his sister to quiet title in himself. If the Midwestern states in which the property is located has an ordinary 20-year adverse possession statute, judgment should be for whom?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9420567382977607
+  },
+  {
+   "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5759545347513608
+  },
+  {
+   "question": "A newspaper printed an article stating that a local doctor was afflicted with a venereal disease and had volunteered for a program studying the various cures for the disease. The article was false, and was printed without adequate research. The doctor sued the newspaper company, claiming damages per se. The paper defended on the basis that this was a public interest article, that the paper was not reckless or malicious in its investigation and reporting, and that the doctor could not prove any special damages. Will the court adopt the defense reasoning and dismiss the case for failure to state a claim?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.909093447564255
+  },
+  {
+   "question": "A man, a woman, and their son went to their neighbor's house. The man intended to take back some tools that he believed were his and that the neighbor was keeping unlawfully. The woman believed that the tools were the man's, and she intended to help the man take them. When the son learned that the man and the woman were going to break into the neighbor's home, he decided to accompany them. The son planned to find some items inside that might be worth taking. Arriving at the neighbor's home, the man opened the front door, which was closed but unlocked. Upon entering, the son went to the neighbor's upstairs bedroom and found a watch, which he took. In the meantime, the man and the woman went to the garage and began rummaging through the neighbor's tools. The man found the tools, which he seized. The three of them then left the neighbor's home. In this jurisdiction, burglary is defined as the breaking and entering of any structure with the intent to commit a felony therein. Which, if any, individuals should be found guilty of conspiracy?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A truck and a car collided at an intersection. Both drivers were injured, and each one filed a lawsuit against the other for negligence. At trial, the jury found each of the drivers liable for negligence. The jury found that the amount of the truck driver's injuries was $10,000, and the amount of the car driver's injuries was $8,000. The jury assigned 50 percent of the fault for the accident to the truck driver and 50 percent of the fault to the car driver. Assume that the jurisdiction has a statute in effect that provides: \"Contributory negligence shall not bar recovery in an action to recover damages for negligence resulting in injury to person or property if such negligence was not as great as the negligence of the person from whom recovery is sought. Any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person who is seeking recovery. \"Which of the following is the appropriate judgment in the case?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825645337357286
+  },
+  {
+   "question": "A state passed a statute stating that it will pay for one-half of the tuition for any student attending a private school, whether religious or secular, as long as the school meets the educational requirements established by the department of education. The parents of two students who attend a public high school in the state sue for a declaratory judgment and injunction in federal court, claiming that the state statute violates the establishment clause of the First Amendment. Assume that the federal court decides to hear the case on its merits. Which of the following is the state's LEAST persuasive argument for sustaining the validity of the statute?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9864353834241856
+  },
+  {
+   "question": "A man committed a series of heinous crimes, including a kidnapping, that took him across state lines and violated federal law. He was convicted and received a life sentence. The felon, however, was pardoned by the President of the United States, who was a childhood friend. A great hue and cry ensued, and the talking heads on television proclaimed that legislation was needed to prevent such injustice again. Would such legislation be constitutional?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A defendant was arrested and charged with burglarizing a pharmacy. The break-in allegedly occurred late one evening after the store had closed for business. The defendant was identified as the perpetrator of the crime by a film that was recorded during the burglary from a hidden camera. When the defendant was apprehended, he denied involvement in the crime and told the arresting officers that he had been out of town when the burglary occurred. Prior to trial, the defendant's court appointed attorney filed a motion requesting discovery of the videotape film that was recorded during the perpetration of the crime. The trial judge granted the request and ordered the prosecution to send a duplicate copy of the videotape to the defendant's attorney. Following the judge's ruling, the prosecuting attorney, pursuant to state law, then filed a discovery motion specifically asking the defendant whether he planned to raise an alibi defense. The prosecuting attorney also sought discovery of the identity of such an alibi witness. Assume that the judge requires the defendant to respond as to whether the defendant intends to raise an alibi defense. May the judge also require the defendant to disclose the identity of the alibi witness?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082562496605338
+  },
+  {
+   "question": "A man and a brother were identical twins. The man was having an affair with a woman. The woman's husband was aware of his wife's relationship with the man. One morning the husband saw the brother, whom he mistakenly believed was the man. The husband walked toward the brother and said, \"I'm going to punch you in the face, you rat. \" The brother immediately realized that the husband had mistaken him for his brother. The brother had enough time to inform the husband of his mistake but didn't say anything. When the husband came closer, the brother punched him in the mouth. If the husband brings suit against the brother for battery, he should",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9949326250976642
+  },
+  {
+   "question": "A retailer agreed to purchase an orchard's total cherry production for a 12-month period. The contract included this provision: \"Terms: Cash upon delivery  deliveries to be made at least twice per month.\" The deliveries went as scheduled. At the beginning of the fifth month, the orchard sent notice to the retailer that a load of cherries was ready for pick up. The truck driver, however, forgot to take the retailer's check with him. The orchard turned over the cherries but advised the retailer to pay within three days. The retailer sent the check by mail but it arrived late by two days. The orchard refused to deliver any more cherries. The retailer sued the orchard for breach of the installment contract and demanded the difference in price between the cherries on the open market and what he would have paid under the contract. The orchard claimed that the delayed payment impaired the value of the contract and moved to dismiss. Will the court grant the orchard's motion to dismiss?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794497507606
+  },
+  {
+   "question": "A man was visiting his friend at the friend's cabin. The man decided to surprise the friend with some fireworks, so he purchased some fireworks and hid them under his friend's chair on the friend's porch. That evening, the friend went outside to smoke and dropped his unfinished cigarette next to his chair on the porch. The cigarette ignited the fireworks, and the fireworks immediately exploded, causing extensive damage to the friend and to his cabin. The man was arrested and is being prosecuted for arson. Will the man be found guilty of arson?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A girlfriend lived with her boyfriend in a small apartment. The boyfriend was a gun enthusiast who kept a collection of antique pistols and firearms in the apartment. The boyfriend was also an avid baseball fan and had a fanatic devotion to his favorite team. One evening, the boyfriend was watching his beloved team play their archrival on television. His favorite team lost in extra innings. After the game, the boyfriend became despondent and told his girlfriend that he was so disgusted that he was going to kill himself. The boyfriend took one of the pistols from his gun collection and shot himself in the head. As the boyfriend fell to the floor, wounded, his girlfriend couldn't believe her eyes. At first she thought that she should call 911 for an ambulance. But she was afraid that the police might think that she was responsible for the shooting. Consequently, she decided to do nothing. She proceeded to leave the apartment and spent the night at her mother's home. The boyfriend did not immediately die from the gunshot wound. A subsequent medical examiner's report concluded that the boyfriend died from loss of blood approximately two hours after the shooting. If the girlfriend had sought immediate medical assistance, the boyfriend would have lived. The girlfriend is subsequently prosecuted for her boyffiend's death. She should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8098374647255734
+  },
+  {
+   "question": "A bank loaned a company $1,500,000 for the manufacture of a widget control system. As a condition of the loan, a majority shareholder in the company agreed in writing to personally guarantee the loan. Thereafter, the company defaulted on the loan and entered into a repayment agreement with the bank. This agreement provided that the bank would \"use maximum efforts in selling the company's assets at the highest possible price. \" The bank proceeded to sell the company's assets, discharging the indebtedness of the widget company. Later, it was ascertained that the bank did not realize the \"highest possible price\" in administering the sale of the company's assets. Consequently, the shareholder was forced into bankruptcy and lost her entire investment in the company. The shareholder brings an appropriate action against the bank to recover her investment in the company. She will most likely",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9482005452803421
+  },
+  {
+   "question": "A truck driver was making deliveries for his employer. After telling his employer by phone that he was going for lunch and getting approval, he pulled into the entrance of a restaurant where he intended to have his usual 30- minute lunch break. While entering the parking lot, the driver carelessly ran over and seriously injured a pedestrian. The injured person sued the driver and the driver's employer for negligence in causing her injuries. Is the employer liable?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Pete Smith is the active partner and Bill Jones is the silent partner in a general partnership known as \"Pete Smith Plumbing.\" After six years of being uninvolved in the management of the partnership business, Bill purchases 100 toilets for the business. Pete is incensed because it will probably take years to use up the inventory of so many toilets and seeks your advice. The best advice is",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9494218269949736
+  },
+  {
+   "question": "A large man with menacing tattoos all over his face and bald head followed closely behind a businessman who was lost in a long dark alley. The large man followed the businessman for several blocks of unending, unlit alleys. The businessman was in great fear. The large man was just a few feet behind, singing songs about how he was going to have a \"big meal tonight\" and it looked like he \"had struck it rich,\" and other words indicating possible violence and robbery. Finally, the businessman threw his wallet in one direction and ran the other way, as he yelled, \"You can have my money, just leave me my life!\" The large man picked up the wallet and ran in the opposite direction, but when he came to the end of the alley he was arrested and charged with robbery. He appealed his conviction, arguing that he had no intent to steal and was trying to return the wallet to the victim. Will the appellate court likely affirm the robbery conviction?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9559161314673794
+  },
+  {
+   "question": "Liang, a talented student from another country, received degrees from several universities in the United States and then decided to stay in the states to teach. Could a state law requiring citizenship for teachers prevent him from doing so?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9643029394463978
+  },
+  {
+   "question": "As a legislative aide to a U. S. Senator you are called upon to provide an analysis of the constitutionality of a bill pending congressional approval. The bill imposes a 15% tax upon the gross annual receipts from the sales of all birth control devices. The bill has the strong support of conservative and pro-life organizations. The stated purpose of the proposed measure is to raise revenue and spur population growth across the country. In your learned opinion, the proposed tax is probably",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9685587756707081
+  },
+  {
+   "question": "A mail carrier was on a homeowner's premises delivering the mail when he was bitten by a large dog owned by the next door neighbor. Although the owner used due care in keeping the animal in a securely fenced area, he knew of one prior incident where the animal got loose and bit someone. Is the dog's owner liable for the injuries to the mailman?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5190343707440959
+  },
+  {
+   "question": "A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pay the house painter $10,000 within one week after the job is completed. \"Which of the following is the most accurate statement regarding the homeowner's contractual obligation to pay the house painter $10,000?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794458218528
+  },
+  {
+   "question": "A city imposes a municipal excise tax of $200 per year on commercial photographic studios in the city. It also imposes an excise tax of $100 per year on every itinerant commercial photographer for the privilege of using the streets and sidewalks. A credit is allowed against this latter tax for any excise tax paid to the city by the photographer or his employer in respect to the maintenance of a photographic studio in the city. In an action by a studio located in the city challenging the constitutionality of the $200 per year excise tax, the court will most likely declare the tax",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082564537590822
+  },
+  {
+   "question": "A plaintiff sued the insurer of her home after the insurer denied coverage for water damage to the home allegedly caused by a frozen plastic pipe that burst. At trial, the insurer called as an expert witness an engineer, who testified that the pipe had burst because of age rather than freezing. On cross-examination, the engineer admitted that five years earlier, he had been convicted of tax fraud, even though he had asserted that it was his accountant's error. In response, the insurer calls a witness, who is well acquainted with the engineer and his reputation, to testify that (1) in the witness's opinion, the engineer is a truthful person, and (2) the engineer's neighbors all describe him as a truthful person. How much, if any, of the witness's testimony is admissible?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825645357630874
+  },
+  {
+   "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7442545117963995
+  },
+  {
+   "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.754338932459956
+  },
+  {
+   "question": "A landowner owned a 10-acre tract of land, in fee simple. The tract was located in a small town. In 1974, the landowner conveyed the tract to the town development association \"on condition that a ski lodge and resort area be built thereon and the land be used solely for skiing purposes and, in the event that said property is not used as a ski resort, the property shall revert to myself, the grantor, my heirs or assigns. \" Subsequently, a ski lodge was built and the land was continuously used as a ski resort for more than 20 years. In 1979, a neighbor, owner of a farm abutting the northeast corner of the 10-acre tract, began to use a portion of the 10-acre tract for ingress and egress to his farm. He used this access road openly, visibly, and notoriously until 2000. The period of prescription in this particular jurisdiction was 20 years. In March 2000, the neighbor decided to sell the farm to a skier. Thereupon, the neighbor and the skier entered into a written real estate sales contract, with closing set for May 1, 2000. On April 1, 2000, the president of the town development association was approached by the skier with the request that a written easement be given over the used area and that an appropriate instrument be delivered to the skier concurrently with the skier's closing with the neighbor. Following the president's meeting with the skier, the town development association held a duly announced meeting and voted unanimously to authorize its trustees to grant such an easement. On April 15, 2000, the landowner died. The landowner's sole descendant and successor in interest was his wife. Upon her husband's death, the wife immediately notified the town development association that if it granted the easement to the skier, the 10-acre tract would revert to her. The skier then brought an appropriate action, joining the neighbor, the wife, and the town development association, seeking a declaratory judgment that the neighbor has a perpetual easement appurtenant to the 10-acre tract. In this action, judgment should be in favor of which of the following parties?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.7590728173762006
+  },
+  {
+   "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A restaurant building was expanded into a vacant lot north of its original location. The contractor who was working on the restaurant expansion found that the north wall of the new structure needed extensive support, so anchor rods and concrete were added. The supporting anchor rods and concrete extended into a neighboring property farther to the north at a point 20 feet below the surface. Although there was no impact on the surface of his land or on existing uses, the owner of the neighboring property has sued the restaurant owner for trespass. Which party is likely to prevail?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "A defendant and a classmate were students at a state college. They were spending a leisurely afternoon listening to music in the defendant's dorm room. They had just consumed a six-pack of beer when the classmate asked the defendant if there was anything else to drink. The defendant indicated there wasn't and suggested that his classmate drive to the store and buy another six-pack. The classmate told the defendant that his car wasn't working and asked the defendant if he could borrow his. The defendant assented and gave his classmate the keys to his car. The defendant knew that the classmate was drunk when he lent him his car. The classmate was driving to the store at an excessive rate of speed. As he approached an intersection, he was traveling at 70 M. PJ-I. When he came to the intersection, the light turned red. The classmate, who made no effort to stop in time, drove through the red light and collided with another car. The driver of the other car, who had entered the intersection with a green light, was killed in the accident. In the event that the defendant can be convicted of manslaughter, it will most likely be upon the basis of",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6194007881227838
+  },
+  {
+   "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.5551393412217898
+  },
+  {
+   "question": "A man is the owner of record of a parcel of land designated as \"A. \" It is the highest of three neighboring properties on a mountain. The man's friend is the owner of parcel \"B,\" which is situated lower than \"A\" on the mountainside. The man's cousin owns parcel \"C,\" which lies below parcels \"A\" and \"B\" on the mountain slope. In 2000, the man who originally owned all three parcels of land constructed a private drainage system. This system consisted of an underground pipeline that extended across all three parcels of land. Sewage from parcel \"A\" drained through the system to a municipal sewer, which was located at the bottom of the mountain. In 2005, the man sold parcel \"B\" to his friend. The following year, the cousin purchased parcel \"C\" from the man. The deeds to the friend and the cousin did not contain any mention of the man's drainage system. Located on each of the parcels are large ranch-style homes occupied by the respective owners. From the standpoint of the friend and the cousin, thedrainage system would most likely be defined as a(an)",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6405136683201422
+  },
+  {
+   "question": "A baseball card dealer agreed to sell an extremely rare card to a collector. The collector lived in another state. As part of their agreement, a courier was hired to pick up the card from the dealer and transport it to the collector. The courier was then to get the purchase money from the collector and bring it back to the dealer. But rather than entrusting the genuine card to the courier, the dealer gave him a counterfeit replica that was valueless. After picking up the envelope containing the replica, the courier left the dealer's home and embarked on his trip. The police, however, received a tip concerning the scheme and intercepted the courier's car before he left the city limits. Thereafter, the dealer was arrested and charged with attempting to obtain property by false pretenses. If the dealer contends that the scheme had not progressed far enough to constitute an attempt, it will",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "In 1993, a landowner had good record title toa vineyard in fee simple absolute. In 1994, thelandowner delivered to his son, for a sum of $1,000,a deed signed by the landowner, naming the son andhis heirs as grantee, and appearing valid on its face. The son neglected to record the deed. In 1998, a farmer, aware of the existence of the landowner-to-son deed, sought out the landowner and asked to buy for $10,000 a deed of the vineyard from the landowner to the farmer and his heirs. The landowner executed such a deed, and the farmer promptly recorded it. The farmer's intent was to acquire color of title and obtain ownership of the vineyard by adverse possession. In 1998, the farmer constructed a fence around the vineyard. In 1999, the son presented his deed of the vineyard to an investor and, for $15,000, paid by the investor, signed and delivered a deed of the vineyard in favor of the investor and his heirs. After receiving the deed, the investor made no effort to search the title, to examine the property, or to record the deed. In 2003, a vintner paid the farmer $20,000, and the farmer delivered to the vintner a deed of the vineyard in favor of the vintner and his heirs. The vintner had examined the property, had searched the title, and had no knowledge of the farmer's awareness of the prior landowner-to-son instrument. Although the vintner did not reside on the property, he regularly visited the vineyard twice a week. The vintner recorded his deed. In 2007, for $25,000, paid by a farmer, the investor signed and delivered a deed of the vineyard naming the farmer and his heirs as grantees. Before the farmer had paid the investor and taken his deed, the farmer visited the vineyard and observed the fence. However, the vintner was not present when the farmer visited the property, and nothing suggested who if anyone was using it. In any case, the farmer did not attempt to search the title before making his purchase. The farmer then recorded the deed. This jurisdiction uses Grantor  Grantee Indices and has no Tract IndexIn 2008, what is the present state of title to the vineyard if the jurisdiction's recording act provides:\"Every conveyance of real estate which is not recorded is void against a subsequent purchaser in good faith for valuable consideration, whose conveyance shall be first duly recorded\"?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9770085392600841
+  },
+  {
+   "question": "A man needed to have the oil changed on his car. On Friday, he decided to take his car to the local dealership to have the oil changed and asked his neighbor if she would give him a ride home from the dealership. The neighbor said, \"Why pay the high prices a dealership will charge you? I can change the oil in your car for you. If you will agree to pay me $50, I'll change the oil in your car over the weekend. \" The man readily agreed. On Sunday afternoon, the man noticed that his neighbor still had not started working on the car. He asked his neighbor if the car would be ready for him to drive to work Monday morning. The neighbor replied, \"I thought about it and realized $50 is too low a price for the work involved. I don't think I'm going to change the oil in your car. \" The man then said, \"Look, I realize $50 is low for the work involved. If you can change the oil in my car by tomorrow morning, I'll pay you an additional $25. And I won't sue you in small claims court for your failure to perform your promise. \" The neighbor then changed the oil late Sunday afternoon, but the man refused to pay to the neighbor anything more than $50. In a suit by the neighbor to recover the additional $25 promised by the man, the neighbor will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "One night, a victim was in her home when she heard the doorbell ring. When the victim opened the door, she was confronted by three defendants. They pushed the victim inside her house and threatened her with bodily harm if she didn't cooperate. After tying her up with ropes, the trio then proceeded to ransack the victim's home. They then placed many of the victim's valuables and other possessions into a large sack and hurriedly left her house. What crimes should the defendants be convicted of?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9371585972833975
+  },
+  {
+   "question": "A defendant had an argument with his neighbor. As they were quarreling, the defendant pulled out his penknife intending only to frighten the neighbor. The defendant accidentally slightly nicked the neighbor's arm with the knife. Unknown to the defendant, his neighbor was a hemophiliac who then died from the cut. What is the most serious crime that the defendant can be convicted of?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9498081134495353
+  },
+  {
+   "question": "A buyer purchased a shovel at a local hardware store. The shovel had a metal blade and a wooden handle. While the buyer was using the shovel to dig out a tree stump in his back yard, the handle broke in half, causing the buyer to fall and injure his back. The buyer brought a negligence claim against the manufacturer of the shovel. He proved that the shovel broke because of a manufacturing defect that made the handle too weak and that the manufacturer acted unreasonably in allowing this to happen. While conceding that the handle had a defect that caused it to break, the manufacturer established that if the buyer had been using the shovel carefully, he would not have fallen down and would not have been injured when the shovel broke. Assume that the case is governed by the law of a jurisdiction that follows traditional contributory negligence rules. Who is most likely to prevail?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9736677234892741
+  },
+  {
+   "question": "A woman from State A filed an action against a retailer in a state court in State B. The complaint alleged that the retailer had not delivered $100,000 worth of goods for which the woman had paid. Twenty days after being served, the retailer, which is incor-porated in State C and has its principal place of business in State B, filed a notice of removal in a federal district court in State B. Was the action properly removed?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5477287636733992
+  },
+  {
+   "question": "The buyer asked a manufacturer to make him 100,000 widgets for $1,000,000. The buyer intended to retail them by mail order sales. The widgets had to have the buyer's logo imprinted on them. The manufacturer ordered the raw material and made a new widget mold that contained buyer's logo. The buyer wanted quick delivery of at least 10,000 right away. The manufacturer rushed the order and sent 10,000 conforming widgets two days later. The buyer paid for the widgets but rejected delivery on the remaining 90,000 widgets. The manufacturer filed suit and claimed damages for breach of contract. Defendant buyer filed a motion to dismiss the complaint on the basis that the statute of frauds was violated in that it was a contract for over $500 that was unenforceable under state law. Will the court likely grant the motion to dismiss?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9778511084084097
+  },
+  {
+   "question": "A county owns a large expanse of land next to the ocean. Four years ago, in order to enhance the recreational aspects of this land, the county leased most of it to a company. The lease required the company to construct and operate a first-rate luxury hotel complete with bar, restaurant, and private marina and to pay the county 15% of its net profits as rent. The company set up management and operations bylaws for its new hotel, which were reviewed and approved by the county at the time the lease was negotiated. Upon completion of the facilities, the state granted the company a license to sell alcoholic beverages in its restaurant and bar. The hotel announced that the least expensive room was $1,000 per night. Much of the population in the county cannot afford to stay at the new hotel. One resident who cannot afford to pay the hotel fees brings an action against the company, claiming that the high fees operate to discriminate against the poor, in violation of the constitutional right to equal protection. What is the most likely result of this action?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9583149219613235
+  },
+  {
+   "question": "A man died in 1985. His will devised his estate in a Midwestern state to his son and daughter \"to share and share alike as tenants in common. \"At the time of their father's death, the daughter lived in a different part of the Midwestern state (in which the estate was located) while the son resided in a state in the Southwest. After the funeral, the daughter returned to her own residence, but the son decided to occupy the estate. He put his name on the mailbox and has paid the taxes and maintenance expenses. The daughter has been generally aware of this, but because she cared little about the estate, the daughter has never pressed her brother about the property. Since 1985, the daughter has not paid any rent or other compensation to her brother, nor has he requested such payment. In January 2010, a series of disputes arose between the son and daughter for the first time concerning their respective rights to the estate. The state in which the property is located recognizes the usual common law types of cotenancies and there is no applicable legislation on the subject. Now, the son claims the entire fee simple absolute title to the estate and brings an action against his sister to quiet title in himself. If the Midwestern states in which the property is located has an ordinary 20-year adverse possession statute, judgment should be for whom?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6931056792764108
+  },
+  {
+   "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082564537610728
+  },
+  {
+   "question": "A newspaper printed an article stating that a local doctor was afflicted with a venereal disease and had volunteered for a program studying the various cures for the disease. The article was false, and was printed without adequate research. The doctor sued the newspaper company, claiming damages per se. The paper defended on the basis that this was a public interest article, that the paper was not reckless or malicious in its investigation and reporting, and that the doctor could not prove any special damages. Will the court adopt the defense reasoning and dismiss the case for failure to state a claim?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.767148286162984
+  },
+  {
+   "question": "A man, a woman, and their son went to their neighbor's house. The man intended to take back some tools that he believed were his and that the neighbor was keeping unlawfully. The woman believed that the tools were the man's, and she intended to help the man take them. When the son learned that the man and the woman were going to break into the neighbor's home, he decided to accompany them. The son planned to find some items inside that might be worth taking. Arriving at the neighbor's home, the man opened the front door, which was closed but unlocked. Upon entering, the son went to the neighbor's upstairs bedroom and found a watch, which he took. In the meantime, the man and the woman went to the garage and began rummaging through the neighbor's tools. The man found the tools, which he seized. The three of them then left the neighbor's home. In this jurisdiction, burglary is defined as the breaking and entering of any structure with the intent to commit a felony therein. Which, if any, individuals should be found guilty of conspiracy?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A truck and a car collided at an intersection. Both drivers were injured, and each one filed a lawsuit against the other for negligence. At trial, the jury found each of the drivers liable for negligence. The jury found that the amount of the truck driver's injuries was $10,000, and the amount of the car driver's injuries was $8,000. The jury assigned 50 percent of the fault for the accident to the truck driver and 50 percent of the fault to the car driver. Assume that the jurisdiction has a statute in effect that provides: \"Contributory negligence shall not bar recovery in an action to recover damages for negligence resulting in injury to person or property if such negligence was not as great as the negligence of the person from whom recovery is sought. Any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person who is seeking recovery. \"Which of the following is the appropriate judgment in the case?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9428976727392783
+  },
+  {
+   "question": "A state passed a statute stating that it will pay for one-half of the tuition for any student attending a private school, whether religious or secular, as long as the school meets the educational requirements established by the department of education. The parents of two students who attend a public high school in the state sue for a declaratory judgment and injunction in federal court, claiming that the state statute violates the establishment clause of the First Amendment. Assume that the federal court decides to hear the case on its merits. Which of the following is the state's LEAST persuasive argument for sustaining the validity of the statute?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9128709286901803
+  },
+  {
+   "question": "A man committed a series of heinous crimes, including a kidnapping, that took him across state lines and violated federal law. He was convicted and received a life sentence. The felon, however, was pardoned by the President of the United States, who was a childhood friend. A great hue and cry ensued, and the talking heads on television proclaimed that legislation was needed to prevent such injustice again. Would such legislation be constitutional?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A defendant was arrested and charged with burglarizing a pharmacy. The break-in allegedly occurred late one evening after the store had closed for business. The defendant was identified as the perpetrator of the crime by a film that was recorded during the burglary from a hidden camera. When the defendant was apprehended, he denied involvement in the crime and told the arresting officers that he had been out of town when the burglary occurred. Prior to trial, the defendant's court appointed attorney filed a motion requesting discovery of the videotape film that was recorded during the perpetration of the crime. The trial judge granted the request and ordered the prosecution to send a duplicate copy of the videotape to the defendant's attorney. Following the judge's ruling, the prosecuting attorney, pursuant to state law, then filed a discovery motion specifically asking the defendant whether he planned to raise an alibi defense. The prosecuting attorney also sought discovery of the identity of such an alibi witness. Assume that the judge requires the defendant to respond as to whether the defendant intends to raise an alibi defense. May the judge also require the defendant to disclose the identity of the alibi witness?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6986559692087697
+  },
+  {
+   "question": "A man and a brother were identical twins. The man was having an affair with a woman. The woman's husband was aware of his wife's relationship with the man. One morning the husband saw the brother, whom he mistakenly believed was the man. The husband walked toward the brother and said, \"I'm going to punch you in the face, you rat. \" The brother immediately realized that the husband had mistaken him for his brother. The brother had enough time to inform the husband of his mistake but didn't say anything. When the husband came closer, the brother punched him in the mouth. If the husband brings suit against the brother for battery, he should",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.774597908639892
+  },
+  {
+   "question": "A retailer agreed to purchase an orchard's total cherry production for a 12-month period. The contract included this provision: \"Terms: Cash upon delivery  deliveries to be made at least twice per month.\" The deliveries went as scheduled. At the beginning of the fifth month, the orchard sent notice to the retailer that a load of cherries was ready for pick up. The truck driver, however, forgot to take the retailer's check with him. The orchard turned over the cherries but advised the retailer to pay within three days. The retailer sent the check by mail but it arrived late by two days. The orchard refused to deliver any more cherries. The retailer sued the orchard for breach of the installment contract and demanded the difference in price between the cherries on the open market and what he would have paid under the contract. The orchard claimed that the delayed payment impaired the value of the contract and moved to dismiss. Will the court grant the orchard's motion to dismiss?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.815367993921287
+  },
+  {
+   "question": "A man was visiting his friend at the friend's cabin. The man decided to surprise the friend with some fireworks, so he purchased some fireworks and hid them under his friend's chair on the friend's porch. That evening, the friend went outside to smoke and dropped his unfinished cigarette next to his chair on the porch. The cigarette ignited the fireworks, and the fireworks immediately exploded, causing extensive damage to the friend and to his cabin. The man was arrested and is being prosecuted for arson. Will the man be found guilty of arson?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A girlfriend lived with her boyfriend in a small apartment. The boyfriend was a gun enthusiast who kept a collection of antique pistols and firearms in the apartment. The boyfriend was also an avid baseball fan and had a fanatic devotion to his favorite team. One evening, the boyfriend was watching his beloved team play their archrival on television. His favorite team lost in extra innings. After the game, the boyfriend became despondent and told his girlfriend that he was so disgusted that he was going to kill himself. The boyfriend took one of the pistols from his gun collection and shot himself in the head. As the boyfriend fell to the floor, wounded, his girlfriend couldn't believe her eyes. At first she thought that she should call 911 for an ambulance. But she was afraid that the police might think that she was responsible for the shooting. Consequently, she decided to do nothing. She proceeded to leave the apartment and spent the night at her mother's home. The boyfriend did not immediately die from the gunshot wound. A subsequent medical examiner's report concluded that the boyfriend died from loss of blood approximately two hours after the shooting. If the girlfriend had sought immediate medical assistance, the boyfriend would have lived. The girlfriend is subsequently prosecuted for her boyffiend's death. She should be found",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "A bank loaned a company $1,500,000 for the manufacture of a widget control system. As a condition of the loan, a majority shareholder in the company agreed in writing to personally guarantee the loan. Thereafter, the company defaulted on the loan and entered into a repayment agreement with the bank. This agreement provided that the bank would \"use maximum efforts in selling the company's assets at the highest possible price. \" The bank proceeded to sell the company's assets, discharging the indebtedness of the widget company. Later, it was ascertained that the bank did not realize the \"highest possible price\" in administering the sale of the company's assets. Consequently, the shareholder was forced into bankruptcy and lost her entire investment in the company. The shareholder brings an appropriate action against the bank to recover her investment in the company. She will most likely",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.40825605077155475
+  },
+  {
+   "question": "A truck driver was making deliveries for his employer. After telling his employer by phone that he was going for lunch and getting approval, he pulled into the entrance of a restaurant where he intended to have his usual 30- minute lunch break. While entering the parking lot, the driver carelessly ran over and seriously injured a pedestrian. The injured person sued the driver and the driver's employer for negligence in causing her injuries. Is the employer liable?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Pete Smith is the active partner and Bill Jones is the silent partner in a general partnership known as \"Pete Smith Plumbing.\" After six years of being uninvolved in the management of the partnership business, Bill purchases 100 toilets for the business. Pete is incensed because it will probably take years to use up the inventory of so many toilets and seeks your advice. The best advice is",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9532055635811456
+  },
+  {
+   "question": "A large man with menacing tattoos all over his face and bald head followed closely behind a businessman who was lost in a long dark alley. The large man followed the businessman for several blocks of unending, unlit alleys. The businessman was in great fear. The large man was just a few feet behind, singing songs about how he was going to have a \"big meal tonight\" and it looked like he \"had struck it rich,\" and other words indicating possible violence and robbery. Finally, the businessman threw his wallet in one direction and ran the other way, as he yelled, \"You can have my money, just leave me my life!\" The large man picked up the wallet and ran in the opposite direction, but when he came to the end of the alley he was arrested and charged with robbery. He appealed his conviction, arguing that he had no intent to steal and was trying to return the wallet to the victim. Will the appellate court likely affirm the robbery conviction?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794458218528
+  },
+  {
+   "question": "Liang, a talented student from another country, received degrees from several universities in the United States and then decided to stay in the states to teach. Could a state law requiring citizenship for teachers prevent him from doing so?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9533491916967831
+  },
+  {
+   "question": "As a legislative aide to a U. S. Senator you are called upon to provide an analysis of the constitutionality of a bill pending congressional approval. The bill imposes a 15% tax upon the gross annual receipts from the sales of all birth control devices. The bill has the strong support of conservative and pro-life organizations. The stated purpose of the proposed measure is to raise revenue and spur population growth across the country. In your learned opinion, the proposed tax is probably",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5437176390878935
+  },
+  {
+   "question": "A mail carrier was on a homeowner's premises delivering the mail when he was bitten by a large dog owned by the next door neighbor. Although the owner used due care in keeping the animal in a securely fenced area, he knew of one prior incident where the animal got loose and bit someone. Is the dog's owner liable for the injuries to the mailman?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082562495949804
+  },
+  {
+   "question": "A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pay the house painter $10,000 within one week after the job is completed. \"Which of the following is the most accurate statement regarding the homeowner's contractual obligation to pay the house painter $10,000?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "A city imposes a municipal excise tax of $200 per year on commercial photographic studios in the city. It also imposes an excise tax of $100 per year on every itinerant commercial photographer for the privilege of using the streets and sidewalks. A credit is allowed against this latter tax for any excise tax paid to the city by the photographer or his employer in respect to the maintenance of a photographic studio in the city. In an action by a studio located in the city challenging the constitutionality of the $200 per year excise tax, the court will most likely declare the tax",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9363823513226519
+  },
+  {
+   "question": "A plaintiff sued the insurer of her home after the insurer denied coverage for water damage to the home allegedly caused by a frozen plastic pipe that burst. At trial, the insurer called as an expert witness an engineer, who testified that the pipe had burst because of age rather than freezing. On cross-examination, the engineer admitted that five years earlier, he had been convicted of tax fraud, even though he had asserted that it was his accountant's error. In response, the insurer calls a witness, who is well acquainted with the engineer and his reputation, to testify that (1) in the witness's opinion, the engineer is a truthful person, and (2) the engineer's neighbors all describe him as a truthful person. How much, if any, of the witness's testimony is admissible?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.4082589027745167
+  },
+  {
+   "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.620758189877053
+  },
+  {
+   "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9491581091559204
+  },
+  {
+   "question": "A landowner owned a 10-acre tract of land, in fee simple. The tract was located in a small town. In 1974, the landowner conveyed the tract to the town development association \"on condition that a ski lodge and resort area be built thereon and the land be used solely for skiing purposes and, in the event that said property is not used as a ski resort, the property shall revert to myself, the grantor, my heirs or assigns. \" Subsequently, a ski lodge was built and the land was continuously used as a ski resort for more than 20 years. In 1979, a neighbor, owner of a farm abutting the northeast corner of the 10-acre tract, began to use a portion of the 10-acre tract for ingress and egress to his farm. He used this access road openly, visibly, and notoriously until 2000. The period of prescription in this particular jurisdiction was 20 years. In March 2000, the neighbor decided to sell the farm to a skier. Thereupon, the neighbor and the skier entered into a written real estate sales contract, with closing set for May 1, 2000. On April 1, 2000, the president of the town development association was approached by the skier with the request that a written easement be given over the used area and that an appropriate instrument be delivered to the skier concurrently with the skier's closing with the neighbor. Following the president's meeting with the skier, the town development association held a duly announced meeting and voted unanimously to authorize its trustees to grant such an easement. On April 15, 2000, the landowner died. The landowner's sole descendant and successor in interest was his wife. Upon her husband's death, the wife immediately notified the town development association that if it granted the easement to the skier, the 10-acre tract would revert to her. The skier then brought an appropriate action, joining the neighbor, the wife, and the town development association, seeking a declaratory judgment that the neighbor has a perpetual easement appurtenant to the 10-acre tract. In this action, judgment should be in favor of which of the following parties?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9358193650045703
+  },
+  {
+   "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7302997185972667
+  },
+  {
+   "question": "A restaurant building was expanded into a vacant lot north of its original location. The contractor who was working on the restaurant expansion found that the north wall of the new structure needed extensive support, so anchor rods and concrete were added. The supporting anchor rods and concrete extended into a neighboring property farther to the north at a point 20 feet below the surface. Although there was no impact on the surface of his land or on existing uses, the owner of the neighboring property has sued the restaurant owner for trespass. Which party is likely to prevail?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9528395758344337
+  },
+  {
+   "question": "A defendant and a classmate were students at a state college. They were spending a leisurely afternoon listening to music in the defendant's dorm room. They had just consumed a six-pack of beer when the classmate asked the defendant if there was anything else to drink. The defendant indicated there wasn't and suggested that his classmate drive to the store and buy another six-pack. The classmate told the defendant that his car wasn't working and asked the defendant if he could borrow his. The defendant assented and gave his classmate the keys to his car. The defendant knew that the classmate was drunk when he lent him his car. The classmate was driving to the store at an excessive rate of speed. As he approached an intersection, he was traveling at 70 M. PJ-I. When he came to the intersection, the light turned red. The classmate, who made no effort to stop in time, drove through the red light and collided with another car. The driver of the other car, who had entered the intersection with a green light, was killed in the accident. In the event that the defendant can be convicted of manslaughter, it will most likely be upon the basis of",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9510901635332776
+  },
+  {
+   "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7171093874698823
+  },
+  {
+   "question": "A man is the owner of record of a parcel of land designated as \"A. \" It is the highest of three neighboring properties on a mountain. The man's friend is the owner of parcel \"B,\" which is situated lower than \"A\" on the mountainside. The man's cousin owns parcel \"C,\" which lies below parcels \"A\" and \"B\" on the mountain slope. In 2000, the man who originally owned all three parcels of land constructed a private drainage system. This system consisted of an underground pipeline that extended across all three parcels of land. Sewage from parcel \"A\" drained through the system to a municipal sewer, which was located at the bottom of the mountain. In 2005, the man sold parcel \"B\" to his friend. The following year, the cousin purchased parcel \"C\" from the man. The deeds to the friend and the cousin did not contain any mention of the man's drainage system. Located on each of the parcels are large ranch-style homes occupied by the respective owners. From the standpoint of the friend and the cousin, thedrainage system would most likely be defined as a(an)",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8507972851310077
+  },
+  {
+   "question": "A baseball card dealer agreed to sell an extremely rare card to a collector. The collector lived in another state. As part of their agreement, a courier was hired to pick up the card from the dealer and transport it to the collector. The courier was then to get the purchase money from the collector and bring it back to the dealer. But rather than entrusting the genuine card to the courier, the dealer gave him a counterfeit replica that was valueless. After picking up the envelope containing the replica, the courier left the dealer's home and embarked on his trip. The police, however, received a tip concerning the scheme and intercepted the courier's car before he left the city limits. Thereafter, the dealer was arrested and charged with attempting to obtain property by false pretenses. If the dealer contends that the scheme had not progressed far enough to constitute an attempt, it will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.682942737746478
+  },
+  {
+   "question": "In 1993, a landowner had good record title toa vineyard in fee simple absolute. In 1994, thelandowner delivered to his son, for a sum of $1,000,a deed signed by the landowner, naming the son andhis heirs as grantee, and appearing valid on its face. The son neglected to record the deed. In 1998, a farmer, aware of the existence of the landowner-to-son deed, sought out the landowner and asked to buy for $10,000 a deed of the vineyard from the landowner to the farmer and his heirs. The landowner executed such a deed, and the farmer promptly recorded it. The farmer's intent was to acquire color of title and obtain ownership of the vineyard by adverse possession. In 1998, the farmer constructed a fence around the vineyard. In 1999, the son presented his deed of the vineyard to an investor and, for $15,000, paid by the investor, signed and delivered a deed of the vineyard in favor of the investor and his heirs. After receiving the deed, the investor made no effort to search the title, to examine the property, or to record the deed. In 2003, a vintner paid the farmer $20,000, and the farmer delivered to the vintner a deed of the vineyard in favor of the vintner and his heirs. The vintner had examined the property, had searched the title, and had no knowledge of the farmer's awareness of the prior landowner-to-son instrument. Although the vintner did not reside on the property, he regularly visited the vineyard twice a week. The vintner recorded his deed. In 2007, for $25,000, paid by a farmer, the investor signed and delivered a deed of the vineyard naming the farmer and his heirs as grantees. Before the farmer had paid the investor and taken his deed, the farmer visited the vineyard and observed the fence. However, the vintner was not present when the farmer visited the property, and nothing suggested who if anyone was using it. In any case, the farmer did not attempt to search the title before making his purchase. The farmer then recorded the deed. This jurisdiction uses Grantor  Grantee Indices and has no Tract IndexIn 2008, what is the present state of title to the vineyard if the jurisdiction's recording act provides:\"Every conveyance of real estate which is not recorded is void against a subsequent purchaser in good faith for valuable consideration, whose conveyance shall be first duly recorded\"?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5773548868975626
+  },
+  {
+   "question": "A man needed to have the oil changed on his car. On Friday, he decided to take his car to the local dealership to have the oil changed and asked his neighbor if she would give him a ride home from the dealership. The neighbor said, \"Why pay the high prices a dealership will charge you? I can change the oil in your car for you. If you will agree to pay me $50, I'll change the oil in your car over the weekend. \" The man readily agreed. On Sunday afternoon, the man noticed that his neighbor still had not started working on the car. He asked his neighbor if the car would be ready for him to drive to work Monday morning. The neighbor replied, \"I thought about it and realized $50 is too low a price for the work involved. I don't think I'm going to change the oil in your car. \" The man then said, \"Look, I realize $50 is low for the work involved. If you can change the oil in my car by tomorrow morning, I'll pay you an additional $25. And I won't sue you in small claims court for your failure to perform your promise. \" The neighbor then changed the oil late Sunday afternoon, but the man refused to pay to the neighbor anything more than $50. In a suit by the neighbor to recover the additional $25 promised by the man, the neighbor will",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9476339919329373
+  },
+  {
+   "question": "One night, a victim was in her home when she heard the doorbell ring. When the victim opened the door, she was confronted by three defendants. They pushed the victim inside her house and threatened her with bodily harm if she didn't cooperate. After tying her up with ropes, the trio then proceeded to ransack the victim's home. They then placed many of the victim's valuables and other possessions into a large sack and hurriedly left her house. What crimes should the defendants be convicted of?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8882310964546934
+  },
+  {
+   "question": "A defendant had an argument with his neighbor. As they were quarreling, the defendant pulled out his penknife intending only to frighten the neighbor. The defendant accidentally slightly nicked the neighbor's arm with the knife. Unknown to the defendant, his neighbor was a hemophiliac who then died from the cut. What is the most serious crime that the defendant can be convicted of?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.49507556514160417
+  },
+  {
+   "question": "A buyer purchased a shovel at a local hardware store. The shovel had a metal blade and a wooden handle. While the buyer was using the shovel to dig out a tree stump in his back yard, the handle broke in half, causing the buyer to fall and injure his back. The buyer brought a negligence claim against the manufacturer of the shovel. He proved that the shovel broke because of a manufacturing defect that made the handle too weak and that the manufacturer acted unreasonably in allowing this to happen. While conceding that the handle had a defect that caused it to break, the manufacturer established that if the buyer had been using the shovel carefully, he would not have fallen down and would not have been injured when the shovel broke. Assume that the case is governed by the law of a jurisdiction that follows traditional contributory negligence rules. Who is most likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9456110498526376
+  },
+  {
+   "question": "A woman from State A filed an action against a retailer in a state court in State B. The complaint alleged that the retailer had not delivered $100,000 worth of goods for which the woman had paid. Twenty days after being served, the retailer, which is incor-porated in State C and has its principal place of business in State B, filed a notice of removal in a federal district court in State B. Was the action properly removed?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "The buyer asked a manufacturer to make him 100,000 widgets for $1,000,000. The buyer intended to retail them by mail order sales. The widgets had to have the buyer's logo imprinted on them. The manufacturer ordered the raw material and made a new widget mold that contained buyer's logo. The buyer wanted quick delivery of at least 10,000 right away. The manufacturer rushed the order and sent 10,000 conforming widgets two days later. The buyer paid for the widgets but rejected delivery on the remaining 90,000 widgets. The manufacturer filed suit and claimed damages for breach of contract. Defendant buyer filed a motion to dismiss the complaint on the basis that the statute of frauds was violated in that it was a contract for over $500 that was unenforceable under state law. Will the court likely grant the motion to dismiss?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "A county owns a large expanse of land next to the ocean. Four years ago, in order to enhance the recreational aspects of this land, the county leased most of it to a company. The lease required the company to construct and operate a first-rate luxury hotel complete with bar, restaurant, and private marina and to pay the county 15% of its net profits as rent. The company set up management and operations bylaws for its new hotel, which were reviewed and approved by the county at the time the lease was negotiated. Upon completion of the facilities, the state granted the company a license to sell alcoholic beverages in its restaurant and bar. The hotel announced that the least expensive room was $1,000 per night. Much of the population in the county cannot afford to stay at the new hotel. One resident who cannot afford to pay the hotel fees brings an action against the company, claiming that the high fees operate to discriminate against the poor, in violation of the constitutional right to equal protection. What is the most likely result of this action?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9534402259625837
+  },
+  {
+   "question": "A man died in 1985. His will devised his estate in a Midwestern state to his son and daughter \"to share and share alike as tenants in common. \"At the time of their father's death, the daughter lived in a different part of the Midwestern state (in which the estate was located) while the son resided in a state in the Southwest. After the funeral, the daughter returned to her own residence, but the son decided to occupy the estate. He put his name on the mailbox and has paid the taxes and maintenance expenses. The daughter has been generally aware of this, but because she cared little about the estate, the daughter has never pressed her brother about the property. Since 1985, the daughter has not paid any rent or other compensation to her brother, nor has he requested such payment. In January 2010, a series of disputes arose between the son and daughter for the first time concerning their respective rights to the estate. The state in which the property is located recognizes the usual common law types of cotenancies and there is no applicable legislation on the subject. Now, the son claims the entire fee simple absolute title to the estate and brings an action against his sister to quiet title in himself. If the Midwestern states in which the property is located has an ordinary 20-year adverse possession statute, judgment should be for whom?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.5773548868916619
+  },
+  {
+   "question": "A state has recently enacted a statute requiring all prospective voters in state elections who wish to write-in a candidate to print the candidate's full name, and designate the office for which the candidate is running. The statute provides that such information must be written on the ballot in ink inan appropriate space. A write-in candidate is a German-American and is of the opinion that he needs a large turnout of German voters in order to win the election. As a result, his campaign manager decides to mail to every registered German voter a tear-off sticker, which bears the candidate's name and office for which he is running. Since many native German people are not proficient in reading and writing English, the campaign manager believes that many of the voters will have difficulty writing the candidate's name and office on the ballot. As a result, the campaign manager has mounted an extensive media campaign to inform voters on how to apply the stickers to the ballot. Five months prior to the election an election official notifies the candidate's campaign committee that the tear-off stickers do not comply with the state statute. In her letter, the official explains that state election officials are of the opinion that it is necessary for potential voters to write the candidate's name in ink. Therefore, she concludes that the stickers do not comply with statutory requirements. Three weeks later, the candidate filed suit in federal district court against state election officials, claiming that their interpretation of the state statute violates the U. S. Constitution. Which of the following sets forth the strongest constitutional argument the candidate could make against the interpretation of the statute by the state officials?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.991010266504364
+  },
+  {
+   "question": "A newspaper printed an article stating that a local doctor was afflicted with a venereal disease and had volunteered for a program studying the various cures for the disease. The article was false, and was printed without adequate research. The doctor sued the newspaper company, claiming damages per se. The paper defended on the basis that this was a public interest article, that the paper was not reckless or malicious in its investigation and reporting, and that the doctor could not prove any special damages. Will the court adopt the defense reasoning and dismiss the case for failure to state a claim?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9498284747606186
+  },
+  {
+   "question": "A man, a woman, and their son went to their neighbor's house. The man intended to take back some tools that he believed were his and that the neighbor was keeping unlawfully. The woman believed that the tools were the man's, and she intended to help the man take them. When the son learned that the man and the woman were going to break into the neighbor's home, he decided to accompany them. The son planned to find some items inside that might be worth taking. Arriving at the neighbor's home, the man opened the front door, which was closed but unlocked. Upon entering, the son went to the neighbor's upstairs bedroom and found a watch, which he took. In the meantime, the man and the woman went to the garage and began rummaging through the neighbor's tools. The man found the tools, which he seized. The three of them then left the neighbor's home. In this jurisdiction, burglary is defined as the breaking and entering of any structure with the intent to commit a felony therein. Which, if any, individuals should be found guilty of conspiracy?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A truck and a car collided at an intersection. Both drivers were injured, and each one filed a lawsuit against the other for negligence. At trial, the jury found each of the drivers liable for negligence. The jury found that the amount of the truck driver's injuries was $10,000, and the amount of the car driver's injuries was $8,000. The jury assigned 50 percent of the fault for the accident to the truck driver and 50 percent of the fault to the car driver. Assume that the jurisdiction has a statute in effect that provides: \"Contributory negligence shall not bar recovery in an action to recover damages for negligence resulting in injury to person or property if such negligence was not as great as the negligence of the person from whom recovery is sought. Any damages allowed shall be diminished in proportion to the amount of negligence attributable to the person who is seeking recovery. \"Which of the following is the appropriate judgment in the case?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9426146259043567
+  },
+  {
+   "question": "A state passed a statute stating that it will pay for one-half of the tuition for any student attending a private school, whether religious or secular, as long as the school meets the educational requirements established by the department of education. The parents of two students who attend a public high school in the state sue for a declaratory judgment and injunction in federal court, claiming that the state statute violates the establishment clause of the First Amendment. Assume that the federal court decides to hear the case on its merits. Which of the following is the state's LEAST persuasive argument for sustaining the validity of the statute?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.9960238030021351
+  },
+  {
+   "question": "A man committed a series of heinous crimes, including a kidnapping, that took him across state lines and violated federal law. He was convicted and received a life sentence. The felon, however, was pardoned by the President of the United States, who was a childhood friend. A great hue and cry ensued, and the talking heads on television proclaimed that legislation was needed to prevent such injustice again. Would such legislation be constitutional?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A defendant was arrested and charged with burglarizing a pharmacy. The break-in allegedly occurred late one evening after the store had closed for business. The defendant was identified as the perpetrator of the crime by a film that was recorded during the burglary from a hidden camera. When the defendant was apprehended, he denied involvement in the crime and told the arresting officers that he had been out of town when the burglary occurred. Prior to trial, the defendant's court appointed attorney filed a motion requesting discovery of the videotape film that was recorded during the perpetration of the crime. The trial judge granted the request and ordered the prosecution to send a duplicate copy of the videotape to the defendant's attorney. Following the judge's ruling, the prosecuting attorney, pursuant to state law, then filed a discovery motion specifically asking the defendant whether he planned to raise an alibi defense. The prosecuting attorney also sought discovery of the identity of such an alibi witness. Assume that the judge requires the defendant to respond as to whether the defendant intends to raise an alibi defense. May the judge also require the defendant to disclose the identity of the alibi witness?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.8585249250075685
+  },
+  {
+   "question": "A man and a brother were identical twins. The man was having an affair with a woman. The woman's husband was aware of his wife's relationship with the man. One morning the husband saw the brother, whom he mistakenly believed was the man. The husband walked toward the brother and said, \"I'm going to punch you in the face, you rat. \" The brother immediately realized that the husband had mistaken him for his brother. The brother had enough time to inform the husband of his mistake but didn't say anything. When the husband came closer, the brother punched him in the mouth. If the husband brings suit against the brother for battery, he should",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.889813106723438
+  },
+  {
+   "question": "A retailer agreed to purchase an orchard's total cherry production for a 12-month period. The contract included this provision: \"Terms: Cash upon delivery  deliveries to be made at least twice per month.\" The deliveries went as scheduled. At the beginning of the fifth month, the orchard sent notice to the retailer that a load of cherries was ready for pick up. The truck driver, however, forgot to take the retailer's check with him. The orchard turned over the cherries but advised the retailer to pay within three days. The retailer sent the check by mail but it arrived late by two days. The orchard refused to deliver any more cherries. The retailer sued the orchard for breach of the installment contract and demanded the difference in price between the cherries on the open market and what he would have paid under the contract. The orchard claimed that the delayed payment impaired the value of the contract and moved to dismiss. Will the court grant the orchard's motion to dismiss?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.933799207210103
+  },
+  {
+   "question": "A man was visiting his friend at the friend's cabin. The man decided to surprise the friend with some fireworks, so he purchased some fireworks and hid them under his friend's chair on the friend's porch. That evening, the friend went outside to smoke and dropped his unfinished cigarette next to his chair on the porch. The cigarette ignited the fireworks, and the fireworks immediately exploded, causing extensive damage to the friend and to his cabin. The man was arrested and is being prosecuted for arson. Will the man be found guilty of arson?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6674278228391844
+  },
+  {
+   "question": "A girlfriend lived with her boyfriend in a small apartment. The boyfriend was a gun enthusiast who kept a collection of antique pistols and firearms in the apartment. The boyfriend was also an avid baseball fan and had a fanatic devotion to his favorite team. One evening, the boyfriend was watching his beloved team play their archrival on television. His favorite team lost in extra innings. After the game, the boyfriend became despondent and told his girlfriend that he was so disgusted that he was going to kill himself. The boyfriend took one of the pistols from his gun collection and shot himself in the head. As the boyfriend fell to the floor, wounded, his girlfriend couldn't believe her eyes. At first she thought that she should call 911 for an ambulance. But she was afraid that the police might think that she was responsible for the shooting. Consequently, she decided to do nothing. She proceeded to leave the apartment and spent the night at her mother's home. The boyfriend did not immediately die from the gunshot wound. A subsequent medical examiner's report concluded that the boyfriend died from loss of blood approximately two hours after the shooting. If the girlfriend had sought immediate medical assistance, the boyfriend would have lived. The girlfriend is subsequently prosecuted for her boyffiend's death. She should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A bank loaned a company $1,500,000 for the manufacture of a widget control system. As a condition of the loan, a majority shareholder in the company agreed in writing to personally guarantee the loan. Thereafter, the company defaulted on the loan and entered into a repayment agreement with the bank. This agreement provided that the bank would \"use maximum efforts in selling the company's assets at the highest possible price. \" The bank proceeded to sell the company's assets, discharging the indebtedness of the widget company. Later, it was ascertained that the bank did not realize the \"highest possible price\" in administering the sale of the company's assets. Consequently, the shareholder was forced into bankruptcy and lost her entire investment in the company. The shareholder brings an appropriate action against the bank to recover her investment in the company. She will most likely",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.8935028082641527
+  },
+  {
+   "question": "A truck driver was making deliveries for his employer. After telling his employer by phone that he was going for lunch and getting approval, he pulled into the entrance of a restaurant where he intended to have his usual 30- minute lunch break. While entering the parking lot, the driver carelessly ran over and seriously injured a pedestrian. The injured person sued the driver and the driver's employer for negligence in causing her injuries. Is the employer liable?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "Pete Smith is the active partner and Bill Jones is the silent partner in a general partnership known as \"Pete Smith Plumbing.\" After six years of being uninvolved in the management of the partnership business, Bill purchases 100 toilets for the business. Pete is incensed because it will probably take years to use up the inventory of so many toilets and seeks your advice. The best advice is",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.7840634744320673
+  },
+  {
+   "question": "A large man with menacing tattoos all over his face and bald head followed closely behind a businessman who was lost in a long dark alley. The large man followed the businessman for several blocks of unending, unlit alleys. The businessman was in great fear. The large man was just a few feet behind, singing songs about how he was going to have a \"big meal tonight\" and it looked like he \"had struck it rich,\" and other words indicating possible violence and robbery. Finally, the businessman threw his wallet in one direction and ran the other way, as he yelled, \"You can have my money, just leave me my life!\" The large man picked up the wallet and ran in the opposite direction, but when he came to the end of the alley he was arrested and charged with robbery. He appealed his conviction, arguing that he had no intent to steal and was trying to return the wallet to the victim. Will the appellate court likely affirm the robbery conviction?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9525794457609283
+  },
+  {
+   "question": "Liang, a talented student from another country, received degrees from several universities in the United States and then decided to stay in the states to teach. Could a state law requiring citizenship for teachers prevent him from doing so?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "As a legislative aide to a U. S. Senator you are called upon to provide an analysis of the constitutionality of a bill pending congressional approval. The bill imposes a 15% tax upon the gross annual receipts from the sales of all birth control devices. The bill has the strong support of conservative and pro-life organizations. The stated purpose of the proposed measure is to raise revenue and spur population growth across the country. In your learned opinion, the proposed tax is probably",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 1.0000000000000002
+  },
+  {
+   "question": "A mail carrier was on a homeowner's premises delivering the mail when he was bitten by a large dog owned by the next door neighbor. Although the owner used due care in keeping the animal in a securely fenced area, he knew of one prior incident where the animal got loose and bit someone. Is the dog's owner liable for the injuries to the mailman?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.7271724374149722
+  },
+  {
+   "question": "A homeowner entered into a written contract with a house painter to have his house painted for $10,000. The contract stated in part: \"It is agreed that the house painter will paint the house using off-white latex paint, and will finish the job within 30 days from the execution of this agreement. If the homeowner finds the completed job to be satisfactory, he will pay the house painter $10,000 within one week after the job is completed. \"Which of the following is the most accurate statement regarding the homeowner's contractual obligation to pay the house painter $10,000?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9406950343778624
+  },
+  {
+   "question": "A city imposes a municipal excise tax of $200 per year on commercial photographic studios in the city. It also imposes an excise tax of $100 per year on every itinerant commercial photographer for the privilege of using the streets and sidewalks. A credit is allowed against this latter tax for any excise tax paid to the city by the photographer or his employer in respect to the maintenance of a photographic studio in the city. In an action by a studio located in the city challenging the constitutionality of the $200 per year excise tax, the court will most likely declare the tax",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9660490723659497
+  },
+  {
+   "question": "A plaintiff sued the insurer of her home after the insurer denied coverage for water damage to the home allegedly caused by a frozen plastic pipe that burst. At trial, the insurer called as an expert witness an engineer, who testified that the pipe had burst because of age rather than freezing. On cross-examination, the engineer admitted that five years earlier, he had been convicted of tax fraud, even though he had asserted that it was his accountant's error. In response, the insurer calls a witness, who is well acquainted with the engineer and his reputation, to testify that (1) in the witness's opinion, the engineer is a truthful person, and (2) the engineer's neighbors all describe him as a truthful person. How much, if any, of the witness's testimony is admissible?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.6761247742942795
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+############ out ############
+===== analyze_twindef (experiments/out) =====
+
+===== MAIN (Kans<=5) =====
+dataset         K   n |  no-def   twin exhaust    Δex  p(ex>nd) |    Δtw  p(tw>nd)  match    reg
+arc_gemma2_9b   4  90 |   0.611  0.656   0.711 +0.100    0.022* | +0.044    0.388    0.44 +0.075
+arc_llama3_1_8b  4  90 |   0.567  0.600   0.622 +0.056    0.359  | +0.033    0.648    0.67 +0.066
+math_gemma2_9b  4  90 |   0.167  0.211   0.222 +0.056    0.302  | +0.044    0.424    0.57 +0.221
+math_llama3_1_8b  4  90 |   0.156  0.356   0.344 +0.189    0.001* | +0.200    0.001*   0.56 +0.128
+mmlu_clean6_gemma2_9b  4  90 |   0.378  0.489   0.522 +0.144    0.007* | +0.111    0.031*   0.53 +0.086
+mmlu_clean6_llama3_1_8b  4  90 |   0.278  0.367   0.411 +0.133    0.004* | +0.089    0.057    0.66 +0.079
+truthfulqa_gemma2_9b  4  90 |   0.444  0.511   0.500 +0.056    0.227  | +0.067    0.146    0.57 +0.100
+truthfulqa_llama3_1_8b  4  90 |   0.267  0.400   0.422 +0.156    0.001* | +0.133    0.008*   0.73 +0.059
+
+----- Objective ablation (Δ exhaustive − no-def; chỉ MAIN set) -----
+dataset         min-adv(CŨ)  honest-margin(MỚI)
+arc_gemma2_9b        +0.033              +0.100
+arc_llama3_1_8b       -0.044              +0.056
+math_gemma2_9b       +0.078              +0.056
+math_llama3_1_8b       +0.189              +0.189
+mmlu_clean6_gemma2_9b       +0.111              +0.144
+mmlu_clean6_llama3_1_8b       +0.111              +0.133
+truthfulqa_gemma2_9b       +0.133              +0.056
+truthfulqa_llama3_1_8b       +0.078              +0.156
+
+C1 generalize (honest-margin, ex>no-def p<0.05): 5/8 MAIN dataset  -> ['arc_gemma2_9b', 'math_llama3_1_8b', 'mmlu_clean6_gemma2_9b', 'mmlu_clean6_llama3_1_8b', 'truthfulqa_llama3_1_8b']
+→ experiments/out/analysis_twindef.json
+===== analyze_structure (experiments/out) =====
+
+===== STRUCTURAL ANALYSIS (debate-as-LTI, N=4) =====
+dataset         n_x | CTRB rank log10κ(Wc) | OBSV rank unobs via-dyn log10κ(Wo) |   ρ(A)
+arc_gemma2_9b    16 |   16/16          6.4 |   16/16       0      12        5.5 |  1.000
+arc_llama3_1_8b   16 |   16/16          6.9 |   16/16       0      12        5.4 |  0.700
+math_gemma2_9b   16 |   16/16          6.4 |   16/16       0      12        4.9 |  0.979
+math_llama3_1_8b   16 |   16/16          6.2 |   16/16       0      12        5.6 |  0.615
+mmlu_clean6_gemma2_9b   16 |   16/16          6.4 |   16/16       0      12        5.7 |  0.986
+mmlu_clean6_llama3_1_8b   16 |   16/16          6.4 |   16/16       0      12        6.2 |  0.660
+truthfulqa_gemma2_9b   16 |   16/16          6.3 |   16/16       0      12        4.2 |  0.963
+truthfulqa_llama3_1_8b   16 |   16/16          5.7 |   16/16       0      12        5.9 |  0.787
+
+Đọc:
+ - CTRB rank đầy & κ(Wc) vừa  → debate CONTROLLABLE (backing C1, phe điều-khiển XANH).
+ - OBSV rank<n_x hoặc κ(Wo) khổng-lồ → NOT observable từ mean-belief (readout gộp agent):
+   giải thích structural vì sao predict/twin/certificate chết + predictive-limitation (myopic≈learned-obs).
+ - 'via-dyn' = số chiều bất-đối-xứng-agent mà A kéo vào quan-sát-được; thấp = ẩn agent-disagreement.
+ - ρ(A)≲1 nhất quán → dynamics ổn định/consensus. → experiments/out/structure_analysis.json
+===== check_fidelity (experiments/out) =====
+
+===== FIDELITY  (belief-MSE trên control-horizon t>=2; OUT=experiments/out) =====
+dataset                      n | persist degroot koopman     mlp |  gain%    K−MLP  ns?
+arc_gemma2_9b               60 |  0.0791  0.0971  0.0553  0.1076 |   +30%  -0.0523   no
+arc_llama3_1_8b             60 |  0.0633  0.0788  0.0509  0.1090 |   +19%  -0.0581   no
+math_gemma2_9b              60 |  0.0828  0.0901  0.0868  0.1276 |    -5%  -0.0408   no
+math_llama3_1_8b            60 |  0.0623  0.0777  0.0646  0.1134 |    -4%  -0.0487   no
+mmlu_clean6_gemma2_9b       60 |  0.0677  0.0768  0.0482  0.0644 |   +29%  -0.0162   no
+mmlu_clean6_llama3_1_8b     60 |  0.0659  0.0732  0.0417  0.0601 |   +37%  -0.0184   no
+truthfulqa_gemma2_9b        60 |  0.0636  0.0743  0.0493  0.0967 |   +23%  -0.0475   no
+truthfulqa_llama3_1_8b      60 |  0.0579  0.0706  0.0491  0.1013 |   +15%  -0.0522   no
+
+Đọc: koopman < persistence & degroot = (K,B) fidelity thật; gain% ~ paper '~40%'.
+     ns=YES (CI koop−mlp chứa 0) = (K,B) ≈ phi tuyến, khớp claim 'n.s.'.
+→ experiments/out/fidelity.json
+===== analyze_c1_strength (experiments/out) =====
+
+===== #2 EFFECT-SIZE Δacc = exhaustive − no-def (paired, bootstrap CI95) =====
+dataset          n  no-def exhaust    Δacc             CI95  main
+arc_gemma2_9b   90   0.611   0.711  +0.100 [+0.022,+0.178]*  True
+arc_llama3_1_8b  90   0.567   0.622  +0.056 [-0.033,+0.144]   True
+math_gemma2_9b  90   0.167   0.222  +0.056 [-0.022,+0.144]   True
+math_llama3_1_8b  90   0.156   0.344  +0.189 [+0.089,+0.289]*  True
+mmlu_clean6_gemma2_9b  90   0.378   0.522  +0.144 [+0.056,+0.244]*  True
+mmlu_clean6_llama3_1_8b  90   0.278   0.411  +0.133 [+0.056,+0.222]*  True
+truthfulqa_gemma2_9b  90   0.444   0.500  +0.056 [-0.011,+0.133]   True
+truthfulqa_llama3_1_8b  90   0.267   0.422  +0.156 [+0.078,+0.244]*  True
+POOLED (MAIN)  720                  +0.111 [+0.081,+0.143]*   (8 dataset, stratified boot)
+
+===== #3 ASR = P(argmax belief cuối == x_adv) — label-free manipulation =====
+dataset         ASR no-def  ASR defense  robust(1−ASR)    ΔASR
+arc_gemma2_9b        0.178        0.044          0.956  -0.133
+arc_llama3_1_8b       0.256        0.067          0.933  -0.189
+math_gemma2_9b       0.556        0.133          0.867  -0.422
+math_llama3_1_8b       0.511        0.067          0.933  -0.444
+mmlu_clean6_gemma2_9b       0.378        0.067          0.933  -0.311
+mmlu_clean6_llama3_1_8b       0.456        0.056          0.944  -0.400
+truthfulqa_gemma2_9b       0.300        0.056          0.944  -0.244
+truthfulqa_llama3_1_8b       0.433        0.056          0.944  -0.378
+
+===== #4 honest-margin có BÁM chân lý? (label-free) =====
+dataset         P(c_hon=true)  P(exh-pick=true)   (cao = objective label-free trỏ đúng)
+arc_gemma2_9b           0.700             0.356
+arc_llama3_1_8b          0.644             0.444
+math_gemma2_9b          0.322             0.178
+math_llama3_1_8b          0.333             0.233
+mmlu_clean6_gemma2_9b          0.544             0.289
+mmlu_clean6_llama3_1_8b          0.444             0.300
+truthfulqa_gemma2_9b          0.511             0.278
+truthfulqa_llama3_1_8b          0.444             0.344
+
+→ Δacc CI>0 = C1 chắc; ASR giảm = defense chặn manipulation (label-free); P(pick=true) cao = objective hợp lệ.
+############ out_qwen ############
+===== analyze_twindef (experiments/out_qwen) =====
+
+===== MAIN (Kans<=5) =====
+dataset         K   n |  no-def   twin exhaust    Δex  p(ex>nd) |    Δtw  p(tw>nd)  match    reg
+arc_gemma2_9b   4  90 |   0.611  0.656   0.711 +0.100    0.022* | +0.044    0.388    0.44 +0.075
+arc_llama3_1_8b  4  90 |   0.567  0.600   0.622 +0.056    0.359  | +0.033    0.648    0.67 +0.066
+math_gemma2_9b  4  90 |   0.167  0.211   0.222 +0.056    0.302  | +0.044    0.424    0.57 +0.221
+math_llama3_1_8b  4  90 |   0.156  0.356   0.344 +0.189    0.001* | +0.200    0.001*   0.56 +0.128
+mmlu_clean6_gemma2_9b  4  90 |   0.378  0.489   0.522 +0.144    0.007* | +0.111    0.031*   0.53 +0.086
+mmlu_clean6_llama3_1_8b  4  90 |   0.278  0.367   0.411 +0.133    0.004* | +0.089    0.057    0.66 +0.079
+truthfulqa_gemma2_9b  4  90 |   0.444  0.511   0.500 +0.056    0.227  | +0.067    0.146    0.57 +0.100
+truthfulqa_llama3_1_8b  4  90 |   0.267  0.400   0.422 +0.156    0.001* | +0.133    0.008*   0.73 +0.059
+
+----- Objective ablation (Δ exhaustive − no-def; chỉ MAIN set) -----
+dataset         min-adv(CŨ)  honest-margin(MỚI)
+arc_gemma2_9b        +0.033              +0.100
+arc_llama3_1_8b       -0.044              +0.056
+math_gemma2_9b       +0.078              +0.056
+math_llama3_1_8b       +0.189              +0.189
+mmlu_clean6_gemma2_9b       +0.111              +0.144
+mmlu_clean6_llama3_1_8b       +0.111              +0.133
+truthfulqa_gemma2_9b       +0.133              +0.056
+truthfulqa_llama3_1_8b       +0.078              +0.156
+
+C1 generalize (honest-margin, ex>no-def p<0.05): 5/8 MAIN dataset  -> ['arc_gemma2_9b', 'math_llama3_1_8b', 'mmlu_clean6_gemma2_9b', 'mmlu_clean6_llama3_1_8b', 'truthfulqa_llama3_1_8b']
+→ experiments/out/analysis_twindef.json
+===== analyze_structure (experiments/out_qwen) =====
+
+===== STRUCTURAL ANALYSIS (debate-as-LTI, N=4) =====
+dataset         n_x | CTRB rank log10κ(Wc) | OBSV rank unobs via-dyn log10κ(Wo) |   ρ(A)
+arc_gemma2_9b    16 |   16/16          6.4 |   16/16       0      12        5.5 |  1.000
+arc_llama3_1_8b   16 |   16/16          6.9 |   16/16       0      12        5.4 |  0.700
+math_gemma2_9b   16 |   16/16          6.4 |   16/16       0      12        4.9 |  0.979
+math_llama3_1_8b   16 |   16/16          6.2 |   16/16       0      12        5.6 |  0.615
+mmlu_clean6_gemma2_9b   16 |   16/16          6.4 |   16/16       0      12        5.7 |  0.986
+mmlu_clean6_llama3_1_8b   16 |   16/16          6.4 |   16/16       0      12        6.2 |  0.660
+truthfulqa_gemma2_9b   16 |   16/16          6.3 |   16/16       0      12        4.2 |  0.963
+truthfulqa_llama3_1_8b   16 |   16/16          5.7 |   16/16       0      12        5.9 |  0.787
+
+Đọc:
+ - CTRB rank đầy & κ(Wc) vừa  → debate CONTROLLABLE (backing C1, phe điều-khiển XANH).
+ - OBSV rank<n_x hoặc κ(Wo) khổng-lồ → NOT observable từ mean-belief (readout gộp agent):
+   giải thích structural vì sao predict/twin/certificate chết + predictive-limitation (myopic≈learned-obs).
+ - 'via-dyn' = số chiều bất-đối-xứng-agent mà A kéo vào quan-sát-được; thấp = ẩn agent-disagreement.
+ - ρ(A)≲1 nhất quán → dynamics ổn định/consensus. → experiments/out/structure_analysis.json
+===== check_fidelity (experiments/out_qwen) =====
+
+===== FIDELITY  (belief-MSE trên control-horizon t>=2; OUT=experiments/out_qwen) =====
+dataset                      n | persist degroot koopman     mlp |  gain%    K−MLP  ns?
+arc_qwen2_5_7b              60 |  0.1100  0.1250  0.0955  0.1634 |   +13%  -0.0679   no
+bbh_logic5_qwen2_5_7b       60 |  0.1122  0.1557  0.1278  0.2037 |   -14%  -0.0758   no
+bbh_logic7_qwen2_5_7b       60 |  0.0839  0.0916  0.1128  0.1359 |   -34%  -0.0231   no
+commonsense_qa_qwen2_5_7b   60 |  0.0879  0.1084  0.0723  0.0952 |   +18%  -0.0229   no
+math_qwen2_5_7b             60 |  0.1450  0.1654  0.1746  0.2247 |   -20%  -0.0501   no
+mmlu_clean6_qwen2_5_7b      60 |  0.1101  0.1443  0.1205  0.1448 |    -9%  -0.0243  YES
+truthfulqa_qwen2_5_7b       60 |  0.0961  0.1465  0.0996  0.1265 |    -4%  -0.0269   no
+
+Đọc: koopman < persistence & degroot = (K,B) fidelity thật; gain% ~ paper '~40%'.
+     ns=YES (CI koop−mlp chứa 0) = (K,B) ≈ phi tuyến, khớp claim 'n.s.'.
+→ experiments/out_qwen/fidelity.json
+===== analyze_c1_strength (experiments/out_qwen) =====
+
+===== #2 EFFECT-SIZE Δacc = exhaustive − no-def (paired, bootstrap CI95) =====
+dataset          n  no-def exhaust    Δacc             CI95  main
+arc_gemma2_9b   90   0.611   0.711  +0.100 [+0.022,+0.178]*  True
+arc_llama3_1_8b  90   0.567   0.622  +0.056 [-0.033,+0.144]   True
+math_gemma2_9b  90   0.167   0.222  +0.056 [-0.022,+0.144]   True
+math_llama3_1_8b  90   0.156   0.344  +0.189 [+0.089,+0.289]*  True
+mmlu_clean6_gemma2_9b  90   0.378   0.522  +0.144 [+0.056,+0.244]*  True
+mmlu_clean6_llama3_1_8b  90   0.278   0.411  +0.133 [+0.056,+0.222]*  True
+truthfulqa_gemma2_9b  90   0.444   0.500  +0.056 [-0.011,+0.133]   True
+truthfulqa_llama3_1_8b  90   0.267   0.422  +0.156 [+0.078,+0.244]*  True
+POOLED (MAIN)  720                  +0.111 [+0.081,+0.143]*   (8 dataset, stratified boot)
+
+===== #3 ASR = P(argmax belief cuối == x_adv) — label-free manipulation =====
+dataset         ASR no-def  ASR defense  robust(1−ASR)    ΔASR
+arc_gemma2_9b        0.178        0.044          0.956  -0.133
+arc_llama3_1_8b       0.256        0.067          0.933  -0.189
+math_gemma2_9b       0.556        0.133          0.867  -0.422
+math_llama3_1_8b       0.511        0.067          0.933  -0.444
+mmlu_clean6_gemma2_9b       0.378        0.067          0.933  -0.311
+mmlu_clean6_llama3_1_8b       0.456        0.056          0.944  -0.400
+truthfulqa_gemma2_9b       0.300        0.056          0.944  -0.244
+truthfulqa_llama3_1_8b       0.433        0.056          0.944  -0.378
+
+===== #4 honest-margin có BÁM chân lý? (label-free) =====
+dataset         P(c_hon=true)  P(exh-pick=true)   (cao = objective label-free trỏ đúng)
+arc_gemma2_9b           0.700             0.356
+arc_llama3_1_8b          0.644             0.444
+math_gemma2_9b          0.322             0.178
+math_llama3_1_8b          0.333             0.233
+mmlu_clean6_gemma2_9b          0.544             0.289
+mmlu_clean6_llama3_1_8b          0.444             0.300
+truthfulqa_gemma2_9b          0.511             0.278
+truthfulqa_llama3_1_8b          0.444             0.344
+
+→ Δacc CI>0 = C1 chắc; ASR giảm = defense chặn manipulation (label-free); P(pick=true) cao = objective hợp lệ.

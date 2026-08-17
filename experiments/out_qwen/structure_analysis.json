@@ -1,0 +1,219 @@
+{
+ "arc_qwen2_5_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 9.474457711116701e-05,
+    "max_eig": 408.690604817077,
+    "log10_cond": 6.634840292380631
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 2.0163049020902893e-06,
+    "max_eig": 0.7516606106683195,
+    "log10_cond": 5.571465586484374
+   }
+  },
+  "spectral_radius": 0.7372516295718764,
+  "top_eig_mag": [
+   0.7372516295718764,
+   0.7372516295718764,
+   0.6610993145408073
+  ]
+ },
+ "bbh_logic5_qwen2_5_7b": {
+  "n_x": 20,
+  "Kans": 5,
+  "rank_C_readout": 5,
+  "ctrb": {
+   "rank": 20,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00022294726209861712,
+    "max_eig": 162.26998281811086,
+    "log10_cond": 5.862036046806841
+   }
+  },
+  "obsv": {
+   "rank": 20,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 15,
+   "gram": {
+    "min_eig": 8.028835219142518e-07,
+    "max_eig": 0.8251887578212502,
+    "log10_cond": 6.011900757907943
+   }
+  },
+  "spectral_radius": 0.7127983322650078,
+  "top_eig_mag": [
+   0.7127983322650078,
+   0.6492132794110521,
+   0.6492132794110521
+  ]
+ },
+ "bbh_logic7_qwen2_5_7b": {
+  "n_x": 28,
+  "Kans": 7,
+  "rank_C_readout": 7,
+  "ctrb": {
+   "rank": 28,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00036053529231552486,
+    "max_eig": 298.8375544071429,
+    "log10_cond": 5.918487389981905
+   }
+  },
+  "obsv": {
+   "rank": 28,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 21,
+   "gram": {
+    "min_eig": 6.20650539787134e-06,
+    "max_eig": 4.070427916004311,
+    "log10_cond": 5.816792930704509
+   }
+  },
+  "spectral_radius": 0.8188184185682373,
+  "top_eig_mag": [
+   0.8188184185682373,
+   0.7412123685080917,
+   0.6972170573389889
+  ]
+ },
+ "commonsense_qa_qwen2_5_7b": {
+  "n_x": 20,
+  "Kans": 5,
+  "rank_C_readout": 5,
+  "ctrb": {
+   "rank": 20,
+   "full": true,
+   "gram": {
+    "min_eig": 0.00014097800319781418,
+    "max_eig": 367.97645363457093,
+    "log10_cond": 6.4166686746272985
+   }
+  },
+  "obsv": {
+   "rank": 20,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 15,
+   "gram": {
+    "min_eig": 1.5533328477439864e-05,
+    "max_eig": 1.1219192783625656,
+    "log10_cond": 4.858697084527212
+   }
+  },
+  "spectral_radius": 0.8023028072037698,
+  "top_eig_mag": [
+   0.8023028072037698,
+   0.689113436984036,
+   0.689113436984036
+  ]
+ },
+ "math_qwen2_5_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 4.028282584433856e-05,
+    "max_eig": 107.9778676217748,
+    "log10_cond": 6.42821481789422
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 6.382284919712198e-06,
+    "max_eig": 1.2916109747789999,
+    "log10_cond": 5.306155538364222
+   }
+  },
+  "spectral_radius": 0.7471055583248357,
+  "top_eig_mag": [
+   0.7471055583248357,
+   0.7471055583248357,
+   0.7047230849921524
+  ]
+ },
+ "mmlu_clean6_qwen2_5_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 5.087092779105585e-05,
+    "max_eig": 210.7886797578831,
+    "log10_cond": 6.617377625292624
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 9.616583737268101e-06,
+    "max_eig": 0.8006628753355561,
+    "log10_cond": 4.92042887424921
+   }
+  },
+  "spectral_radius": 0.7693636798658111,
+  "top_eig_mag": [
+   0.7693636798658111,
+   0.7693636798658111,
+   0.6641906945957863
+  ]
+ },
+ "truthfulqa_qwen2_5_7b": {
+  "n_x": 16,
+  "Kans": 4,
+  "rank_C_readout": 4,
+  "ctrb": {
+   "rank": 16,
+   "full": true,
+   "gram": {
+    "min_eig": 2.888919491614936e-05,
+    "max_eig": 452.5230161522063,
+    "log10_cond": 7.19490523402072
+   }
+  },
+  "obsv": {
+   "rank": 16,
+   "full": true,
+   "unobs_dim": 0,
+   "observable_via_dynamics": 12,
+   "gram": {
+    "min_eig": 3.7289689179569312e-06,
+    "max_eig": 0.765095655943584,
+    "log10_cond": 5.312126972730576
+   }
+  },
+  "spectral_radius": 0.796708714067444,
+  "top_eig_mag": [
+   0.796708714067444,
+   0.7340637104456827,
+   0.670201486292909
+  ]
+ }
+}

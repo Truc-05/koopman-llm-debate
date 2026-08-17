@@ -1,0 +1,110 @@
+{
+ "accuracy": 0.4,
+ "n_debates": 10,
+ "eigvals_top10": [
+  [
+   1.359689909096402,
+   -0.3205632746066915
+  ],
+  [
+   1.359689909096402,
+   0.3205632746066915
+  ],
+  [
+   1.1906247577841453,
+   -0.7138152566792886
+  ],
+  [
+   1.1906247577841453,
+   0.7138152566792886
+  ],
+  [
+   0.3317523262153741,
+   1.2518830765046813
+  ],
+  [
+   0.3317523262153741,
+   -1.2518830765046813
+  ],
+  [
+   -1.0343125581503927,
+   -0.6286313870754925
+  ],
+  [
+   -1.0343125581503927,
+   0.6286313870754925
+  ],
+  [
+   1.2096521007961105,
+   0.0
+  ],
+  [
+   -0.8063725891067641,
+   0.8959235620447314
+  ]
+ ],
+ "spectral_gap": -0.39696723724114147,
+ "n_eigs_at_one": 1,
+ "runs": [
+  {
+   "question": "It was raining hard one evening as a cab driver was looking for one last passenger. A passenger flagged him down and directed him to take her home. The cab driver recognized the passenger as a former girlfriend, and the passenger invited him into her house when they arrived. Unknown to the cab driver, the passenger was an undercover police officer who worked in the sex crimes unit. When they were inside the passenger's house, the cab driver made sexual advances toward the passenger, who responded by kissing him and holding his hand. The cab driver was about to kiss the passenger again, when she got up to answer the phone in the kitchen. If the cab driver is subsequently arrested and charged with the attempted rape of the passenger, he should be found",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.32485202181967
+  },
+  {
+   "question": "Two college students were members of the same fraternity. During a fraternity party, the defendant pulled out a gun, pointed it at the other student and said, \"Beg for your life, sucker. \" The student, who knew that the defendant had a reputation as a practical joker, said, \"Get lost, you jerk. \" The defendant then pulled the trigger and shot the student to death. A statute in this jurisdiction provides: \"Any intentional and premeditated killing with malice aforethought is murder in the first degree. Murder in the second degree is any killing that occurs during the commission or attempted commission of a serious or inherently dangerous felony. Manslaughter includes all other types of unlawftil homicide and unjustifiable killings. \"The defendant was subsequently prosecuted for killing the student. At trial, the defendant testified that a fellow fraternity member gave him the gun before the shooting and told him that it was unloaded. If the jury believes the defendant, it should find him",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.8648887153926081
+  },
+  {
+   "question": "A landowner owned a 10-acre tract of land, in fee simple. The tract was located in a small town. In 1974, the landowner conveyed the tract to the town development association \"on condition that a ski lodge and resort area be built thereon and the land be used solely for skiing purposes and, in the event that said property is not used as a ski resort, the property shall revert to myself, the grantor, my heirs or assigns. \" Subsequently, a ski lodge was built and the land was continuously used as a ski resort for more than 20 years. In 1979, a neighbor, owner of a farm abutting the northeast corner of the 10-acre tract, began to use a portion of the 10-acre tract for ingress and egress to his farm. He used this access road openly, visibly, and notoriously until 2000. The period of prescription in this particular jurisdiction was 20 years. In March 2000, the neighbor decided to sell the farm to a skier. Thereupon, the neighbor and the skier entered into a written real estate sales contract, with closing set for May 1, 2000. On April 1, 2000, the president of the town development association was approached by the skier with the request that a written easement be given over the used area and that an appropriate instrument be delivered to the skier concurrently with the skier's closing with the neighbor. Following the president's meeting with the skier, the town development association held a duly announced meeting and voted unanimously to authorize its trustees to grant such an easement. On April 15, 2000, the landowner died. The landowner's sole descendant and successor in interest was his wife. Upon her husband's death, the wife immediately notified the town development association that if it granted the easement to the skier, the 10-acre tract would revert to her. The skier then brought an appropriate action, joining the neighbor, the wife, and the town development association, seeking a declaratory judgment that the neighbor has a perpetual easement appurtenant to the 10-acre tract. In this action, judgment should be in favor of which of the following parties?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.9054581116959549
+  },
+  {
+   "question": "A man, his brother and his friend all discuss murdering the man's neighbor because the neighbor took some shots at the man's dog but he missed. They agree on a plan. They decided on strychnine poisoning, which the friend told them how to get and they went and got it. When they asked the friend to go forward in poisoning the victim, he refused, saying, \"I'm was only here for planning and advice, but I never intended to commit murder.\" The man and his brother took the poison to a meeting with the neighbor, but he wouldn't drink. They were caught and arrested. The statute requires an overt act for criminal conspiracy. Which of the following most accurately states the criminal responsibility of each of the three men?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6679832089128933
+  },
+  {
+   "question": "A restaurant building was expanded into a vacant lot north of its original location. The contractor who was working on the restaurant expansion found that the north wall of the new structure needed extensive support, so anchor rods and concrete were added. The supporting anchor rods and concrete extended into a neighboring property farther to the north at a point 20 feet below the surface. Although there was no impact on the surface of his land or on existing uses, the owner of the neighboring property has sued the restaurant owner for trespass. Which party is likely to prevail?",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.862616668177278
+  },
+  {
+   "question": "A defendant and a classmate were students at a state college. They were spending a leisurely afternoon listening to music in the defendant's dorm room. They had just consumed a six-pack of beer when the classmate asked the defendant if there was anything else to drink. The defendant indicated there wasn't and suggested that his classmate drive to the store and buy another six-pack. The classmate told the defendant that his car wasn't working and asked the defendant if he could borrow his. The defendant assented and gave his classmate the keys to his car. The defendant knew that the classmate was drunk when he lent him his car. The classmate was driving to the store at an excessive rate of speed. As he approached an intersection, he was traveling at 70 M. PJ-I. When he came to the intersection, the light turned red. The classmate, who made no effort to stop in time, drove through the red light and collided with another car. The driver of the other car, who had entered the intersection with a green light, was killed in the accident. In the event that the defendant can be convicted of manslaughter, it will most likely be upon the basis of",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6708386154218893
+  },
+  {
+   "question": "Under Article III, federal judicial power extends to which of the following kinds of cases?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.5365678097994739
+  },
+  {
+   "question": "Two women decided to steal some clothing from their favorite store. One of the women carried a large shopping bag containing a gun into the store. The other woman did not know that her partner had a gun in the shopping bag. After the women placed three dresses into the shopping bag, a clerk became suspicious and approached the women. The women tried to leave the store and, as they did, the clerk grabbed the bag, which fell to the floor. When the bag hit the floor, the gun discharged, killing the clerk. Which of the following would be the women's best defense to the charge of felony murder?",
+   "subject": "professional_law",
+   "correct": true,
+   "tau": 0.7086067843798766
+  },
+  {
+   "question": "A man is the owner of record of a parcel of land designated as \"A. \" It is the highest of three neighboring properties on a mountain. The man's friend is the owner of parcel \"B,\" which is situated lower than \"A\" on the mountainside. The man's cousin owns parcel \"C,\" which lies below parcels \"A\" and \"B\" on the mountain slope. In 2000, the man who originally owned all three parcels of land constructed a private drainage system. This system consisted of an underground pipeline that extended across all three parcels of land. Sewage from parcel \"A\" drained through the system to a municipal sewer, which was located at the bottom of the mountain. In 2005, the man sold parcel \"B\" to his friend. The following year, the cousin purchased parcel \"C\" from the man. The deeds to the friend and the cousin did not contain any mention of the man's drainage system. Located on each of the parcels are large ranch-style homes occupied by the respective owners. From the standpoint of the friend and the cousin, thedrainage system would most likely be defined as a(an)",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.0468415512211108
+  },
+  {
+   "question": "A baseball card dealer agreed to sell an extremely rare card to a collector. The collector lived in another state. As part of their agreement, a courier was hired to pick up the card from the dealer and transport it to the collector. The courier was then to get the purchase money from the collector and bring it back to the dealer. But rather than entrusting the genuine card to the courier, the dealer gave him a counterfeit replica that was valueless. After picking up the envelope containing the replica, the courier left the dealer's home and embarked on his trip. The police, however, received a tip concerning the scheme and intercepted the courier's car before he left the city limits. Thereafter, the dealer was arrested and charged with attempting to obtain property by false pretenses. If the dealer contends that the scheme had not progressed far enough to constitute an attempt, it will",
+   "subject": "professional_law",
+   "correct": false,
+   "tau": 0.6327507886212522
+  }
+ ]
+}
